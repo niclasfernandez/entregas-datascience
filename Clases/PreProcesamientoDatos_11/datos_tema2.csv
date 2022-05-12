@@ -1,0 +1,3061 @@
+tiempo_completo,id_personal,mes,mes_id,sku_id,ventas_totales,ingresos_anio_pasado,calificacion_servicio,comentarios_adicionales,fecha_contratacion
+si,1,enero,1,1,18,28800,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,1,6,9600,Excelente,servicial,27/06/2012
+si,1,marzo,3,1,16,25600,Excelente,atento,27/06/2012
+si,1,abril,4,1,1,1600,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,1,6,9600,Excelente,servicial,27/06/2012
+si,1,junio,6,1,1,1600,Excelente,atento,27/06/2012
+si,1,julio,7,1,16,25600,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,1,19,30400,Excelente,servicial,27/06/2012
+si,1,septiembre,9,1,1,1600,Excelente,atento,27/06/2012
+si,1,enero,1,2,5,8000,Regular,lento,27/06/2012
+si,1,febrero,2,2,13,20800,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,2,8,12800,Excelente,servicial,27/06/2012
+si,1,abril,4,2,0,0,Excelente,atento,27/06/2012
+si,1,mayo,5,2,12,19200,Excelente,amable servicial,27/06/2012
+si,1,junio,6,2,11,17600,Excelente,servicial,27/06/2012
+si,1,julio,7,2,8,12800,Excelente,atento,27/06/2012
+si,1,agosto,8,2,20,32000,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,2,16,25600,Excelente,servicial,27/06/2012
+si,1,enero,1,3,13,20800,Regular,tarado,27/06/2012
+si,1,febrero,2,3,17,27200,Excelente,atento,27/06/2012
+si,1,marzo,3,3,13,20800,Excelente,amable servicial,27/06/2012
+si,1,abril,4,3,15,24000,Excelente,servicial,27/06/2012
+si,1,mayo,5,3,6,9600,Excelente,atento,27/06/2012
+si,1,junio,6,3,10,16000,Excelente,amable servicial,27/06/2012
+si,1,julio,7,3,7,11200,Excelente,servicial,27/06/2012
+si,1,agosto,8,3,1,1600,Excelente,atento,27/06/2012
+si,1,septiembre,9,3,8,12800,Excelente,amable servicial,27/06/2012
+si,1,enero,1,4,17,27200,Regular,despistado,27/06/2012
+si,1,febrero,2,4,10,16000,Excelente,servicial,27/06/2012
+si,1,marzo,3,4,9,14400,Excelente,atento,27/06/2012
+si,1,abril,4,4,17,27200,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,4,0,0,Excelente,servicial,27/06/2012
+si,1,junio,6,4,16,25600,Excelente,atento,27/06/2012
+si,1,julio,7,4,2,3200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,4,18,28800,Excelente,servicial,27/06/2012
+si,1,septiembre,9,4,1,1600,Excelente,atento,27/06/2012
+si,1,enero,1,5,18,28800,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,5,15,24000,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,5,14,22400,Excelente,servicial,27/06/2012
+si,1,abril,4,5,12,19200,Excelente,atento,27/06/2012
+si,1,mayo,5,5,6,960000,Excelente,amable servicial,27/06/2012
+si,1,junio,6,5,19,30400,Excelente,servicial,27/06/2012
+si,1,julio,7,5,18,28800,Excelente,atento,27/06/2012
+si,1,agosto,8,5,7,11200,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,5,15,24000,Excelente,servicial,27/06/2012
+si,1,enero,1,6,10,16000,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,6,14,22400,Excelente,atento,27/06/2012
+si,1,marzo,3,6,15,24000,Excelente,amable servicial,27/06/2012
+si,1,abril,4,6,7,11200,Excelente,servicial,27/06/2012
+si,1,mayo,5,6,8,12800,Excelente,atento,27/06/2012
+si,1,junio,6,6,18,28800,Excelente,amable servicial,27/06/2012
+si,1,julio,7,6,14,22400,Excelente,servicial,27/06/2012
+si,1,agosto,8,6,4,6400,Excelente,atento,27/06/2012
+si,1,septiembre,9,6,5,8000,Excelente,amable servicial,27/06/2012
+si,1,enero,1,7,8,12800,Regular,lento,27/06/2012
+si,1,febrero,2,7,6,9600,Excelente,servicial,27/06/2012
+si,1,marzo,3,7,7,11200,Excelente,atento,27/06/2012
+si,1,abril,4,7,15,24000,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,7,0,0,Excelente,servicial,27/06/2012
+si,1,junio,6,7,1,1600,Excelente,atento,27/06/2012
+si,1,julio,7,7,17,27200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,7,10,16000,Excelente,servicial,27/06/2012
+si,1,septiembre,9,7,20,32000,Excelente,atento,27/06/2012
+si,1,enero,1,8,6,9600,Regular,tarado,27/06/2012
+si,1,febrero,2,8,4,6400,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,8,12,19200,Excelente,servicial,27/06/2012
+si,1,abril,4,8,5,8000,Excelente,atento,27/06/2012
+si,1,mayo,5,8,20,32000,Excelente,amable servicial,27/06/2012
+si,1,junio,6,8,8,12800,Excelente,servicial,27/06/2012
+si,1,julio,7,8,5,8000,Excelente,atento,27/06/2012
+si,1,agosto,8,8,12,19200,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,8,11,17600,Excelente,servicial,27/06/2012
+si,1,enero,1,9,5,8000,Regular,despistado,27/06/2012
+si,1,febrero,2,9,0,0,Excelente,atento,27/06/2012
+si,1,marzo,3,9,11,17600,Excelente,amable servicial,27/06/2012
+si,1,abril,4,9,2,3200,Excelente,servicial,27/06/2012
+si,1,mayo,5,9,7,11200,Excelente,atento,27/06/2012
+si,1,junio,6,9,20,32000,Excelente,amable servicial,27/06/2012
+si,1,julio,7,9,3,4800,Excelente,servicial,27/06/2012
+si,1,agosto,8,9,14,22400,Excelente,atento,27/06/2012
+si,1,septiembre,9,9,4,6400,Excelente,amable servicial,27/06/2012
+si,1,enero,1,10,15,24000,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,10,8,12800,Excelente,servicial,27/06/2012
+si,1,marzo,3,10,0,0,Excelente,atento,27/06/2012
+si,1,abril,4,10,7,11200,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,10,12,19200,Excelente,servicial,27/06/2012
+si,1,junio,6,10,2,3200,Excelente,atento,27/06/2012
+si,1,julio,7,10,7,11200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,10,14,22400,Excelente,servicial,27/06/2012
+si,1,septiembre,9,10,11,17600,Excelente,atento,27/06/2012
+si,1,enero,1,11,2,3200,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,11,19,30400,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,11,9,14400,Excelente,servicial,27/06/2012
+si,1,abril,4,11,15,24000,Excelente,atento,27/06/2012
+si,1,mayo,5,11,9,14400,Excelente,amable servicial,27/06/2012
+si,1,junio,6,11,20,32000,Excelente,servicial,27/06/2012
+si,1,julio,7,11,19,30400,Excelente,atento,27/06/2012
+si,1,agosto,8,11,3,4800,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,11,2,3200,Excelente,servicial,27/06/2012
+si,1,enero,1,12,12,19200,Regular,lento,27/06/2012
+si,1,febrero,2,12,17,27200,Excelente,atento,27/06/2012
+si,1,marzo,3,12,16,25600,Excelente,amable servicial,27/06/2012
+si,1,abril,4,12,16,25600,Excelente,servicial,27/06/2012
+si,1,mayo,5,12,10,16000,Excelente,atento,27/06/2012
+si,1,junio,6,12,9,14400,Excelente,amable servicial,27/06/2012
+si,1,julio,7,12,17,27200,Excelente,servicial,27/06/2012
+si,1,agosto,8,12,16,25600,Excelente,atento,27/06/2012
+si,1,septiembre,9,12,20,32000,Excelente,amable servicial,27/06/2012
+si,1,enero,1,13,5,8000,Regular,tarado,27/06/2012
+si,1,febrero,2,13,11,17600,Excelente,servicial,27/06/2012
+si,1,marzo,3,13,11,17600,Excelente,atento,27/06/2012
+si,1,abril,4,13,15,24000,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,13,8,12800,Excelente,servicial,27/06/2012
+si,1,junio,6,13,4,6400,Excelente,atento,27/06/2012
+si,1,julio,7,13,7,11200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,13,7,11200,Excelente,servicial,27/06/2012
+si,1,septiembre,9,13,9,14400,Excelente,atento,27/06/2012
+si,1,enero,1,14,0,-1000,Regular,despistado,27/06/2012
+si,1,febrero,2,14,4,6400,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,14,13,20800,Excelente,servicial,27/06/2012
+si,1,abril,4,14,1,1600,Excelente,atento,27/06/2012
+si,1,mayo,5,14,18,28800,Excelente,amable servicial,27/06/2012
+si,1,junio,6,14,15,24000,Excelente,servicial,27/06/2012
+si,1,julio,7,14,2,3200,Excelente,atento,27/06/2012
+si,1,agosto,8,14,19,30400,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,14,15,24000,Excelente,servicial,27/06/2012
+si,1,enero,1,15,10,16000,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,15,12,19200,Excelente,atento,27/06/2012
+si,1,marzo,3,15,14,22400,Excelente,amable servicial,27/06/2012
+si,1,abril,4,15,4,6400,Excelente,servicial,27/06/2012
+si,1,mayo,5,15,15,24000,Excelente,atento,27/06/2012
+si,1,junio,6,15,8,12800,Excelente,amable servicial,27/06/2012
+si,1,julio,7,15,6,9600,Excelente,servicial,27/06/2012
+si,1,agosto,8,15,2,3200,Excelente,atento,27/06/2012
+si,1,septiembre,9,15,16,25600,Excelente,amable servicial,27/06/2012
+si,1,enero,1,16,17,27200,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,16,3,4800,Excelente,servicial,27/06/2012
+si,1,marzo,3,16,20,32000,Excelente,atento,27/06/2012
+si,1,abril,4,16,12,19200,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,16,3,4800,Excelente,servicial,27/06/2012
+si,1,junio,6,16,5,8000,Excelente,atento,27/06/2012
+si,1,julio,7,16,9,14400,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,16,9,14400,Excelente,servicial,27/06/2012
+si,1,septiembre,9,16,2,3200,Excelente,atento,27/06/2012
+si,1,enero,1,17,10,16000,Regular,lento,27/06/2012
+si,1,febrero,2,17,18,28800,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,17,16,25600,Excelente,servicial,27/06/2012
+si,1,abril,4,17,1,1600,Excelente,atento,27/06/2012
+si,1,mayo,5,17,12,19200,Excelente,amable servicial,27/06/2012
+si,1,junio,6,17,10,16000,Excelente,servicial,27/06/2012
+si,1,julio,7,17,16,25600,Excelente,atento,27/06/2012
+si,1,agosto,8,17,3,4800,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,17,3,4800,Excelente,servicial,27/06/2012
+si,1,enero,1,18,19,30400,Regular,tarado,27/06/2012
+si,1,febrero,2,18,10,16000,Excelente,atento,27/06/2012
+si,1,marzo,3,18,15,24000,Excelente,amable servicial,27/06/2012
+si,1,abril,4,18,20,32000,Excelente,servicial,27/06/2012
+si,1,mayo,5,18,4,6400,Excelente,atento,27/06/2012
+si,1,junio,6,18,3,4800,Excelente,amable servicial,27/06/2012
+si,1,julio,7,18,15,24000,Excelente,servicial,27/06/2012
+si,1,agosto,8,18,11,17600,Excelente,atento,27/06/2012
+si,1,septiembre,9,18,19,30400,Excelente,amable servicial,27/06/2012
+si,1,enero,1,19,10,16000,Regular,despistado,27/06/2012
+si,1,febrero,2,19,14,22400,Excelente,servicial,27/06/2012
+si,1,marzo,3,19,19,30400,Excelente,atento,27/06/2012
+si,1,abril,4,19,15,24000,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,19,14,22400,Excelente,servicial,27/06/2012
+si,1,junio,6,19,5,8000,Excelente,atento,27/06/2012
+si,1,julio,7,19,5,8000,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,19,10,16000,Excelente,servicial,27/06/2012
+si,1,septiembre,9,19,8,12800,Excelente,atento,27/06/2012
+si,1,enero,1,20,15,24000,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,20,14,22400,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,20,11,17600,Excelente,servicial,27/06/2012
+si,1,abril,4,20,4,6400,Excelente,atento,27/06/2012
+si,1,mayo,5,20,0,0,Excelente,amable servicial,27/06/2012
+si,1,junio,6,20,4,6400,Excelente,servicial,27/06/2012
+si,1,julio,7,20,8,12800,Excelente,atento,27/06/2012
+si,1,agosto,8,20,9,14400,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,20,15,24000,Excelente,servicial,27/06/2012
+si,1,enero,1,21,9,14400,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,21,19,30400,Excelente,atento,27/06/2012
+si,1,marzo,3,21,1,1600,Excelente,amable servicial,27/06/2012
+si,1,abril,4,21,12,19200,Excelente,servicial,27/06/2012
+si,1,mayo,5,21,0,0,Excelente,atento,27/06/2012
+si,1,junio,6,21,11,17600,Excelente,amable servicial,27/06/2012
+si,1,julio,7,21,15,24000,Excelente,servicial,27/06/2012
+si,1,agosto,8,21,0,0,Excelente,atento,27/06/2012
+si,1,septiembre,9,21,7,11200,Excelente,amable servicial,27/06/2012
+si,1,enero,1,22,6,9600,Regular,lento,27/06/2012
+si,1,febrero,2,22,11,17600,Excelente,servicial,27/06/2012
+si,1,marzo,3,22,1,1600,Excelente,atento,27/06/2012
+si,1,abril,4,22,9,1440000,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,22,19,30400,Excelente,servicial,27/06/2012
+si,1,junio,6,22,0,0,Excelente,atento,27/06/2012
+si,1,julio,7,22,2,3200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,22,12,19200,Excelente,servicial,27/06/2012
+si,1,septiembre,9,22,8,12800,Excelente,atento,27/06/2012
+si,1,enero,1,23,14,22400,Regular,tarado,27/06/2012
+si,1,febrero,2,23,20,32000,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,23,15,24000,Excelente,servicial,27/06/2012
+si,1,abril,4,23,3,4800,Excelente,atento,27/06/2012
+si,1,mayo,5,23,2,3200,Excelente,amable servicial,27/06/2012
+si,1,junio,6,23,0,0,Excelente,servicial,27/06/2012
+si,1,julio,7,23,7,11200,Excelente,atento,27/06/2012
+si,1,agosto,8,23,15,24000,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,23,14,22400,Excelente,servicial,27/06/2012
+si,1,enero,1,24,4,6400,Regular,despistado,27/06/2012
+si,1,febrero,2,24,16,25600,Excelente,atento,27/06/2012
+si,1,marzo,3,24,9,14400,Excelente,amable servicial,27/06/2012
+si,1,abril,4,24,8,12800,Excelente,servicial,27/06/2012
+si,1,mayo,5,24,8,12800,Excelente,atento,27/06/2012
+si,1,junio,6,24,12,19200,Excelente,amable servicial,27/06/2012
+si,1,julio,7,24,16,25600,Excelente,servicial,27/06/2012
+si,1,agosto,8,24,6,9600,Excelente,atento,27/06/2012
+si,1,septiembre,9,24,1,1600,Excelente,amable servicial,27/06/2012
+si,1,enero,1,25,13,20800,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,25,6,9600,Excelente,servicial,27/06/2012
+si,1,marzo,3,25,13,20800,Excelente,atento,27/06/2012
+si,1,abril,4,25,4,6400,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,25,8,12800,Excelente,servicial,27/06/2012
+si,1,junio,6,25,16,25600,Excelente,atento,27/06/2012
+si,1,julio,7,25,18,28800,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,25,1,1600,Excelente,servicial,27/06/2012
+si,1,septiembre,9,25,14,22400,Excelente,atento,27/06/2012
+si,1,enero,1,26,10,16000,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,26,4,6400,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,26,7,11200,Excelente,servicial,27/06/2012
+si,1,abril,4,26,1,1600,Excelente,atento,27/06/2012
+si,1,mayo,5,26,15,24000,Excelente,amable servicial,27/06/2012
+si,1,junio,6,26,6,9600,Excelente,servicial,27/06/2012
+si,1,julio,7,26,6,9600,Excelente,atento,27/06/2012
+si,1,agosto,8,26,14,22400,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,26,18,28800,Excelente,servicial,27/06/2012
+si,1,enero,1,27,5,8000,Regular,lento,27/06/2012
+si,1,febrero,2,27,10,16000,Excelente,atento,27/06/2012
+si,1,marzo,3,27,0,0,Excelente,amable servicial,27/06/2012
+si,1,abril,4,27,13,20800,Excelente,servicial,27/06/2012
+si,1,mayo,5,27,6,9600,Excelente,atento,27/06/2012
+si,1,junio,6,27,19,30400,Excelente,amable servicial,27/06/2012
+si,1,julio,7,27,50,80000,Excelente,servicial,27/06/2012
+si,1,agosto,8,27,0,0,Excelente,atento,27/06/2012
+si,1,septiembre,9,27,2,3200,Excelente,amable servicial,27/06/2012
+si,1,enero,1,28,3,4800,Regular,tarado,27/06/2012
+si,1,febrero,2,28,5,8000,Excelente,servicial,27/06/2012
+si,1,marzo,3,28,0,0,Excelente,atento,27/06/2012
+si,1,abril,4,28,9,14400,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,28,2,3200,Excelente,servicial,27/06/2012
+si,1,junio,6,28,6,9600,Excelente,atento,27/06/2012
+si,1,julio,7,28,13,20800,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,28,15,24000,Excelente,servicial,27/06/2012
+si,1,septiembre,9,28,14,22400,Excelente,atento,27/06/2012
+si,1,enero,1,29,1,1600,Regular,despistado,27/06/2012
+si,1,febrero,2,29,2,3200,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,29,17,27200,Excelente,servicial,27/06/2012
+si,1,abril,4,29,6,9600,Excelente,atento,27/06/2012
+si,1,mayo,5,29,8,12800,Excelente,amable servicial,27/06/2012
+si,1,junio,6,29,8,12800,Excelente,servicial,27/06/2012
+si,1,julio,7,29,11,17600,Excelente,atento,27/06/2012
+si,1,agosto,8,29,9,14400,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,29,19,30400,Excelente,servicial,27/06/2012
+si,1,enero,1,30,12,19200,Regular,despistado tardado,27/06/2012
+si,1,febrero,2,30,9,14400,Excelente,atento,27/06/2012
+si,1,marzo,3,30,11,17600,Excelente,amable servicial,27/06/2012
+si,1,abril,4,30,19,30400,Excelente,servicial,27/06/2012
+si,1,mayo,5,30,3,4800,Excelente,atento,27/06/2012
+si,1,junio,6,30,20,32000,Excelente,amable servicial,27/06/2012
+si,1,julio,7,30,2,3200,Excelente,servicial,27/06/2012
+si,1,agosto,8,30,8,12800,Excelente,atento,27/06/2012
+si,1,septiembre,9,30,5,8000,Excelente,amable servicial,27/06/2012
+si,1,enero,1,31,5,8000,Regular,lento servicial amigable,27/06/2012
+si,1,febrero,2,31,10,16000,Excelente,servicial,27/06/2012
+si,1,marzo,3,31,15,24000,Excelente,atento,27/06/2012
+si,1,abril,4,31,12,19200,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,31,0,0,Excelente,servicial,27/06/2012
+si,1,junio,6,31,13,20800,Excelente,atento,27/06/2012
+si,1,julio,7,31,12,19200,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,31,13,20800,Excelente,servicial,27/06/2012
+si,1,septiembre,9,31,18,28800,Excelente,atento,27/06/2012
+si,1,enero,1,32,19,30400,Regular,lento,27/06/2012
+si,1,febrero,2,32,10,16000,Excelente,amable servicial,27/06/2012
+si,1,marzo,3,32,0,0,Excelente,servicial,27/06/2012
+si,1,abril,4,32,17,27200,Excelente,atento,27/06/2012
+si,1,mayo,5,32,13,20800,Excelente,amable servicial,27/06/2012
+si,1,junio,6,32,4,6400,Excelente,servicial,27/06/2012
+si,1,julio,7,32,12,19200,Excelente,atento,27/06/2012
+si,1,agosto,8,32,13,20800,Excelente,amable servicial,27/06/2012
+si,1,septiembre,9,32,13,20800,Excelente,servicial,27/06/2012
+si,1,enero,1,33,16,25600,Regular,tarado,27/06/2012
+si,1,febrero,2,33,12,19200,Excelente,atento,27/06/2012
+si,1,marzo,3,33,12,19200,Excelente,amable servicial,27/06/2012
+si,1,abril,4,33,11,17600,Excelente,servicial,27/06/2012
+si,1,mayo,5,33,6,9600,Excelente,atento,27/06/2012
+si,1,junio,6,33,6,9600,Excelente,amable servicial,27/06/2012
+si,1,julio,7,33,19,30400,Excelente,servicial,27/06/2012
+si,1,agosto,8,33,19,30400,Excelente,atento,27/06/2012
+si,1,septiembre,9,33,18,28800,Excelente,amable servicial,27/06/2012
+si,1,enero,1,34,16,25600,Regular,despistado,27/06/2012
+si,1,febrero,2,34,8,12800,Excelente,servicial,27/06/2012
+si,1,marzo,3,34,4,6400,Excelente,atento,27/06/2012
+si,1,abril,4,34,18,28800,Excelente,amable servicial,27/06/2012
+si,1,mayo,5,34,14,22400,Excelente,servicial,27/06/2012
+si,1,junio,6,34,2,3200,Excelente,atento,27/06/2012
+si,1,julio,7,34,16,25600,Excelente,amable servicial,27/06/2012
+si,1,agosto,8,34,7,11200,Excelente,servicial,27/06/2012
+si,1,septiembre,9,34,2,3200,Excelente,atento,27/06/2012
+si,2,enero,1,1,12,19200,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,1,2,3200,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,1,3,4800,Excelente,servicial,11/08/2010
+si,2,abril,4,1,13,20800,Excelente,atento,11/08/2010
+si,2,mayo,5,1,1,1600,Excelente,amable servicial,11/08/2010
+si,2,junio,6,1,7,11200,Excelente,servicial,11/08/2010
+si,2,julio,7,1,4,6400,Excelente,atento,11/08/2010
+si,2,agosto,8,1,0,0,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,1,14,22400,Excelente,servicial,11/08/2010
+si,2,enero,1,2,19,30400,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,2,16,25600,Excelente,atento,11/08/2010
+si,2,marzo,3,2,20,32000,Excelente,amable servicial,11/08/2010
+si,2,abril,4,2,7,11200,Excelente,servicial,11/08/2010
+si,2,mayo,5,2,3,4800,Excelente,atento,11/08/2010
+si,2,junio,6,2,14,22400,Excelente,amable servicial,11/08/2010
+si,2,julio,7,2,11,17600,Excelente,servicial,11/08/2010
+si,2,agosto,8,2,10,16000,Excelente,atento,11/08/2010
+si,2,septiembre,9,2,2,3200,Excelente,amable servicial,11/08/2010
+si,2,enero,1,3,5,8000,Regular,lento,11/08/2010
+si,2,febrero,2,3,7,11200,Excelente,servicial,11/08/2010
+si,2,marzo,3,3,17,27200,Excelente,atento,11/08/2010
+si,2,abril,4,3,16,25600,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,3,17,27200,Excelente,servicial,11/08/2010
+si,2,junio,6,3,5,8000,Excelente,atento,11/08/2010
+si,2,julio,7,3,13,20800,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,3,2,3200,Excelente,servicial,11/08/2010
+si,2,septiembre,9,3,13,20800,Excelente,atento,11/08/2010
+si,2,enero,1,4,17,27200,Regular,tarado,11/08/2010
+si,2,febrero,2,4,1,1600,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,4,17,27200,Excelente,servicial,11/08/2010
+si,2,abril,4,4,4,6400,Excelente,atento,11/08/2010
+si,2,mayo,5,4,7,11200,Excelente,amable servicial,11/08/2010
+si,2,junio,6,4,17,27200,Excelente,servicial,11/08/2010
+si,2,julio,7,4,3,4800,Excelente,atento,11/08/2010
+si,2,agosto,8,4,9,14400,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,4,18,28800,Excelente,servicial,11/08/2010
+si,2,enero,1,5,1,1600,Regular,despistado,11/08/2010
+si,2,febrero,2,5,12,19200,Excelente,atento,11/08/2010
+si,2,marzo,3,5,5,8000,Excelente,amable servicial,11/08/2010
+si,2,abril,4,5,18,28800,Excelente,servicial,11/08/2010
+si,2,mayo,5,5,20,32000,Excelente,atento,11/08/2010
+si,2,junio,6,5,1,1600,Excelente,amable servicial,11/08/2010
+si,2,julio,7,5,14,22400,Excelente,servicial,11/08/2010
+si,2,agosto,8,5,7,11200,Excelente,atento,11/08/2010
+si,2,septiembre,9,5,19,30400,Excelente,amable servicial,11/08/2010
+si,2,enero,1,6,13,20800,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,6,3,4800,Excelente,servicial,11/08/2010
+si,2,marzo,3,6,9,14400,Excelente,atento,11/08/2010
+si,2,abril,4,6,20,32000,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,6,4,6400,Excelente,servicial,11/08/2010
+si,2,junio,6,6,11,17600,Excelente,atento,11/08/2010
+si,2,julio,7,6,14,22400,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,6,11,17600,Excelente,servicial,11/08/2010
+si,2,septiembre,9,6,4,6400,Excelente,atento,11/08/2010
+si,2,enero,1,7,20,32000,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,7,15,24000,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,7,14,22400,Excelente,servicial,11/08/2010
+si,2,abril,4,7,18,28800,Excelente,atento,11/08/2010
+si,2,mayo,5,7,2,3200,Excelente,amable servicial,11/08/2010
+si,2,junio,6,7,4,6400,Excelente,servicial,11/08/2010
+si,2,julio,7,7,2,3200,Excelente,atento,11/08/2010
+si,2,agosto,8,7,8,12800,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,7,0,0,Excelente,servicial,11/08/2010
+si,2,enero,1,8,5,8000,Regular,lento,11/08/2010
+si,2,febrero,2,8,20,32000,Excelente,atento,11/08/2010
+si,2,marzo,3,8,13,20800,Excelente,amable servicial,11/08/2010
+si,2,abril,4,8,5,8000,Excelente,servicial,11/08/2010
+si,2,mayo,5,8,5,8000,Excelente,atento,11/08/2010
+si,2,junio,6,8,5,8000,Excelente,amable servicial,11/08/2010
+si,2,julio,7,8,16,25600,Excelente,servicial,11/08/2010
+si,2,agosto,8,8,16,25600,Excelente,atento,11/08/2010
+si,2,septiembre,9,8,18,28800,Excelente,amable servicial,11/08/2010
+si,2,enero,1,9,14,22400,Regular,tarado,11/08/2010
+si,2,febrero,2,9,16,25600,Excelente,servicial,11/08/2010
+si,2,marzo,3,9,7,11200,Excelente,atento,11/08/2010
+si,2,abril,4,9,4,6400,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,9,17,27200,Excelente,servicial,11/08/2010
+si,2,junio,6,9,0,0,Excelente,atento,11/08/2010
+si,2,julio,7,9,12,19200,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,9,9,14400,Excelente,servicial,11/08/2010
+si,2,septiembre,9,9,5,8000,Excelente,atento,11/08/2010
+si,2,enero,1,10,9,14400,Regular,despistado,11/08/2010
+si,2,febrero,2,10,1,1600,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,10,7,11200,Excelente,servicial,11/08/2010
+si,2,abril,4,10,18,28800,Excelente,atento,11/08/2010
+si,2,mayo,5,10,11,17600,Excelente,amable servicial,11/08/2010
+si,2,junio,6,10,7,11200,Excelente,servicial,11/08/2010
+si,2,julio,7,10,15,24000,Excelente,atento,11/08/2010
+si,2,agosto,8,10,10,16000,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,10,16,25600,Excelente,servicial,11/08/2010
+si,2,enero,1,11,13,20800,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,11,11,17600,Excelente,atento,11/08/2010
+si,2,marzo,3,11,20,32000,Excelente,amable servicial,11/08/2010
+si,2,abril,4,11,13,20800,Excelente,servicial,11/08/2010
+si,2,mayo,5,11,9,14400,Excelente,atento,11/08/2010
+si,2,junio,6,11,4,6400,Excelente,amable servicial,11/08/2010
+si,2,julio,7,11,2,3200,Excelente,servicial,11/08/2010
+si,2,agosto,8,11,15,24000,Excelente,atento,11/08/2010
+si,2,septiembre,9,11,19,30400,Excelente,amable servicial,11/08/2010
+si,2,enero,1,12,19,30400,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,12,14,22400,Excelente,servicial,11/08/2010
+si,2,marzo,3,12,13,20800,Excelente,atento,11/08/2010
+si,2,abril,4,12,10,16000,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,12,14,22400,Excelente,servicial,11/08/2010
+si,2,junio,6,12,3,4800,Excelente,atento,11/08/2010
+si,2,julio,7,12,14,22400,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,12,8,12800,Excelente,servicial,11/08/2010
+si,2,septiembre,9,12,10,16000,Excelente,atento,11/08/2010
+si,2,enero,1,13,11,17600,Regular,lento,11/08/2010
+si,2,febrero,2,13,20,32000,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,13,17,27200,Excelente,servicial,11/08/2010
+si,2,abril,4,13,0,0,Excelente,atento,11/08/2010
+si,2,mayo,5,13,1,1600,Excelente,amable servicial,11/08/2010
+si,2,junio,6,13,19,30400,Excelente,servicial,11/08/2010
+si,2,julio,7,13,3,4800,Excelente,atento,11/08/2010
+si,2,agosto,8,13,14,22400,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,13,8,12800,Excelente,servicial,11/08/2010
+si,2,enero,1,14,14,22400,Regular,tarado,11/08/2010
+si,2,febrero,2,14,16,25600,Excelente,atento,11/08/2010
+si,2,marzo,3,14,7,11200,Excelente,amable servicial,11/08/2010
+si,2,abril,4,14,6,9600,Excelente,servicial,11/08/2010
+si,2,mayo,5,14,10,16000,Excelente,atento,11/08/2010
+si,2,junio,6,14,7,11200,Excelente,amable servicial,11/08/2010
+si,2,julio,7,14,6,9600,Excelente,servicial,11/08/2010
+si,2,agosto,8,14,17,27200,Excelente,atento,11/08/2010
+si,2,septiembre,9,14,13,20800,Excelente,amable servicial,11/08/2010
+si,2,enero,1,15,15,24000,Regular,despistado,11/08/2010
+si,2,febrero,2,15,9,14400,Excelente,servicial,11/08/2010
+si,2,marzo,3,15,16,25600,Excelente,atento,11/08/2010
+si,2,abril,4,15,12,19200,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,15,8,12800,Excelente,servicial,11/08/2010
+si,2,junio,6,15,9,14400,Excelente,atento,11/08/2010
+si,2,julio,7,15,16,25600,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,15,19,30400,Excelente,servicial,11/08/2010
+si,2,septiembre,9,15,15,24000,Excelente,atento,11/08/2010
+si,2,enero,1,16,19,30400,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,16,17,27200,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,16,1,1600,Excelente,servicial,11/08/2010
+si,2,abril,4,16,2,3200,Excelente,atento,11/08/2010
+si,2,mayo,5,16,11,17600,Excelente,amable servicial,11/08/2010
+si,2,junio,6,16,6,9600,Excelente,servicial,11/08/2010
+si,2,julio,7,16,7,11200,Excelente,atento,11/08/2010
+si,2,agosto,8,16,17,27200,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,16,18,28800,Excelente,servicial,11/08/2010
+si,2,enero,1,17,3,4800,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,17,8,12800,Excelente,atento,11/08/2010
+si,2,marzo,3,17,9,14400,Excelente,amable servicial,11/08/2010
+si,2,abril,4,17,15,24000,Excelente,servicial,11/08/2010
+si,2,mayo,5,17,10,16000,Excelente,atento,11/08/2010
+si,2,junio,6,17,15,24000,Excelente,amable servicial,11/08/2010
+si,2,julio,7,17,16,25600,Excelente,servicial,11/08/2010
+si,2,agosto,8,17,8,12800,Excelente,atento,11/08/2010
+si,2,septiembre,9,17,10,16000,Excelente,amable servicial,11/08/2010
+si,2,enero,1,18,15,24000,Regular,lento,11/08/2010
+si,2,febrero,2,18,12,19200,Excelente,servicial,11/08/2010
+si,2,marzo,3,18,13,20800,Excelente,atento,11/08/2010
+si,2,abril,4,18,12,19200,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,18,9,14400,Excelente,servicial,11/08/2010
+si,2,junio,6,18,17,27200,Excelente,atento,11/08/2010
+si,2,julio,7,18,13,20800,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,18,15,24000,Excelente,servicial,11/08/2010
+si,2,septiembre,9,18,17,27200,Excelente,atento,11/08/2010
+si,2,enero,1,19,10,16000,Regular,tarado,11/08/2010
+si,2,febrero,2,19,8,12800,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,19,17,27200,Excelente,servicial,11/08/2010
+si,2,abril,4,19,10,16000,Excelente,atento,11/08/2010
+si,2,mayo,5,19,1,1600,Excelente,amable servicial,11/08/2010
+si,2,junio,6,19,0,0,Excelente,servicial,11/08/2010
+si,2,julio,7,19,17,27200,Excelente,atento,11/08/2010
+si,2,agosto,8,19,6,9600,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,19,1,1600,Excelente,servicial,11/08/2010
+si,2,enero,1,20,15,24000,Regular,despistado,11/08/2010
+si,2,febrero,2,20,3,4800,Excelente,atento,11/08/2010
+si,2,marzo,3,20,3,4800,Excelente,amable servicial,11/08/2010
+si,2,abril,4,20,10,16000,Excelente,servicial,11/08/2010
+si,2,mayo,5,20,7,11200,Excelente,atento,11/08/2010
+si,2,junio,6,20,17,27200,Excelente,amable servicial,11/08/2010
+si,2,julio,7,20,15,24000,Excelente,servicial,11/08/2010
+si,2,agosto,8,20,2,3200,Excelente,atento,11/08/2010
+si,2,septiembre,9,20,12,19200,Excelente,amable servicial,11/08/2010
+si,2,enero,1,21,6,9600,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,21,11,17600,Excelente,servicial,11/08/2010
+si,2,marzo,3,21,4,6400,Excelente,atento,11/08/2010
+si,2,abril,4,21,15,24000,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,21,19,30400,Excelente,servicial,11/08/2010
+si,2,junio,6,21,5,8000,Excelente,atento,11/08/2010
+si,2,julio,7,21,9,14400,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,21,13,20800,Excelente,servicial,11/08/2010
+si,2,septiembre,9,21,13,20800,Excelente,atento,11/08/2010
+si,2,enero,1,22,10,16000,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,22,19,30400,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,22,0,0,Excelente,servicial,11/08/2010
+si,2,abril,4,22,10,16000,Excelente,atento,11/08/2010
+si,2,mayo,5,22,15,24000,Excelente,amable servicial,11/08/2010
+si,2,junio,6,22,5,8000,Excelente,servicial,11/08/2010
+si,2,julio,7,22,10,16000,Excelente,atento,11/08/2010
+si,2,agosto,8,22,6,9600,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,22,17,27200,Excelente,servicial,11/08/2010
+si,2,enero,1,23,0,0,Regular,lento,11/08/2010
+si,2,febrero,2,23,6,9600,Excelente,atento,11/08/2010
+si,2,marzo,3,23,13,20800,Excelente,amable servicial,11/08/2010
+si,2,abril,4,23,20,32000,Excelente,servicial,11/08/2010
+si,2,mayo,5,23,9,14400,Excelente,atento,11/08/2010
+si,2,junio,6,23,20,32000,Excelente,amable servicial,11/08/2010
+si,2,julio,7,23,1,1600,Excelente,servicial,11/08/2010
+si,2,agosto,8,23,9,14400,Excelente,atento,11/08/2010
+si,2,septiembre,9,23,16,25600,Excelente,amable servicial,11/08/2010
+si,2,enero,1,24,19,30400,Regular,tarado,11/08/2010
+si,2,febrero,2,24,10,16000,Excelente,servicial,11/08/2010
+si,2,marzo,3,24,13,20800,Excelente,atento,11/08/2010
+si,2,abril,4,24,12,19200,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,24,11,17600,Excelente,servicial,11/08/2010
+si,2,junio,6,24,1,1600,Excelente,atento,11/08/2010
+si,2,julio,7,24,14,22400,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,24,13,20800,Excelente,servicial,11/08/2010
+si,2,septiembre,9,24,10,16000,Excelente,atento,11/08/2010
+si,2,enero,1,25,6,9600,Regular,despistado,11/08/2010
+si,2,febrero,2,25,1,1600,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,25,11,17600,Excelente,servicial,11/08/2010
+si,2,abril,4,25,19,30400,Excelente,atento,11/08/2010
+si,2,mayo,5,25,3,4800,Excelente,amable servicial,11/08/2010
+si,2,junio,6,25,17,27200,Excelente,servicial,11/08/2010
+si,2,julio,7,25,5,8000,Excelente,atento,11/08/2010
+si,2,agosto,8,25,11,17600,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,25,2,3200,Excelente,servicial,11/08/2010
+si,2,enero,1,26,9,14400,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,26,18,28800,Excelente,atento,11/08/2010
+si,2,marzo,3,26,6,9600,Excelente,amable servicial,11/08/2010
+si,2,abril,4,26,15,24000,Excelente,servicial,11/08/2010
+si,2,mayo,5,26,10,16000,Excelente,atento,11/08/2010
+si,2,junio,6,26,20,32000,Excelente,amable servicial,11/08/2010
+si,2,julio,7,26,14,22400,Excelente,servicial,11/08/2010
+si,2,agosto,8,26,18,28800,Excelente,atento,11/08/2010
+si,2,septiembre,9,26,18,28800,Excelente,amable servicial,11/08/2010
+si,2,enero,1,27,5,8000,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,27,2,3200,Excelente,servicial,11/08/2010
+si,2,marzo,3,27,5,8000,Excelente,atento,11/08/2010
+si,2,abril,4,27,11,17600,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,27,0,0,Excelente,servicial,11/08/2010
+si,2,junio,6,27,20,32000,Excelente,atento,11/08/2010
+si,2,julio,7,27,3,4800,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,27,6,9600,Excelente,servicial,11/08/2010
+si,2,septiembre,9,27,16,25600,Excelente,atento,11/08/2010
+si,2,enero,1,28,4,6400,Regular,lento,11/08/2010
+si,2,febrero,2,28,1,1600,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,28,3,4800,Excelente,servicial,11/08/2010
+si,2,abril,4,28,12,19200,Excelente,atento,11/08/2010
+si,2,mayo,5,28,13,20800,Excelente,amable servicial,11/08/2010
+si,2,junio,6,28,2,3200,Excelente,servicial,11/08/2010
+si,2,julio,7,28,18,28800,Excelente,atento,11/08/2010
+si,2,agosto,8,28,10,16000,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,28,17,27200,Excelente,servicial,11/08/2010
+si,2,enero,1,29,20,32000,Regular,tarado,11/08/2010
+si,2,febrero,2,29,3,4800,Excelente,atento,11/08/2010
+si,2,marzo,3,29,14,22400,Excelente,amable servicial,11/08/2010
+si,2,abril,4,29,16,25600,Excelente,servicial,11/08/2010
+si,2,mayo,5,29,10,16000,Excelente,atento,11/08/2010
+si,2,junio,6,29,9,14400,Excelente,amable servicial,11/08/2010
+si,2,julio,7,29,20,32000,Excelente,servicial,11/08/2010
+si,2,agosto,8,29,18,28800,Excelente,atento,11/08/2010
+si,2,septiembre,9,29,14,22400,Excelente,amable servicial,11/08/2010
+si,2,enero,1,30,14,22400,Regular,despistado,11/08/2010
+si,2,febrero,2,30,9,14400,Excelente,servicial,11/08/2010
+si,2,marzo,3,30,13,20800,Excelente,atento,11/08/2010
+si,2,abril,4,30,15,24000,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,30,6,9600,Excelente,servicial,11/08/2010
+si,2,junio,6,30,0,0,Excelente,atento,11/08/2010
+si,2,julio,7,30,11,17600,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,30,5,8000,Excelente,servicial,11/08/2010
+si,2,septiembre,9,30,19,30400,Excelente,atento,11/08/2010
+si,2,enero,1,31,3,4800,Regular,despistado tardado,11/08/2010
+si,2,febrero,2,31,6,9600,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,31,3,4800,Excelente,servicial,11/08/2010
+si,2,abril,4,31,0,0,Excelente,atento,11/08/2010
+si,2,mayo,5,31,5,8000,Excelente,amable servicial,11/08/2010
+si,2,junio,6,31,13,20800,Excelente,servicial,11/08/2010
+si,2,julio,7,31,14,22400,Excelente,atento,11/08/2010
+si,2,agosto,8,31,0,0,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,31,20,32000,Excelente,servicial,11/08/2010
+si,2,enero,1,32,9,14400,Regular,lento servicial amigable,11/08/2010
+si,2,febrero,2,32,0,0,Excelente,atento,11/08/2010
+si,2,marzo,3,32,18,28800,Excelente,amable servicial,11/08/2010
+si,2,abril,4,32,11,17600,Excelente,servicial,11/08/2010
+si,2,mayo,5,32,18,28800,Excelente,atento,11/08/2010
+si,2,junio,6,32,10,16000,Excelente,amable servicial,11/08/2010
+si,2,julio,7,32,11,17600,Excelente,servicial,11/08/2010
+si,2,agosto,8,32,12,19200,Excelente,atento,11/08/2010
+si,2,septiembre,9,32,20,32000,Excelente,amable servicial,11/08/2010
+si,2,enero,1,33,17,27200,Regular,lento,11/08/2010
+si,2,febrero,2,33,17,27200,Excelente,servicial,11/08/2010
+si,2,marzo,3,33,1,1600,Excelente,atento,11/08/2010
+si,2,abril,4,33,3,4800,Excelente,amable servicial,11/08/2010
+si,2,mayo,5,33,3,4800,Excelente,servicial,11/08/2010
+si,2,junio,6,33,13,20800,Excelente,atento,11/08/2010
+si,2,julio,7,33,15,24000,Excelente,amable servicial,11/08/2010
+si,2,agosto,8,33,12,19200,Excelente,servicial,11/08/2010
+si,2,septiembre,9,33,15,24000,Excelente,atento,11/08/2010
+si,2,enero,1,34,6,9600,Regular,tarado,11/08/2010
+si,2,febrero,2,34,0,0,Excelente,amable servicial,11/08/2010
+si,2,marzo,3,34,15,24000,Excelente,servicial,11/08/2010
+si,2,abril,4,34,10,16000,Excelente,atento,11/08/2010
+si,2,mayo,5,34,20,32000,Excelente,amable servicial,11/08/2010
+si,2,junio,6,34,3,4800,Excelente,servicial,11/08/2010
+si,2,julio,7,34,17,27200,Excelente,atento,11/08/2010
+si,2,agosto,8,34,7,11200,Excelente,amable servicial,11/08/2010
+si,2,septiembre,9,34,4,6400,Excelente,servicial,11/08/2010
+si,3,enero,1,1,19,30400,Regular,despistado,22/07/2018
+si,3,febrero,2,1,3,4800,Excelente,atento,22/07/2018
+si,3,marzo,3,1,15,24000,Excelente,amable servicial,22/07/2018
+si,3,abril,4,1,4,6400,Excelente,servicial,22/07/2018
+si,3,mayo,5,1,14,22400,Excelente,atento,22/07/2018
+si,3,junio,6,1,5,8000,Excelente,amable servicial,22/07/2018
+si,3,julio,7,1,15,24000,Excelente,servicial,22/07/2018
+si,3,agosto,8,1,7,11200,Excelente,atento,22/07/2018
+si,3,septiembre,9,1,7,11200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,2,11,17600,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,2,11,17600,Excelente,servicial,22/07/2018
+si,3,marzo,3,2,1,1600,Excelente,atento,22/07/2018
+si,3,abril,4,2,17,27200,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,2,15,24000,Excelente,servicial,22/07/2018
+si,3,junio,6,2,20,32000,Excelente,atento,22/07/2018
+si,3,julio,7,2,13,20800,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,2,16,25600,Excelente,servicial,22/07/2018
+si,3,septiembre,9,2,3,4800,Excelente,atento,22/07/2018
+si,3,enero,1,3,6,9600,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,3,19,30400,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,3,7,11200,Excelente,servicial,22/07/2018
+si,3,abril,4,3,13,20800,Excelente,atento,22/07/2018
+si,3,mayo,5,3,5,8000,Excelente,amable servicial,22/07/2018
+si,3,junio,6,3,8,12800,Excelente,servicial,22/07/2018
+si,3,julio,7,3,19,30400,Excelente,atento,22/07/2018
+si,3,agosto,8,3,12,19200,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,3,6,9600,Excelente,servicial,22/07/2018
+si,3,enero,1,4,13,20800,Regular,lento,22/07/2018
+si,3,febrero,2,4,12,19200,Excelente,atento,22/07/2018
+si,3,marzo,3,4,13,20800,Excelente,amable servicial,22/07/2018
+si,3,abril,4,4,12,19200,Excelente,servicial,22/07/2018
+si,3,mayo,5,4,3,4800,Excelente,atento,22/07/2018
+si,3,junio,6,4,19,30400,Excelente,amable servicial,22/07/2018
+si,3,julio,7,4,3,4800,Excelente,servicial,22/07/2018
+si,3,agosto,8,4,20,32000,Excelente,atento,22/07/2018
+si,3,septiembre,9,4,6,9600,Excelente,amable servicial,22/07/2018
+si,3,enero,1,5,14,22400,Regular,tarado,22/07/2018
+si,3,febrero,2,5,5,8000,Excelente,servicial,22/07/2018
+si,3,marzo,3,5,5,8000,Excelente,atento,22/07/2018
+si,3,abril,4,5,9,14400,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,5,19,30400,Excelente,servicial,22/07/2018
+si,3,junio,6,5,4,6400,Excelente,atento,22/07/2018
+si,3,julio,7,5,19,30400,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,5,12,19200,Excelente,servicial,22/07/2018
+si,3,septiembre,9,5,7,11200,Excelente,atento,22/07/2018
+si,3,enero,1,6,9,14400,Regular,despistado,22/07/2018
+si,3,febrero,2,6,17,27200,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,6,15,24000,Excelente,servicial,22/07/2018
+si,3,abril,4,6,5,8000,Excelente,atento,22/07/2018
+si,3,mayo,5,6,13,20800,Excelente,amable servicial,22/07/2018
+si,3,junio,6,6,1,1600,Excelente,servicial,22/07/2018
+si,3,julio,7,6,6,9600,Excelente,atento,22/07/2018
+si,3,agosto,8,6,14,22400,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,6,14,22400,Excelente,servicial,22/07/2018
+si,3,enero,1,7,18,28800,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,7,18,28800,Excelente,atento,22/07/2018
+si,3,marzo,3,7,1,1600,Excelente,amable servicial,22/07/2018
+si,3,abril,4,7,10,16000,Excelente,servicial,22/07/2018
+si,3,mayo,5,7,13,20800,Excelente,atento,22/07/2018
+si,3,junio,6,7,12,19200,Excelente,amable servicial,22/07/2018
+si,3,julio,7,7,2,3200,Excelente,servicial,22/07/2018
+si,3,agosto,8,7,20,32000,Excelente,atento,22/07/2018
+si,3,septiembre,9,7,12,19200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,8,17,27200,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,8,5,8000,Excelente,servicial,22/07/2018
+si,3,marzo,3,8,9,14400,Excelente,atento,22/07/2018
+si,3,abril,4,8,13,20800,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,8,20,32000,Excelente,servicial,22/07/2018
+si,3,junio,6,8,14,22400,Excelente,atento,22/07/2018
+si,3,julio,7,8,5,8000,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,8,19,30400,Excelente,servicial,22/07/2018
+si,3,septiembre,9,8,3,4800,Excelente,atento,22/07/2018
+si,3,enero,1,9,17,27200,Regular,lento,22/07/2018
+si,3,febrero,2,9,6,9600,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,9,5,8000,Excelente,servicial,22/07/2018
+si,3,abril,4,9,3,4800,Excelente,atento,22/07/2018
+si,3,mayo,5,9,7,11200,Excelente,amable servicial,22/07/2018
+si,3,junio,6,9,20,32000,Excelente,servicial,22/07/2018
+si,3,julio,7,9,9,14400,Excelente,atento,22/07/2018
+si,3,agosto,8,9,11,17600,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,9,12,19200,Excelente,servicial,22/07/2018
+si,3,enero,1,10,0,0,Regular,tarado,22/07/2018
+si,3,febrero,2,10,4,6400,Excelente,atento,22/07/2018
+si,3,marzo,3,10,5,8000,Excelente,amable servicial,22/07/2018
+si,3,abril,4,10,19,30400,Excelente,servicial,22/07/2018
+si,3,mayo,5,10,4,6400,Excelente,atento,22/07/2018
+si,3,junio,6,10,19,30400,Excelente,amable servicial,22/07/2018
+si,3,julio,7,10,2,3200,Excelente,servicial,22/07/2018
+si,3,agosto,8,10,12,19200,Excelente,atento,22/07/2018
+si,3,septiembre,9,10,5,8000,Excelente,amable servicial,22/07/2018
+si,3,enero,1,11,19,30400,Regular,despistado,22/07/2018
+si,3,febrero,2,11,20,32000,Excelente,servicial,22/07/2018
+si,3,marzo,3,11,18,28800,Excelente,atento,22/07/2018
+si,3,abril,4,11,9,14400,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,11,2,3200,Excelente,servicial,22/07/2018
+si,3,junio,6,11,18,28800,Excelente,atento,22/07/2018
+si,3,julio,7,11,13,20800,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,11,1,1600,Excelente,servicial,22/07/2018
+si,3,septiembre,9,11,6,9600,Excelente,atento,22/07/2018
+si,3,enero,1,12,6,9600,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,12,7,11200,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,12,7,11200,Excelente,servicial,22/07/2018
+si,3,abril,4,12,14,22400,Excelente,atento,22/07/2018
+si,3,mayo,5,12,2,3200,Excelente,amable servicial,22/07/2018
+si,3,junio,6,12,2,3200,Excelente,servicial,22/07/2018
+si,3,julio,7,12,3,4800,Excelente,atento,22/07/2018
+si,3,agosto,8,12,18,28800,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,12,5,8000,Excelente,servicial,22/07/2018
+si,3,enero,1,13,4,6400,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,13,20,32000,Excelente,atento,22/07/2018
+si,3,marzo,3,13,16,25600,Excelente,amable servicial,22/07/2018
+si,3,abril,4,13,18,28800,Excelente,servicial,22/07/2018
+si,3,mayo,5,13,13,20800,Excelente,atento,22/07/2018
+si,3,junio,6,13,17,27200,Excelente,amable servicial,22/07/2018
+si,3,julio,7,13,11,17600,Excelente,servicial,22/07/2018
+si,3,agosto,8,13,1,1600,Excelente,atento,22/07/2018
+si,3,septiembre,9,13,17,27200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,14,8,12800,Regular,lento,22/07/2018
+si,3,febrero,2,14,10,16000,Excelente,servicial,22/07/2018
+si,3,marzo,3,14,9,14400,Excelente,atento,22/07/2018
+si,3,abril,4,14,13,20800,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,14,10,16000,Excelente,servicial,22/07/2018
+si,3,junio,6,14,2,3200,Excelente,atento,22/07/2018
+si,3,julio,7,14,7,11200,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,14,9,14400,Excelente,servicial,22/07/2018
+si,3,septiembre,9,14,15,24000,Excelente,atento,22/07/2018
+si,3,enero,1,15,3,4800,Regular,tarado,22/07/2018
+si,3,febrero,2,15,3,4800,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,15,10,16000,Excelente,servicial,22/07/2018
+si,3,abril,4,15,8,12800,Excelente,atento,22/07/2018
+si,3,mayo,5,15,15,24000,Excelente,amable servicial,22/07/2018
+si,3,junio,6,15,7,11200,Excelente,servicial,22/07/2018
+si,3,julio,7,15,17,27200,Excelente,atento,22/07/2018
+si,3,agosto,8,15,16,25600,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,15,10,16000,Excelente,servicial,22/07/2018
+si,3,enero,1,16,5,8000,Regular,despistado,22/07/2018
+si,3,febrero,2,16,4,6400,Excelente,atento,22/07/2018
+si,3,marzo,3,16,16,25600,Excelente,amable servicial,22/07/2018
+si,3,abril,4,16,0,0,Excelente,servicial,22/07/2018
+si,3,mayo,5,16,18,28800,Excelente,atento,22/07/2018
+si,3,junio,6,16,5,8000,Excelente,amable servicial,22/07/2018
+si,3,julio,7,16,6,9600,Excelente,servicial,22/07/2018
+si,3,agosto,8,16,10,16000,Excelente,atento,22/07/2018
+si,3,septiembre,9,16,7,11200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,17,18,28800,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,17,13,20800,Excelente,servicial,22/07/2018
+si,3,marzo,3,17,17,27200,Excelente,atento,22/07/2018
+si,3,abril,4,17,5,8000,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,17,16,25600,Excelente,servicial,22/07/2018
+si,3,junio,6,17,11,17600,Excelente,atento,22/07/2018
+si,3,julio,7,17,0,0,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,17,0,0,Excelente,servicial,22/07/2018
+si,3,septiembre,9,17,18,28800,Excelente,atento,22/07/2018
+si,3,enero,1,18,11,17600,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,18,12,19200,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,18,13,20800,Excelente,servicial,22/07/2018
+si,3,abril,4,18,17,27200,Excelente,atento,22/07/2018
+si,3,mayo,5,18,19,30400,Excelente,amable servicial,22/07/2018
+si,3,junio,6,18,17,27200,Excelente,servicial,22/07/2018
+si,3,julio,7,18,3,4800,Excelente,atento,22/07/2018
+si,3,agosto,8,18,10,16000,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,18,5,8000,Excelente,servicial,22/07/2018
+si,3,enero,1,19,7,11200,Regular,lento,22/07/2018
+si,3,febrero,2,19,11,17600,Excelente,atento,22/07/2018
+si,3,marzo,3,19,14,22400,Excelente,amable servicial,22/07/2018
+si,3,abril,4,19,14,22400,Excelente,servicial,22/07/2018
+si,3,mayo,5,19,19,30400,Excelente,atento,22/07/2018
+si,3,junio,6,19,19,30400,Excelente,amable servicial,22/07/2018
+si,3,julio,7,19,15,24000,Excelente,servicial,22/07/2018
+si,3,agosto,8,19,12,19200,Excelente,atento,22/07/2018
+si,3,septiembre,9,19,16,25600,Excelente,amable servicial,22/07/2018
+si,3,enero,1,20,11,17600,Regular,tarado,22/07/2018
+si,3,febrero,2,20,12,19200,Excelente,servicial,22/07/2018
+si,3,marzo,3,20,13,20800,Excelente,atento,22/07/2018
+si,3,abril,4,20,19,30400,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,20,19,30400,Excelente,servicial,22/07/2018
+si,3,junio,6,20,11,17600,Excelente,atento,22/07/2018
+si,3,julio,7,20,6,9600,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,20,0,0,Excelente,servicial,22/07/2018
+si,3,septiembre,9,20,19,30400,Excelente,atento,22/07/2018
+si,3,enero,1,21,18,28800,Regular,despistado,22/07/2018
+si,3,febrero,2,21,9,14400,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,21,2,3200,Excelente,servicial,22/07/2018
+si,3,abril,4,21,3,4800,Excelente,atento,22/07/2018
+si,3,mayo,5,21,5,8000,Excelente,amable servicial,22/07/2018
+si,3,junio,6,21,11,17600,Excelente,servicial,22/07/2018
+si,3,julio,7,21,2,3200,Excelente,atento,22/07/2018
+si,3,agosto,8,21,2,3200,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,21,5,8000,Excelente,servicial,22/07/2018
+si,3,enero,1,22,14,22400,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,22,6,9600,Excelente,atento,22/07/2018
+si,3,marzo,3,22,3,4800,Excelente,amable servicial,22/07/2018
+si,3,abril,4,22,2,3200,Excelente,servicial,22/07/2018
+si,3,mayo,5,22,1,1600,Excelente,atento,22/07/2018
+si,3,junio,6,22,2,3200,Excelente,amable servicial,22/07/2018
+si,3,julio,7,22,10,16000,Excelente,servicial,22/07/2018
+si,3,agosto,8,22,11,17600,Excelente,atento,22/07/2018
+si,3,septiembre,9,22,2,3200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,23,1,1600,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,23,12,19200,Excelente,servicial,22/07/2018
+si,3,marzo,3,23,0,0,Excelente,atento,22/07/2018
+si,3,abril,4,23,17,27200,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,23,5,8000,Excelente,servicial,22/07/2018
+si,3,junio,6,23,19,30400,Excelente,atento,22/07/2018
+si,3,julio,7,23,7,11200,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,23,7,11200,Excelente,servicial,22/07/2018
+si,3,septiembre,9,23,20,32000,Excelente,atento,22/07/2018
+si,3,enero,1,24,6,9600,Regular,lento,22/07/2018
+si,3,febrero,2,24,12,19200,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,24,13,20800,Excelente,servicial,22/07/2018
+si,3,abril,4,24,13,20800,Excelente,atento,22/07/2018
+si,3,mayo,5,24,15,24000,Excelente,amable servicial,22/07/2018
+si,3,junio,6,24,7,11200,Excelente,servicial,22/07/2018
+si,3,julio,7,24,18,28800,Excelente,atento,22/07/2018
+si,3,agosto,8,24,1,1600,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,24,12,19200,Excelente,servicial,22/07/2018
+si,3,enero,1,25,8,12800,Regular,tarado,22/07/2018
+si,3,febrero,2,25,6,9600,Excelente,atento,22/07/2018
+si,3,marzo,3,25,10,16000,Excelente,amable servicial,22/07/2018
+si,3,abril,4,25,17,27200,Excelente,servicial,22/07/2018
+si,3,mayo,5,25,12,19200,Excelente,atento,22/07/2018
+si,3,junio,6,25,16,25600,Excelente,amable servicial,22/07/2018
+si,3,julio,7,25,17,27200,Excelente,servicial,22/07/2018
+si,3,agosto,8,25,18,28800,Excelente,atento,22/07/2018
+si,3,septiembre,9,25,18,28800,Excelente,amable servicial,22/07/2018
+si,3,enero,1,26,20,32000,Regular,despistado,22/07/2018
+si,3,febrero,2,26,9,14400,Excelente,servicial,22/07/2018
+si,3,marzo,3,26,15,24000,Excelente,atento,22/07/2018
+si,3,abril,4,26,13,20800,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,26,14,22400,Excelente,servicial,22/07/2018
+si,3,junio,6,26,14,22400,Excelente,atento,22/07/2018
+si,3,julio,7,26,16,25600,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,26,3,4800,Excelente,servicial,22/07/2018
+si,3,septiembre,9,26,13,20800,Excelente,atento,22/07/2018
+si,3,enero,1,27,11,17600,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,27,16,25600,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,27,20,32000,Excelente,servicial,22/07/2018
+si,3,abril,4,27,8,12800,Excelente,atento,22/07/2018
+si,3,mayo,5,27,13,20800,Excelente,amable servicial,22/07/2018
+si,3,junio,6,27,10,16000,Excelente,servicial,22/07/2018
+si,3,julio,7,27,20,32000,Excelente,atento,22/07/2018
+si,3,agosto,8,27,8,12800,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,27,18,28800,Excelente,servicial,22/07/2018
+si,3,enero,1,28,13,20800,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,28,15,24000,Excelente,atento,22/07/2018
+si,3,marzo,3,28,1,1600,Excelente,amable servicial,22/07/2018
+si,3,abril,4,28,7,11200,Excelente,servicial,22/07/2018
+si,3,mayo,5,28,13,20800,Excelente,atento,22/07/2018
+si,3,junio,6,28,2,3200,Excelente,amable servicial,22/07/2018
+si,3,julio,7,28,12,19200,Excelente,servicial,22/07/2018
+si,3,agosto,8,28,13,20800,Excelente,atento,22/07/2018
+si,3,septiembre,9,28,2,3200,Excelente,amable servicial,22/07/2018
+si,3,enero,1,29,13,20800,Regular,lento,22/07/2018
+si,3,febrero,2,29,14,22400,Excelente,servicial,22/07/2018
+si,3,marzo,3,29,15,24000,Excelente,atento,22/07/2018
+si,3,abril,4,29,20,32000,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,29,18,28800,Excelente,servicial,22/07/2018
+si,3,junio,6,29,7,11200,Excelente,atento,22/07/2018
+si,3,julio,7,29,2,3200,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,29,18,28800,Excelente,servicial,22/07/2018
+si,3,septiembre,9,29,3,4800,Excelente,atento,22/07/2018
+si,3,enero,1,30,20,32000,Regular,tarado,22/07/2018
+si,3,febrero,2,30,17,27200,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,30,16,25600,Excelente,servicial,22/07/2018
+si,3,abril,4,30,4,6400,Excelente,atento,22/07/2018
+si,3,mayo,5,30,13,20800,Excelente,amable servicial,22/07/2018
+si,3,junio,6,30,4,6400,Excelente,servicial,22/07/2018
+si,3,julio,7,30,14,22400,Excelente,atento,22/07/2018
+si,3,agosto,8,30,15,24000,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,30,10,16000,Excelente,servicial,22/07/2018
+si,3,enero,1,31,10,16000,Regular,despistado,22/07/2018
+si,3,febrero,2,31,12,19200,Excelente,atento,22/07/2018
+si,3,marzo,3,31,15,24000,Excelente,amable servicial,22/07/2018
+si,3,abril,4,31,16,25600,Excelente,servicial,22/07/2018
+si,3,mayo,5,31,3,4800,Excelente,atento,22/07/2018
+si,3,junio,6,31,8,12800,Excelente,amable servicial,22/07/2018
+si,3,julio,7,31,3,4800,Excelente,servicial,22/07/2018
+si,3,agosto,8,31,17,27200,Excelente,atento,22/07/2018
+si,3,septiembre,9,31,19,30400,Excelente,amable servicial,22/07/2018
+si,3,enero,1,32,2,3200,Regular,despistado tardado,22/07/2018
+si,3,febrero,2,32,2,3200,Excelente,servicial,22/07/2018
+si,3,marzo,3,32,11,17600,Excelente,atento,22/07/2018
+si,3,abril,4,32,2,3200,Excelente,amable servicial,22/07/2018
+si,3,mayo,5,32,2,3200,Excelente,servicial,22/07/2018
+si,3,junio,6,32,11,17600,Excelente,atento,22/07/2018
+si,3,julio,7,32,4,6400,Excelente,amable servicial,22/07/2018
+si,3,agosto,8,32,13,20800,Excelente,servicial,22/07/2018
+si,3,septiembre,9,32,18,28800,Excelente,atento,22/07/2018
+si,3,enero,1,33,14,22400,Regular,lento servicial amigable,22/07/2018
+si,3,febrero,2,33,20,32000,Excelente,amable servicial,22/07/2018
+si,3,marzo,3,33,15,24000,Excelente,servicial,22/07/2018
+si,3,abril,4,33,4,6400,Excelente,atento,22/07/2018
+si,3,mayo,5,33,14,22400,Excelente,amable servicial,22/07/2018
+si,3,junio,6,33,14,22400,Excelente,servicial,22/07/2018
+si,3,julio,7,33,18,28800,Excelente,atento,22/07/2018
+si,3,agosto,8,33,8,12800,Excelente,amable servicial,22/07/2018
+si,3,septiembre,9,33,10,16000,Excelente,servicial,22/07/2018
+si,3,enero,1,34,6,9600,Regular,lento,22/07/2018
+si,3,febrero,2,34,14,22400,Excelente,atento,22/07/2018
+si,3,marzo,3,34,3,4800,Excelente,amable servicial,22/07/2018
+si,3,abril,4,34,11,17600,Excelente,servicial,22/07/2018
+si,3,mayo,5,34,9,14400,Excelente,atento,22/07/2018
+si,3,junio,6,34,10,16000,Excelente,amable servicial,22/07/2018
+si,3,julio,7,34,4,6400,Excelente,servicial,22/07/2018
+si,3,agosto,8,34,20,32000,Excelente,atento,22/07/2018
+si,3,septiembre,9,34,17,27200,Excelente,amable servicial,22/07/2018
+si,4,enero,1,1,8,12800,Regular,tarado,15/06/2018
+si,4,febrero,2,1,18,28800,Excelente,servicial,15/06/2018
+si,4,marzo,3,1,18,28800,Excelente,atento,15/06/2018
+si,4,abril,4,1,16,25600,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,1,11,17600,Excelente,servicial,15/06/2018
+si,4,junio,6,1,20,32000,Excelente,atento,15/06/2018
+si,4,julio,7,1,2,3200,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,1,9,14400,Excelente,servicial,15/06/2018
+si,4,septiembre,9,1,20,32000,Excelente,atento,15/06/2018
+si,4,enero,1,2,6,9600,Regular,despistado,15/06/2018
+si,4,febrero,2,2,15,24000,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,2,6,9600,Excelente,servicial,15/06/2018
+si,4,abril,4,2,3,4800,Excelente,atento,15/06/2018
+si,4,mayo,5,2,12,19200,Excelente,amable servicial,15/06/2018
+si,4,junio,6,2,3,4800,Excelente,servicial,15/06/2018
+si,4,julio,7,2,4,6400,Excelente,atento,15/06/2018
+si,4,agosto,8,2,6,9600,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,2,5,8000,Excelente,servicial,15/06/2018
+si,4,enero,1,3,19,30400,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,3,1,1600,Excelente,atento,15/06/2018
+si,4,marzo,3,3,9,14400,Excelente,amable servicial,15/06/2018
+si,4,abril,4,3,11,17600,Excelente,servicial,15/06/2018
+si,4,mayo,5,3,6,9600,Excelente,atento,15/06/2018
+si,4,junio,6,3,20,32000,Excelente,amable servicial,15/06/2018
+si,4,julio,7,3,18,28800,Excelente,servicial,15/06/2018
+si,4,agosto,8,3,3,4800,Excelente,atento,15/06/2018
+si,4,septiembre,9,3,3,4800,Excelente,amable servicial,15/06/2018
+si,4,enero,1,4,0,0,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,4,10,16000,Excelente,servicial,15/06/2018
+si,4,marzo,3,4,1,1600,Excelente,atento,15/06/2018
+si,4,abril,4,4,6,9600,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,4,2,3200,Excelente,servicial,15/06/2018
+si,4,junio,6,4,16,25600,Excelente,atento,15/06/2018
+si,4,julio,7,4,20,32000,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,4,15,24000,Excelente,servicial,15/06/2018
+si,4,septiembre,9,4,8,12800,Excelente,atento,15/06/2018
+si,4,enero,1,5,7,11200,Regular,lento,15/06/2018
+si,4,febrero,2,5,1,1600,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,5,7,11200,Excelente,servicial,15/06/2018
+si,4,abril,4,5,7,11200,Excelente,atento,15/06/2018
+si,4,mayo,5,5,2,3200,Excelente,amable servicial,15/06/2018
+si,4,junio,6,5,13,20800,Excelente,servicial,15/06/2018
+si,4,julio,7,5,7,11200,Excelente,atento,15/06/2018
+si,4,agosto,8,5,18,28800,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,5,18,28800,Excelente,servicial,15/06/2018
+si,4,enero,1,6,10,16000,Regular,tarado,15/06/2018
+si,4,febrero,2,6,11,17600,Excelente,atento,15/06/2018
+si,4,marzo,3,6,6,9600,Excelente,amable servicial,15/06/2018
+si,4,abril,4,6,20,32000,Excelente,servicial,15/06/2018
+si,4,mayo,5,6,1,1600,Excelente,atento,15/06/2018
+si,4,junio,6,6,15,24000,Excelente,amable servicial,15/06/2018
+si,4,julio,7,6,17,27200,Excelente,servicial,15/06/2018
+si,4,agosto,8,6,6,9600,Excelente,atento,15/06/2018
+si,4,septiembre,9,6,2,3200,Excelente,amable servicial,15/06/2018
+si,4,enero,1,7,13,20800,Regular,despistado,15/06/2018
+si,4,febrero,2,7,14,22400,Excelente,servicial,15/06/2018
+si,4,marzo,3,7,17,27200,Excelente,atento,15/06/2018
+si,4,abril,4,7,13,20800,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,7,11,17600,Excelente,servicial,15/06/2018
+si,4,junio,6,7,3,4800,Excelente,atento,15/06/2018
+si,4,julio,7,7,15,24000,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,7,16,25600,Excelente,servicial,15/06/2018
+si,4,septiembre,9,7,18,28800,Excelente,atento,15/06/2018
+si,4,enero,1,8,12,19200,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,8,3,4800,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,8,0,0,Excelente,servicial,15/06/2018
+si,4,abril,4,8,17,27200,Excelente,atento,15/06/2018
+si,4,mayo,5,8,3,4800,Excelente,amable servicial,15/06/2018
+si,4,junio,6,8,19,30400,Excelente,servicial,15/06/2018
+si,4,julio,7,8,3,4800,Excelente,atento,15/06/2018
+si,4,agosto,8,8,20,32000,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,8,7,11200,Excelente,servicial,15/06/2018
+si,4,enero,1,9,2,3200,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,9,10,16000,Excelente,atento,15/06/2018
+si,4,marzo,3,9,16,25600,Excelente,amable servicial,15/06/2018
+si,4,abril,4,9,10,16000,Excelente,servicial,15/06/2018
+si,4,mayo,5,9,15,24000,Excelente,atento,15/06/2018
+si,4,junio,6,9,0,0,Excelente,amable servicial,15/06/2018
+si,4,julio,7,9,18,28800,Excelente,servicial,15/06/2018
+si,4,agosto,8,9,18,28800,Excelente,atento,15/06/2018
+si,4,septiembre,9,9,15,24000,Excelente,amable servicial,15/06/2018
+si,4,enero,1,10,13,20800,Regular,lento,15/06/2018
+si,4,febrero,2,10,4,6400,Excelente,servicial,15/06/2018
+si,4,marzo,3,10,5,8000,Excelente,atento,15/06/2018
+si,4,abril,4,10,0,0,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,10,0,0,Excelente,servicial,15/06/2018
+si,4,junio,6,10,5,8000,Excelente,atento,15/06/2018
+si,4,julio,7,10,14,22400,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,10,8,12800,Excelente,servicial,15/06/2018
+si,4,septiembre,9,10,19,30400,Excelente,atento,15/06/2018
+si,4,enero,1,11,12,19200,Regular,tarado,15/06/2018
+si,4,febrero,2,11,9,14400,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,11,19,30400,Excelente,servicial,15/06/2018
+si,4,abril,4,11,3,4800,Excelente,atento,15/06/2018
+si,4,mayo,5,11,19,30400,Excelente,amable servicial,15/06/2018
+si,4,junio,6,11,18,28800,Excelente,servicial,15/06/2018
+si,4,julio,7,11,16,25600,Excelente,atento,15/06/2018
+si,4,agosto,8,11,15,24000,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,11,3,4800,Excelente,servicial,15/06/2018
+si,4,enero,1,12,6,9600,Regular,despistado,15/06/2018
+si,4,febrero,2,12,18,28800,Excelente,atento,15/06/2018
+si,4,marzo,3,12,4,6400,Excelente,amable servicial,15/06/2018
+si,4,abril,4,12,6,9600,Excelente,servicial,15/06/2018
+si,4,mayo,5,12,14,22400,Excelente,atento,15/06/2018
+si,4,junio,6,12,18,28800,Excelente,amable servicial,15/06/2018
+si,4,julio,7,12,5,8000,Excelente,servicial,15/06/2018
+si,4,agosto,8,12,10,16000,Excelente,atento,15/06/2018
+si,4,septiembre,9,12,19,30400,Excelente,amable servicial,15/06/2018
+si,4,enero,1,13,5,8000,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,13,12,19200,Excelente,servicial,15/06/2018
+si,4,marzo,3,13,8,12800,Excelente,atento,15/06/2018
+si,4,abril,4,13,14,22400,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,13,20,32000,Excelente,servicial,15/06/2018
+si,4,junio,6,13,15,24000,Excelente,atento,15/06/2018
+si,4,julio,7,13,17,27200,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,13,20,32000,Excelente,servicial,15/06/2018
+si,4,septiembre,9,13,13,20800,Excelente,atento,15/06/2018
+si,4,enero,1,14,6,9600,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,14,13,20800,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,14,6,9600,Excelente,servicial,15/06/2018
+si,4,abril,4,14,15,24000,Excelente,atento,15/06/2018
+si,4,mayo,5,14,9,14400,Excelente,amable servicial,15/06/2018
+si,4,junio,6,14,11,17600,Excelente,servicial,15/06/2018
+si,4,julio,7,14,18,28800,Excelente,atento,15/06/2018
+si,4,agosto,8,14,19,30400,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,14,6,9600,Excelente,servicial,15/06/2018
+si,4,enero,1,15,11,17600,Regular,lento,15/06/2018
+si,4,febrero,2,15,12,19200,Excelente,atento,15/06/2018
+si,4,marzo,3,15,17,27200,Excelente,amable servicial,15/06/2018
+si,4,abril,4,15,18,28800,Excelente,servicial,15/06/2018
+si,4,mayo,5,15,17,27200,Excelente,atento,15/06/2018
+si,4,junio,6,15,9,14400,Excelente,amable servicial,15/06/2018
+si,4,julio,7,15,0,0,Excelente,servicial,15/06/2018
+si,4,agosto,8,15,0,0,Excelente,atento,15/06/2018
+si,4,septiembre,9,15,13,20800,Excelente,amable servicial,15/06/2018
+si,4,enero,1,16,11,17600,Regular,tarado,15/06/2018
+si,4,febrero,2,16,0,0,Excelente,servicial,15/06/2018
+si,4,marzo,3,16,2,3200,Excelente,atento,15/06/2018
+si,4,abril,4,16,3,4800,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,16,13,20800,Excelente,servicial,15/06/2018
+si,4,junio,6,16,11,17600,Excelente,atento,15/06/2018
+si,4,julio,7,16,20,32000,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,16,4,6400,Excelente,servicial,15/06/2018
+si,4,septiembre,9,16,18,28800,Excelente,atento,15/06/2018
+si,4,enero,1,17,7,11200,Regular,despistado,15/06/2018
+si,4,febrero,2,17,13,20800,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,17,15,24000,Excelente,servicial,15/06/2018
+si,4,abril,4,17,9,14400,Excelente,atento,15/06/2018
+si,4,mayo,5,17,14,22400,Excelente,amable servicial,15/06/2018
+si,4,junio,6,17,17,27200,Excelente,servicial,15/06/2018
+si,4,julio,7,17,8,12800,Excelente,atento,15/06/2018
+si,4,agosto,8,17,14,22400,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,17,6,9600,Excelente,servicial,15/06/2018
+si,4,enero,1,18,2,3200,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,18,3,4800,Excelente,atento,15/06/2018
+si,4,marzo,3,18,7,11200,Excelente,amable servicial,15/06/2018
+si,4,abril,4,18,2,3200,Excelente,servicial,15/06/2018
+si,4,mayo,5,18,3,4800,Excelente,atento,15/06/2018
+si,4,junio,6,18,3,4800,Excelente,amable servicial,15/06/2018
+si,4,julio,7,18,17,27200,Excelente,servicial,15/06/2018
+si,4,agosto,8,18,12,19200,Excelente,atento,15/06/2018
+si,4,septiembre,9,18,17,27200,Excelente,amable servicial,15/06/2018
+si,4,enero,1,19,9,14400,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,19,4,6400,Excelente,servicial,15/06/2018
+si,4,marzo,3,19,13,20800,Excelente,atento,15/06/2018
+si,4,abril,4,19,18,28800,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,19,5,8000,Excelente,servicial,15/06/2018
+si,4,junio,6,19,4,6400,Excelente,atento,15/06/2018
+si,4,julio,7,19,19,30400,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,19,7,11200,Excelente,servicial,15/06/2018
+si,4,septiembre,9,19,6,9600,Excelente,atento,15/06/2018
+si,4,enero,1,20,13,20800,Regular,lento,15/06/2018
+si,4,febrero,2,20,14,22400,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,20,11,17600,Excelente,servicial,15/06/2018
+si,4,abril,4,20,18,28800,Excelente,atento,15/06/2018
+si,4,mayo,5,20,11,17600,Excelente,amable servicial,15/06/2018
+si,4,junio,6,20,7,11200,Excelente,servicial,15/06/2018
+si,4,julio,7,20,6,9600,Excelente,atento,15/06/2018
+si,4,agosto,8,20,5,8000,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,20,16,25600,Excelente,servicial,15/06/2018
+si,4,enero,1,21,16,25600,Regular,tarado,15/06/2018
+si,4,febrero,2,21,7,11200,Excelente,atento,15/06/2018
+si,4,marzo,3,21,0,0,Excelente,amable servicial,15/06/2018
+si,4,abril,4,21,8,12800,Excelente,servicial,15/06/2018
+si,4,mayo,5,21,19,30400,Excelente,atento,15/06/2018
+si,4,junio,6,21,14,22400,Excelente,amable servicial,15/06/2018
+si,4,julio,7,21,13,20800,Excelente,servicial,15/06/2018
+si,4,agosto,8,21,7,11200,Excelente,atento,15/06/2018
+si,4,septiembre,9,21,2,3200,Excelente,amable servicial,15/06/2018
+si,4,enero,1,22,6,9600,Regular,despistado,15/06/2018
+si,4,febrero,2,22,4,6400,Excelente,servicial,15/06/2018
+si,4,marzo,3,22,1,1600,Excelente,atento,15/06/2018
+si,4,abril,4,22,1,1600,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,22,11,17600,Excelente,servicial,15/06/2018
+si,4,junio,6,22,5,8000,Excelente,atento,15/06/2018
+si,4,julio,7,22,20,32000,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,22,20,32000,Excelente,servicial,15/06/2018
+si,4,septiembre,9,22,7,11200,Excelente,atento,15/06/2018
+si,4,enero,1,23,9,14400,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,23,9,14400,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,23,16,25600,Excelente,servicial,15/06/2018
+si,4,abril,4,23,18,28800,Excelente,atento,15/06/2018
+si,4,mayo,5,23,14,22400,Excelente,amable servicial,15/06/2018
+si,4,junio,6,23,18,28800,Excelente,servicial,15/06/2018
+si,4,julio,7,23,13,20800,Excelente,atento,15/06/2018
+si,4,agosto,8,23,0,0,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,23,14,22400,Excelente,servicial,15/06/2018
+si,4,enero,1,24,1,1600,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,24,0,0,Excelente,atento,15/06/2018
+si,4,marzo,3,24,10,16000,Excelente,amable servicial,15/06/2018
+si,4,abril,4,24,0,0,Excelente,servicial,15/06/2018
+si,4,mayo,5,24,0,0,Excelente,atento,15/06/2018
+si,4,junio,6,24,8,12800,Excelente,amable servicial,15/06/2018
+si,4,julio,7,24,10,16000,Excelente,servicial,15/06/2018
+si,4,agosto,8,24,4,6400,Excelente,atento,15/06/2018
+si,4,septiembre,9,24,19,30400,Excelente,amable servicial,15/06/2018
+si,4,enero,1,25,8,12800,Regular,lento,15/06/2018
+si,4,febrero,2,25,10,16000,Excelente,servicial,15/06/2018
+si,4,marzo,3,25,2,3200,Excelente,atento,15/06/2018
+si,4,abril,4,25,8,12800,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,25,8,12800,Excelente,servicial,15/06/2018
+si,4,junio,6,25,2,3200,Excelente,atento,15/06/2018
+si,4,julio,7,25,4,6400,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,25,14,22400,Excelente,servicial,15/06/2018
+si,4,septiembre,9,25,2,3200,Excelente,atento,15/06/2018
+si,4,enero,1,26,11,17600,Regular,tarado,15/06/2018
+si,4,febrero,2,26,16,25600,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,26,5,8000,Excelente,servicial,15/06/2018
+si,4,abril,4,26,9,14400,Excelente,atento,15/06/2018
+si,4,mayo,5,26,16,25600,Excelente,amable servicial,15/06/2018
+si,4,junio,6,26,13,20800,Excelente,servicial,15/06/2018
+si,4,julio,7,26,18,28800,Excelente,atento,15/06/2018
+si,4,agosto,8,26,3,4800,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,26,5,8000,Excelente,servicial,15/06/2018
+si,4,enero,1,27,3,4800,Regular,despistado,15/06/2018
+si,4,febrero,2,27,8,12800,Excelente,atento,15/06/2018
+si,4,marzo,3,27,16,25600,Excelente,amable servicial,15/06/2018
+si,4,abril,4,27,12,19200,Excelente,servicial,15/06/2018
+si,4,mayo,5,27,12,19200,Excelente,atento,15/06/2018
+si,4,junio,6,27,19,30400,Excelente,amable servicial,15/06/2018
+si,4,julio,7,27,16,25600,Excelente,servicial,15/06/2018
+si,4,agosto,8,27,5,8000,Excelente,atento,15/06/2018
+si,4,septiembre,9,27,16,25600,Excelente,amable servicial,15/06/2018
+si,4,enero,1,28,13,20800,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,28,14,22400,Excelente,servicial,15/06/2018
+si,4,marzo,3,28,19,30400,Excelente,atento,15/06/2018
+si,4,abril,4,28,2,3200,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,28,4,6400,Excelente,servicial,15/06/2018
+si,4,junio,6,28,20,32000,Excelente,atento,15/06/2018
+si,4,julio,7,28,4,6400,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,28,17,27200,Excelente,servicial,15/06/2018
+si,4,septiembre,9,28,6,9600,Excelente,atento,15/06/2018
+si,4,enero,1,29,20,32000,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,29,15,24000,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,29,0,0,Excelente,servicial,15/06/2018
+si,4,abril,4,29,13,20800,Excelente,atento,15/06/2018
+si,4,mayo,5,29,18,28800,Excelente,amable servicial,15/06/2018
+si,4,junio,6,29,18,28800,Excelente,servicial,15/06/2018
+si,4,julio,7,29,3,4800,Excelente,atento,15/06/2018
+si,4,agosto,8,29,12,19200,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,29,14,22400,Excelente,servicial,15/06/2018
+si,4,enero,1,30,6,9600,Regular,lento,15/06/2018
+si,4,febrero,2,30,9,14400,Excelente,atento,15/06/2018
+si,4,marzo,3,30,1,1600,Excelente,amable servicial,15/06/2018
+si,4,abril,4,30,11,17600,Excelente,servicial,15/06/2018
+si,4,mayo,5,30,5,8000,Excelente,atento,15/06/2018
+si,4,junio,6,30,20,32000,Excelente,amable servicial,15/06/2018
+si,4,julio,7,30,17,27200,Excelente,servicial,15/06/2018
+si,4,agosto,8,30,5,8000,Excelente,atento,15/06/2018
+si,4,septiembre,9,30,5,8000,Excelente,amable servicial,15/06/2018
+si,4,enero,1,31,10,16000,Regular,tarado,15/06/2018
+si,4,febrero,2,31,17,27200,Excelente,servicial,15/06/2018
+si,4,marzo,3,31,5,8000,Excelente,atento,15/06/2018
+si,4,abril,4,31,15,24000,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,31,14,22400,Excelente,servicial,15/06/2018
+si,4,junio,6,31,17,27200,Excelente,atento,15/06/2018
+si,4,julio,7,31,15,24000,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,31,18,28800,Excelente,servicial,15/06/2018
+si,4,septiembre,9,31,14,22400,Excelente,atento,15/06/2018
+si,4,enero,1,32,4,6400,Regular,despistado,15/06/2018
+si,4,febrero,2,32,8,12800,Excelente,amable servicial,15/06/2018
+si,4,marzo,3,32,18,28800,Excelente,servicial,15/06/2018
+si,4,abril,4,32,9,14400,Excelente,atento,15/06/2018
+si,4,mayo,5,32,6,9600,Excelente,amable servicial,15/06/2018
+si,4,junio,6,32,16,25600,Excelente,servicial,15/06/2018
+si,4,julio,7,32,2,3200,Excelente,atento,15/06/2018
+si,4,agosto,8,32,19,30400,Excelente,amable servicial,15/06/2018
+si,4,septiembre,9,32,13,20800,Excelente,servicial,15/06/2018
+si,4,enero,1,33,16,25600,Regular,despistado tardado,15/06/2018
+si,4,febrero,2,33,20,32000,Excelente,atento,15/06/2018
+si,4,marzo,3,33,2,3200,Excelente,amable servicial,15/06/2018
+si,4,abril,4,33,3,4800,Excelente,servicial,15/06/2018
+si,4,mayo,5,33,19,30400,Excelente,atento,15/06/2018
+si,4,junio,6,33,12,19200,Excelente,amable servicial,15/06/2018
+si,4,julio,7,33,10,16000,Excelente,servicial,15/06/2018
+si,4,agosto,8,33,4,6400,Excelente,atento,15/06/2018
+si,4,septiembre,9,33,8,12800,Excelente,amable servicial,15/06/2018
+si,4,enero,1,34,13,20800,Regular,lento servicial amigable,15/06/2018
+si,4,febrero,2,34,17,27200,Excelente,servicial,15/06/2018
+si,4,marzo,3,34,2,3200,Excelente,atento,15/06/2018
+si,4,abril,4,34,11,17600,Excelente,amable servicial,15/06/2018
+si,4,mayo,5,34,2,3200,Excelente,servicial,15/06/2018
+si,4,junio,6,34,5,8000,Excelente,atento,15/06/2018
+si,4,julio,7,34,13,20800,Excelente,amable servicial,15/06/2018
+si,4,agosto,8,34,1,1600,Excelente,servicial,15/06/2018
+si,4,septiembre,9,34,9,14400,Excelente,atento,15/06/2018
+si,5,enero,1,1,2,3200,Regular,lento,09/09/2016
+si,5,febrero,2,1,19,30400,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,1,0,0,Excelente,servicial,09/09/2016
+si,5,abril,4,1,18,28800,Excelente,atento,09/09/2016
+si,5,mayo,5,1,7,11200,Excelente,amable servicial,09/09/2016
+si,5,junio,6,1,3,4800,Excelente,servicial,09/09/2016
+si,5,julio,7,1,0,0,Excelente,atento,09/09/2016
+si,5,agosto,8,1,18,28800,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,1,4,6400,Excelente,servicial,09/09/2016
+si,5,enero,1,2,3,4800,Regular,tarado,09/09/2016
+si,5,febrero,2,2,18,28800,Excelente,atento,09/09/2016
+si,5,marzo,3,2,7,11200,Excelente,amable servicial,09/09/2016
+si,5,abril,4,2,5,8000,Excelente,servicial,09/09/2016
+si,5,mayo,5,2,5,8000,Excelente,atento,09/09/2016
+si,5,junio,6,2,19,30400,Excelente,amable servicial,09/09/2016
+si,5,julio,7,2,18,28800,Excelente,servicial,09/09/2016
+si,5,agosto,8,2,6,9600,Excelente,atento,09/09/2016
+si,5,septiembre,9,2,0,0,Excelente,amable servicial,09/09/2016
+si,5,enero,1,3,6,9600,Regular,despistado,09/09/2016
+si,5,febrero,2,3,9,14400,Excelente,servicial,09/09/2016
+si,5,marzo,3,3,6,9600,Excelente,atento,09/09/2016
+si,5,abril,4,3,3,4800,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,3,11,17600,Excelente,servicial,09/09/2016
+si,5,junio,6,3,14,22400,Excelente,atento,09/09/2016
+si,5,julio,7,3,15,24000,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,3,5,8000,Excelente,servicial,09/09/2016
+si,5,septiembre,9,3,19,30400,Excelente,atento,09/09/2016
+si,5,enero,1,4,16,25600,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,4,15,24000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,4,10,16000,Excelente,servicial,09/09/2016
+si,5,abril,4,4,15,24000,Excelente,atento,09/09/2016
+si,5,mayo,5,4,18,28800,Excelente,amable servicial,09/09/2016
+si,5,junio,6,4,6,9600,Excelente,servicial,09/09/2016
+si,5,julio,7,4,11,17600,Excelente,atento,09/09/2016
+si,5,agosto,8,4,13,20800,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,4,11,17600,Excelente,servicial,09/09/2016
+si,5,enero,1,5,0,0,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,5,10,16000,Excelente,atento,09/09/2016
+si,5,marzo,3,5,0,0,Excelente,amable servicial,09/09/2016
+si,5,abril,4,5,13,20800,Excelente,servicial,09/09/2016
+si,5,mayo,5,5,18,28800,Excelente,atento,09/09/2016
+si,5,junio,6,5,11,17600,Excelente,amable servicial,09/09/2016
+si,5,julio,7,5,10,16000,Excelente,servicial,09/09/2016
+si,5,agosto,8,5,19,30400,Excelente,atento,09/09/2016
+si,5,septiembre,9,5,2,3200,Excelente,amable servicial,09/09/2016
+si,5,enero,1,6,10,16000,Regular,lento,09/09/2016
+si,5,febrero,2,6,4,6400,Excelente,servicial,09/09/2016
+si,5,marzo,3,6,14,22400,Excelente,atento,09/09/2016
+si,5,abril,4,6,11,17600,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,6,19,30400,Excelente,servicial,09/09/2016
+si,5,junio,6,6,11,17600,Excelente,atento,09/09/2016
+si,5,julio,7,6,3,4800,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,6,19,30400,Excelente,servicial,09/09/2016
+si,5,septiembre,9,6,15,24000,Excelente,atento,09/09/2016
+si,5,enero,1,7,0,0,Regular,tarado,09/09/2016
+si,5,febrero,2,7,11,17600,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,7,14,22400,Excelente,servicial,09/09/2016
+si,5,abril,4,7,0,0,Excelente,atento,09/09/2016
+si,5,mayo,5,7,4,6400,Excelente,amable servicial,09/09/2016
+si,5,junio,6,7,20,32000,Excelente,servicial,09/09/2016
+si,5,julio,7,7,13,20800,Excelente,atento,09/09/2016
+si,5,agosto,8,7,11,17600,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,7,5,8000,Excelente,servicial,09/09/2016
+si,5,enero,1,8,14,22400,Regular,despistado,09/09/2016
+si,5,febrero,2,8,19,30400,Excelente,atento,09/09/2016
+si,5,marzo,3,8,19,30400,Excelente,amable servicial,09/09/2016
+si,5,abril,4,8,4,6400,Excelente,servicial,09/09/2016
+si,5,mayo,5,8,12,19200,Excelente,atento,09/09/2016
+si,5,junio,6,8,4,6400,Excelente,amable servicial,09/09/2016
+si,5,julio,7,8,17,27200,Excelente,servicial,09/09/2016
+si,5,agosto,8,8,3,4800,Excelente,atento,09/09/2016
+si,5,septiembre,9,8,0,0,Excelente,amable servicial,09/09/2016
+si,5,enero,1,9,17,27200,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,9,20,32000,Excelente,servicial,09/09/2016
+si,5,marzo,3,9,1,1600,Excelente,atento,09/09/2016
+si,5,abril,4,9,12,19200,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,9,11,17600,Excelente,servicial,09/09/2016
+si,5,junio,6,9,10,16000,Excelente,atento,09/09/2016
+si,5,julio,7,9,7,11200,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,9,2,3200,Excelente,servicial,09/09/2016
+si,5,septiembre,9,9,16,25600,Excelente,atento,09/09/2016
+si,5,enero,1,10,19,30400,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,10,7,11200,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,10,7,11200,Excelente,servicial,09/09/2016
+si,5,abril,4,10,7,11200,Excelente,atento,09/09/2016
+si,5,mayo,5,10,19,30400,Excelente,amable servicial,09/09/2016
+si,5,junio,6,10,20,32000,Excelente,servicial,09/09/2016
+si,5,julio,7,10,7,11200,Excelente,atento,09/09/2016
+si,5,agosto,8,10,20,32000,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,10,6,9600,Excelente,servicial,09/09/2016
+si,5,enero,1,11,9,14400,Regular,lento,09/09/2016
+si,5,febrero,2,11,12,19200,Excelente,atento,09/09/2016
+si,5,marzo,3,11,12,19200,Excelente,amable servicial,09/09/2016
+si,5,abril,4,11,9,14400,Excelente,servicial,09/09/2016
+si,5,mayo,5,11,1,1600,Excelente,atento,09/09/2016
+si,5,junio,6,11,12,19200,Excelente,amable servicial,09/09/2016
+si,5,julio,7,11,15,24000,Excelente,servicial,09/09/2016
+si,5,agosto,8,11,12,19200,Excelente,atento,09/09/2016
+si,5,septiembre,9,11,5,8000,Excelente,amable servicial,09/09/2016
+si,5,enero,1,12,1,1600,Regular,tarado,09/09/2016
+si,5,febrero,2,12,9,14400,Excelente,servicial,09/09/2016
+si,5,marzo,3,12,5,8000,Excelente,atento,09/09/2016
+si,5,abril,4,12,2,3200,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,12,14,22400,Excelente,servicial,09/09/2016
+si,5,junio,6,12,19,30400,Excelente,atento,09/09/2016
+si,5,julio,7,12,11,17600,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,12,14,22400,Excelente,servicial,09/09/2016
+si,5,septiembre,9,12,10,16000,Excelente,atento,09/09/2016
+si,5,enero,1,13,11,17600,Regular,despistado,09/09/2016
+si,5,febrero,2,13,13,20800,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,13,6,9600,Excelente,servicial,09/09/2016
+si,5,abril,4,13,10,16000,Excelente,atento,09/09/2016
+si,5,mayo,5,13,16,25600,Excelente,amable servicial,09/09/2016
+si,5,junio,6,13,2,3200,Excelente,servicial,09/09/2016
+si,5,julio,7,13,15,24000,Excelente,atento,09/09/2016
+si,5,agosto,8,13,2,3200,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,13,12,19200,Excelente,servicial,09/09/2016
+si,5,enero,1,14,12,19200,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,14,18,28800,Excelente,atento,09/09/2016
+si,5,marzo,3,14,15,24000,Excelente,amable servicial,09/09/2016
+si,5,abril,4,14,20,32000,Excelente,servicial,09/09/2016
+si,5,mayo,5,14,15,24000,Excelente,atento,09/09/2016
+si,5,junio,6,14,4,6400,Excelente,amable servicial,09/09/2016
+si,5,julio,7,14,14,22400,Excelente,servicial,09/09/2016
+si,5,agosto,8,14,2,3200,Excelente,atento,09/09/2016
+si,5,septiembre,9,14,6,9600,Excelente,amable servicial,09/09/2016
+si,5,enero,1,15,14,22400,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,15,13,20800,Excelente,servicial,09/09/2016
+si,5,marzo,3,15,17,27200,Excelente,atento,09/09/2016
+si,5,abril,4,15,18,28800,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,15,16,25600,Excelente,servicial,09/09/2016
+si,5,junio,6,15,8,12800,Excelente,atento,09/09/2016
+si,5,julio,7,15,19,30400,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,15,0,0,Excelente,servicial,09/09/2016
+si,5,septiembre,9,15,3,4800,Excelente,atento,09/09/2016
+si,5,enero,1,16,20,32000,Regular,lento,09/09/2016
+si,5,febrero,2,16,10,16000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,16,5,8000,Excelente,servicial,09/09/2016
+si,5,abril,4,16,13,20800,Excelente,atento,09/09/2016
+si,5,mayo,5,16,17,27200,Excelente,amable servicial,09/09/2016
+si,5,junio,6,16,9,14400,Excelente,servicial,09/09/2016
+si,5,julio,7,16,2,3200,Excelente,atento,09/09/2016
+si,5,agosto,8,16,2,3200,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,16,5,8000,Excelente,servicial,09/09/2016
+si,5,enero,1,17,20,32000,Regular,tarado,09/09/2016
+si,5,febrero,2,17,0,0,Excelente,atento,09/09/2016
+si,5,marzo,3,17,0,0,Excelente,amable servicial,09/09/2016
+si,5,abril,4,17,11,17600,Excelente,servicial,09/09/2016
+si,5,mayo,5,17,9,14400,Excelente,atento,09/09/2016
+si,5,junio,6,17,16,25600,Excelente,amable servicial,09/09/2016
+si,5,julio,7,17,10,16000,Excelente,servicial,09/09/2016
+si,5,agosto,8,17,8,12800,Excelente,atento,09/09/2016
+si,5,septiembre,9,17,1,1600,Excelente,amable servicial,09/09/2016
+si,5,enero,1,18,5,8000,Regular,despistado,09/09/2016
+si,5,febrero,2,18,14,22400,Excelente,servicial,09/09/2016
+si,5,marzo,3,18,2,3200,Excelente,atento,09/09/2016
+si,5,abril,4,18,8,12800,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,18,7,11200,Excelente,servicial,09/09/2016
+si,5,junio,6,18,18,28800,Excelente,atento,09/09/2016
+si,5,julio,7,18,5,8000,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,18,11,17600,Excelente,servicial,09/09/2016
+si,5,septiembre,9,18,17,27200,Excelente,atento,09/09/2016
+si,5,enero,1,19,12,19200,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,19,5,8000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,19,7,11200,Excelente,servicial,09/09/2016
+si,5,abril,4,19,18,28800,Excelente,atento,09/09/2016
+si,5,mayo,5,19,6,9600,Excelente,amable servicial,09/09/2016
+si,5,junio,6,19,7,11200,Excelente,servicial,09/09/2016
+si,5,julio,7,19,2,3200,Excelente,atento,09/09/2016
+si,5,agosto,8,19,19,30400,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,19,20,32000,Excelente,servicial,09/09/2016
+si,5,enero,1,20,4,6400,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,20,9,14400,Excelente,atento,09/09/2016
+si,5,marzo,3,20,14,22400,Excelente,amable servicial,09/09/2016
+si,5,abril,4,20,18,28800,Excelente,servicial,09/09/2016
+si,5,mayo,5,20,0,0,Excelente,atento,09/09/2016
+si,5,junio,6,20,11,17600,Excelente,amable servicial,09/09/2016
+si,5,julio,7,20,10,16000,Excelente,servicial,09/09/2016
+si,5,agosto,8,20,11,17600,Excelente,atento,09/09/2016
+si,5,septiembre,9,20,20,32000,Excelente,amable servicial,09/09/2016
+si,5,enero,1,21,18,28800,Regular,lento,09/09/2016
+si,5,febrero,2,21,13,20800,Excelente,servicial,09/09/2016
+si,5,marzo,3,21,3,4800,Excelente,atento,09/09/2016
+si,5,abril,4,21,3,4800,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,21,12,19200,Excelente,servicial,09/09/2016
+si,5,junio,6,21,2,3200,Excelente,atento,09/09/2016
+si,5,julio,7,21,19,30400,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,21,15,24000,Excelente,servicial,09/09/2016
+si,5,septiembre,9,21,8,12800,Excelente,atento,09/09/2016
+si,5,enero,1,22,6,9600,Regular,tarado,09/09/2016
+si,5,febrero,2,22,18,28800,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,22,18,28800,Excelente,servicial,09/09/2016
+si,5,abril,4,22,2,3200,Excelente,atento,09/09/2016
+si,5,mayo,5,22,9,14400,Excelente,amable servicial,09/09/2016
+si,5,junio,6,22,17,27200,Excelente,servicial,09/09/2016
+si,5,julio,7,22,18,28800,Excelente,atento,09/09/2016
+si,5,agosto,8,22,4,6400,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,22,14,22400,Excelente,servicial,09/09/2016
+si,5,enero,1,23,19,30400,Regular,despistado,09/09/2016
+si,5,febrero,2,23,8,12800,Excelente,atento,09/09/2016
+si,5,marzo,3,23,11,17600,Excelente,amable servicial,09/09/2016
+si,5,abril,4,23,2,3200,Excelente,servicial,09/09/2016
+si,5,mayo,5,23,14,22400,Excelente,atento,09/09/2016
+si,5,junio,6,23,20,32000,Excelente,amable servicial,09/09/2016
+si,5,julio,7,23,12,19200,Excelente,servicial,09/09/2016
+si,5,agosto,8,23,15,24000,Excelente,atento,09/09/2016
+si,5,septiembre,9,23,4,6400,Excelente,amable servicial,09/09/2016
+si,5,enero,1,24,9,14400,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,24,4,6400,Excelente,servicial,09/09/2016
+si,5,marzo,3,24,20,32000,Excelente,atento,09/09/2016
+si,5,abril,4,24,2,3200,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,24,2,3200,Excelente,servicial,09/09/2016
+si,5,junio,6,24,17,27200,Excelente,atento,09/09/2016
+si,5,julio,7,24,11,17600,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,24,3,4800,Excelente,servicial,09/09/2016
+si,5,septiembre,9,24,11,17600,Excelente,atento,09/09/2016
+si,5,enero,1,25,18,28800,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,25,20,32000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,25,7,11200,Excelente,servicial,09/09/2016
+si,5,abril,4,25,3,4800,Excelente,atento,09/09/2016
+si,5,mayo,5,25,5,8000,Excelente,amable servicial,09/09/2016
+si,5,junio,6,25,9,14400,Excelente,servicial,09/09/2016
+si,5,julio,7,25,0,0,Excelente,atento,09/09/2016
+si,5,agosto,8,25,16,25600,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,25,8,12800,Excelente,servicial,09/09/2016
+si,5,enero,1,26,20,32000,Regular,lento,09/09/2016
+si,5,febrero,2,26,20,32000,Excelente,atento,09/09/2016
+si,5,marzo,3,26,18,28800,Excelente,amable servicial,09/09/2016
+si,5,abril,4,26,7,11200,Excelente,servicial,09/09/2016
+si,5,mayo,5,26,2,3200,Excelente,atento,09/09/2016
+si,5,junio,6,26,16,25600,Excelente,amable servicial,09/09/2016
+si,5,julio,7,26,12,19200,Excelente,servicial,09/09/2016
+si,5,agosto,8,26,4,6400,Excelente,atento,09/09/2016
+si,5,septiembre,9,26,12,19200,Excelente,amable servicial,09/09/2016
+si,5,enero,1,27,0,0,Regular,tarado,09/09/2016
+si,5,febrero,2,27,6,9600,Excelente,servicial,09/09/2016
+si,5,marzo,3,27,11,17600,Excelente,atento,09/09/2016
+si,5,abril,4,27,8,12800,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,27,8,12800,Excelente,servicial,09/09/2016
+si,5,junio,6,27,1,1600,Excelente,atento,09/09/2016
+si,5,julio,7,27,5,8000,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,27,14,22400,Excelente,servicial,09/09/2016
+si,5,septiembre,9,27,5,8000,Excelente,atento,09/09/2016
+si,5,enero,1,28,8,12800,Regular,despistado,09/09/2016
+si,5,febrero,2,28,10,16000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,28,11,17600,Excelente,servicial,09/09/2016
+si,5,abril,4,28,12,19200,Excelente,atento,09/09/2016
+si,5,mayo,5,28,12,19200,Excelente,amable servicial,09/09/2016
+si,5,junio,6,28,0,0,Excelente,servicial,09/09/2016
+si,5,julio,7,28,18,28800,Excelente,atento,09/09/2016
+si,5,agosto,8,28,8,12800,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,28,18,28800,Excelente,servicial,09/09/2016
+si,5,enero,1,29,3,4800,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,29,3,4800,Excelente,atento,09/09/2016
+si,5,marzo,3,29,4,6400,Excelente,amable servicial,09/09/2016
+si,5,abril,4,29,16,25600,Excelente,servicial,09/09/2016
+si,5,mayo,5,29,8,12800,Excelente,atento,09/09/2016
+si,5,junio,6,29,13,20800,Excelente,amable servicial,09/09/2016
+si,5,julio,7,29,10,16000,Excelente,servicial,09/09/2016
+si,5,agosto,8,29,12,19200,Excelente,atento,09/09/2016
+si,5,septiembre,9,29,0,0,Excelente,amable servicial,09/09/2016
+si,5,enero,1,30,1,1600,Regular,lento servicial amigable,09/09/2016
+si,5,febrero,2,30,13,20800,Excelente,servicial,09/09/2016
+si,5,marzo,3,30,16,25600,Excelente,atento,09/09/2016
+si,5,abril,4,30,4,6400,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,30,18,28800,Excelente,servicial,09/09/2016
+si,5,junio,6,30,14,22400,Excelente,atento,09/09/2016
+si,5,julio,7,30,16,25600,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,30,8,12800,Excelente,servicial,09/09/2016
+si,5,septiembre,9,30,20,32000,Excelente,atento,09/09/2016
+si,5,enero,1,31,18,28800,Regular,lento,09/09/2016
+si,5,febrero,2,31,17,27200,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,31,2,3200,Excelente,servicial,09/09/2016
+si,5,abril,4,31,0,0,Excelente,atento,09/09/2016
+si,5,mayo,5,31,17,27200,Excelente,amable servicial,09/09/2016
+si,5,junio,6,31,19,30400,Excelente,servicial,09/09/2016
+si,5,julio,7,31,16,25600,Excelente,atento,09/09/2016
+si,5,agosto,8,31,14,22400,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,31,8,12800,Excelente,servicial,09/09/2016
+si,5,enero,1,32,15,24000,Regular,tarado,09/09/2016
+si,5,febrero,2,32,9,14400,Excelente,atento,09/09/2016
+si,5,marzo,3,32,7,11200,Excelente,amable servicial,09/09/2016
+si,5,abril,4,32,15,24000,Excelente,servicial,09/09/2016
+si,5,mayo,5,32,7,11200,Excelente,atento,09/09/2016
+si,5,junio,6,32,1,1600,Excelente,amable servicial,09/09/2016
+si,5,julio,7,32,14,22400,Excelente,servicial,09/09/2016
+si,5,agosto,8,32,13,20800,Excelente,atento,09/09/2016
+si,5,septiembre,9,32,17,27200,Excelente,amable servicial,09/09/2016
+si,5,enero,1,33,15,24000,Regular,despistado,09/09/2016
+si,5,febrero,2,33,20,32000,Excelente,servicial,09/09/2016
+si,5,marzo,3,33,13,20800,Excelente,atento,09/09/2016
+si,5,abril,4,33,6,9600,Excelente,amable servicial,09/09/2016
+si,5,mayo,5,33,20,32000,Excelente,servicial,09/09/2016
+si,5,junio,6,33,8,12800,Excelente,atento,09/09/2016
+si,5,julio,7,33,12,19200,Excelente,amable servicial,09/09/2016
+si,5,agosto,8,33,1,1600,Excelente,servicial,09/09/2016
+si,5,septiembre,9,33,17,27200,Excelente,atento,09/09/2016
+si,5,enero,1,34,12,19200,Regular,despistado tardado,09/09/2016
+si,5,febrero,2,34,20,32000,Excelente,amable servicial,09/09/2016
+si,5,marzo,3,34,20,32000,Excelente,servicial,09/09/2016
+si,5,abril,4,34,10,16000,Excelente,atento,09/09/2016
+si,5,mayo,5,34,15,24000,Excelente,amable servicial,09/09/2016
+si,5,junio,6,34,5,8000,Excelente,servicial,09/09/2016
+si,5,julio,7,34,11,17600,Excelente,atento,09/09/2016
+si,5,agosto,8,34,17,27200,Excelente,amable servicial,09/09/2016
+si,5,septiembre,9,34,17,27200,Excelente,servicial,09/09/2016
+si,6,enero,1,1,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,1,4,6400,Regular,lento,28/04/2013
+si,6,marzo,3,1,2,3200,Regular,tarado,28/04/2013
+si,6,abril,4,1,1,1600,Regular,despistado,28/04/2013
+si,6,mayo,5,1,12,19200,Regular,despistado tardado,28/04/2013
+si,6,junio,6,1,19,30400,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,1,19,30400,Regular,lento,28/04/2013
+si,6,agosto,8,1,15,24000,Regular,tarado,28/04/2013
+si,6,septiembre,9,1,4,6400,Regular,despistado,28/04/2013
+si,6,enero,1,2,1,1600,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,2,4,6400,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,2,15,24000,Regular,lento,28/04/2013
+si,6,abril,4,2,8,12800,Regular,tarado,28/04/2013
+si,6,mayo,5,2,0,0,Regular,despistado,28/04/2013
+si,6,junio,6,2,3,4800,Regular,despistado tardado,28/04/2013
+si,6,julio,7,2,12,19200,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,2,9,14400,Regular,lento,28/04/2013
+si,6,septiembre,9,2,1,1600,Regular,tarado,28/04/2013
+si,6,enero,1,3,10,16000,Regular,despistado,28/04/2013
+si,6,febrero,2,3,16,25600,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,3,17,27200,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,3,0,0,Regular,lento,28/04/2013
+si,6,mayo,5,3,19,30400,Regular,tarado,28/04/2013
+si,6,junio,6,3,15,24000,Regular,despistado,28/04/2013
+si,6,julio,7,3,17,27200,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,3,4,6400,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,3,17,27200,Regular,lento,28/04/2013
+si,6,enero,1,4,16,25600,Regular,tarado,28/04/2013
+si,6,febrero,2,4,7,11200,Regular,despistado,28/04/2013
+si,6,marzo,3,4,1,1600,Regular,despistado tardado,28/04/2013
+si,6,abril,4,4,4,6400,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,4,1,1600,Regular,lento,28/04/2013
+si,6,junio,6,4,20,32000,Regular,tarado,28/04/2013
+si,6,julio,7,4,15,24000,Regular,despistado,28/04/2013
+si,6,agosto,8,4,8,12800,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,4,2,3200,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,5,16,25600,Regular,lento,28/04/2013
+si,6,febrero,2,5,3,4800,Regular,tarado,28/04/2013
+si,6,marzo,3,5,17,27200,Regular,despistado,28/04/2013
+si,6,abril,4,5,0,0,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,5,3,4800,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,5,2,3200,Regular,lento,28/04/2013
+si,6,julio,7,5,18,28800,Regular,tarado,28/04/2013
+si,6,agosto,8,5,0,0,Regular,despistado,28/04/2013
+si,6,septiembre,9,5,6,9600,Regular,despistado tardado,28/04/2013
+si,6,enero,1,6,3,4800,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,6,16,25600,Regular,lento,28/04/2013
+si,6,marzo,3,6,8,12800,Regular,tarado,28/04/2013
+si,6,abril,4,6,1,1600,Regular,despistado,28/04/2013
+si,6,mayo,5,6,4,6400,Regular,despistado tardado,28/04/2013
+si,6,junio,6,6,19,30400,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,6,17,27200,Regular,lento,28/04/2013
+si,6,agosto,8,6,11,17600,Regular,tarado,28/04/2013
+si,6,septiembre,9,6,11,17600,Regular,despistado,28/04/2013
+si,6,enero,1,7,9,14400,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,7,5,8000,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,7,5,8000,Regular,lento,28/04/2013
+si,6,abril,4,7,8,12800,Regular,tarado,28/04/2013
+si,6,mayo,5,7,12,19200,Regular,despistado,28/04/2013
+si,6,junio,6,7,1,1600,Regular,despistado tardado,28/04/2013
+si,6,julio,7,7,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,7,1,1600,Regular,lento,28/04/2013
+si,6,septiembre,9,7,0,0,Regular,tarado,28/04/2013
+si,6,enero,1,8,12,19200,Regular,despistado,28/04/2013
+si,6,febrero,2,8,6,9600,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,8,0,0,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,8,16,25600,Regular,lento,28/04/2013
+si,6,mayo,5,8,9,14400,Regular,tarado,28/04/2013
+si,6,junio,6,8,5,8000,Regular,despistado,28/04/2013
+si,6,julio,7,8,3,4800,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,8,9,14400,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,8,5,8000,Regular,lento,28/04/2013
+si,6,enero,1,9,8,12800,Regular,tarado,28/04/2013
+si,6,febrero,2,9,9,14400,Regular,despistado,28/04/2013
+si,6,marzo,3,9,17,27200,Regular,despistado tardado,28/04/2013
+si,6,abril,4,9,1,1600,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,9,12,19200,Regular,lento,28/04/2013
+si,6,junio,6,9,7,11200,Regular,tarado,28/04/2013
+si,6,julio,7,9,9,14400,Regular,despistado,28/04/2013
+si,6,agosto,8,9,19,30400,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,9,13,20800,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,10,6,9600,Regular,lento,28/04/2013
+si,6,febrero,2,10,15,24000,Regular,tarado,28/04/2013
+si,6,marzo,3,10,18,28800,Regular,despistado,28/04/2013
+si,6,abril,4,10,4,6400,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,10,14,22400,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,10,5,8000,Regular,lento,28/04/2013
+si,6,julio,7,10,9,14400,Regular,tarado,28/04/2013
+si,6,agosto,8,10,5,8000,Regular,despistado,28/04/2013
+si,6,septiembre,9,10,0,0,Regular,despistado tardado,28/04/2013
+si,6,enero,1,11,17,27200,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,11,11,17600,Regular,lento,28/04/2013
+si,6,marzo,3,11,18,28800,Regular,tarado,28/04/2013
+si,6,abril,4,11,15,24000,Regular,despistado,28/04/2013
+si,6,mayo,5,11,11,17600,Regular,despistado tardado,28/04/2013
+si,6,junio,6,11,12,19200,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,11,0,0,Regular,lento,28/04/2013
+si,6,agosto,8,11,5,8000,Regular,tarado,28/04/2013
+si,6,septiembre,9,11,5,8000,Regular,despistado,28/04/2013
+si,6,enero,1,12,5,8000,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,12,6,9600,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,12,7,11200,Regular,lento,28/04/2013
+si,6,abril,4,12,2,3200,Regular,tarado,28/04/2013
+si,6,mayo,5,12,4,6400,Regular,despistado,28/04/2013
+si,6,junio,6,12,17,27200,Regular,despistado tardado,28/04/2013
+si,6,julio,7,12,16,25600,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,12,17,27200,Regular,lento,28/04/2013
+si,6,septiembre,9,12,20,32000,Regular,tarado,28/04/2013
+si,6,enero,1,13,12,19200,Regular,despistado,28/04/2013
+si,6,febrero,2,13,15,24000,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,13,2,3200,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,13,2,3200,Regular,lento,28/04/2013
+si,6,mayo,5,13,16,25600,Regular,tarado,28/04/2013
+si,6,junio,6,13,12,19200,Regular,despistado,28/04/2013
+si,6,julio,7,13,2,3200,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,13,5,8000,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,13,10,16000,Regular,lento,28/04/2013
+si,6,enero,1,14,12,19200,Regular,tarado,28/04/2013
+si,6,febrero,2,14,13,20800,Regular,despistado,28/04/2013
+si,6,marzo,3,14,18,28800,Regular,despistado tardado,28/04/2013
+si,6,abril,4,14,15,24000,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,14,1,1600,Regular,lento,28/04/2013
+si,6,junio,6,14,13,20800,Regular,tarado,28/04/2013
+si,6,julio,7,14,9,14400,Regular,despistado,28/04/2013
+si,6,agosto,8,14,19,30400,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,14,15,24000,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,15,0,0,Regular,lento,28/04/2013
+si,6,febrero,2,15,0,0,Regular,tarado,28/04/2013
+si,6,marzo,3,15,20,32000,Regular,despistado,28/04/2013
+si,6,abril,4,15,12,19200,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,15,6,9600,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,15,14,22400,Regular,lento,28/04/2013
+si,6,julio,7,15,1,1600,Regular,tarado,28/04/2013
+si,6,agosto,8,15,11,17600,Regular,despistado,28/04/2013
+si,6,septiembre,9,15,16,25600,Regular,despistado tardado,28/04/2013
+si,6,enero,1,16,9,14400,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,16,2,3200,Regular,lento,28/04/2013
+si,6,marzo,3,16,6,9600,Regular,tarado,28/04/2013
+si,6,abril,4,16,2,3200,Regular,despistado,28/04/2013
+si,6,mayo,5,16,8,12800,Regular,despistado tardado,28/04/2013
+si,6,junio,6,16,2,3200,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,16,6,9600,Regular,lento,28/04/2013
+si,6,agosto,8,16,20,32000,Regular,tarado,28/04/2013
+si,6,septiembre,9,16,4,6400,Regular,despistado,28/04/2013
+si,6,enero,1,17,4,6400,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,17,11,17600,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,17,8,12800,Regular,lento,28/04/2013
+si,6,abril,4,17,20,32000,Regular,tarado,28/04/2013
+si,6,mayo,5,17,11,17600,Regular,despistado,28/04/2013
+si,6,junio,6,17,19,30400,Regular,despistado tardado,28/04/2013
+si,6,julio,7,17,3,4800,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,17,17,27200,Regular,lento,28/04/2013
+si,6,septiembre,9,17,9,14400,Regular,tarado,28/04/2013
+si,6,enero,1,18,14,22400,Regular,despistado,28/04/2013
+si,6,febrero,2,18,17,27200,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,18,13,20800,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,18,9,14400,Regular,lento,28/04/2013
+si,6,mayo,5,18,11,17600,Regular,tarado,28/04/2013
+si,6,junio,6,18,5,8000,Regular,despistado,28/04/2013
+si,6,julio,7,18,1,1600,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,18,6,9600,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,18,19,30400,Regular,lento,28/04/2013
+si,6,enero,1,19,17,27200,Regular,tarado,28/04/2013
+si,6,febrero,2,19,2,3200,Regular,despistado,28/04/2013
+si,6,marzo,3,19,5,8000,Regular,despistado tardado,28/04/2013
+si,6,abril,4,19,5,8000,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,19,6,9600,Regular,lento,28/04/2013
+si,6,junio,6,19,20,32000,Regular,tarado,28/04/2013
+si,6,julio,7,19,8,12800,Regular,despistado,28/04/2013
+si,6,agosto,8,19,1,1600,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,19,13,20800,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,20,19,30400,Regular,lento,28/04/2013
+si,6,febrero,2,20,13,20800,Regular,tarado,28/04/2013
+si,6,marzo,3,20,3,4800,Regular,despistado,28/04/2013
+si,6,abril,4,20,1,1600,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,20,11,17600,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,20,14,22400,Regular,lento,28/04/2013
+si,6,julio,7,20,13,20800,Regular,tarado,28/04/2013
+si,6,agosto,8,20,10,16000,Regular,despistado,28/04/2013
+si,6,septiembre,9,20,1,1600,Regular,despistado tardado,28/04/2013
+si,6,enero,1,21,2,3200,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,21,6,9600,Regular,lento,28/04/2013
+si,6,marzo,3,21,17,27200,Regular,tarado,28/04/2013
+si,6,abril,4,21,0,0,Regular,despistado,28/04/2013
+si,6,mayo,5,21,5,8000,Regular,despistado tardado,28/04/2013
+si,6,junio,6,21,2,3200,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,21,7,11200,Regular,lento,28/04/2013
+si,6,agosto,8,21,5,8000,Regular,tarado,28/04/2013
+si,6,septiembre,9,21,15,24000,Regular,despistado,28/04/2013
+si,6,enero,1,22,19,30400,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,22,4,6400,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,22,8,12800,Regular,lento,28/04/2013
+si,6,abril,4,22,3,4800,Regular,tarado,28/04/2013
+si,6,mayo,5,22,5,8000,Regular,despistado,28/04/2013
+si,6,junio,6,22,0,0,Regular,despistado tardado,28/04/2013
+si,6,julio,7,22,7,11200,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,22,15,24000,Regular,lento,28/04/2013
+si,6,septiembre,9,22,19,30400,Regular,tarado,28/04/2013
+si,6,enero,1,23,2,3200,Regular,despistado,28/04/2013
+si,6,febrero,2,23,20,32000,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,23,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,23,11,17600,Regular,lento,28/04/2013
+si,6,mayo,5,23,20,32000,Regular,tarado,28/04/2013
+si,6,junio,6,23,19,30400,Regular,despistado,28/04/2013
+si,6,julio,7,23,11,17600,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,23,10,16000,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,23,0,0,Regular,lento,28/04/2013
+si,6,enero,1,24,14,22400,Regular,tarado,28/04/2013
+si,6,febrero,2,24,7,11200,Regular,despistado,28/04/2013
+si,6,marzo,3,24,6,9600,Regular,despistado tardado,28/04/2013
+si,6,abril,4,24,10,16000,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,24,0,0,Regular,lento,28/04/2013
+si,6,junio,6,24,5,8000,Regular,tarado,28/04/2013
+si,6,julio,7,24,4,6400,Regular,despistado,28/04/2013
+si,6,agosto,8,24,10,16000,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,24,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,25,17,27200,Regular,lento,28/04/2013
+si,6,febrero,2,25,9,14400,Regular,tarado,28/04/2013
+si,6,marzo,3,25,2,3200,Regular,despistado,28/04/2013
+si,6,abril,4,25,20,32000,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,25,16,25600,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,25,3,4800,Regular,lento,28/04/2013
+si,6,julio,7,25,20,32000,Regular,tarado,28/04/2013
+si,6,agosto,8,25,12,19200,Regular,despistado,28/04/2013
+si,6,septiembre,9,25,5,8000,Regular,despistado tardado,28/04/2013
+si,6,enero,1,26,0,0,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,26,18,28800,Regular,lento,28/04/2013
+si,6,marzo,3,26,9,14400,Regular,tarado,28/04/2013
+si,6,abril,4,26,6,9600,Regular,despistado,28/04/2013
+si,6,mayo,5,26,9,14400,Regular,despistado tardado,28/04/2013
+si,6,junio,6,26,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,26,9,14400,Regular,lento,28/04/2013
+si,6,agosto,8,26,7,11200,Regular,tarado,28/04/2013
+si,6,septiembre,9,26,12,19200,Regular,despistado,28/04/2013
+si,6,enero,1,27,13,20800,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,27,10,16000,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,27,4,6400,Regular,lento,28/04/2013
+si,6,abril,4,27,16,25600,Regular,tarado,28/04/2013
+si,6,mayo,5,27,19,30400,Regular,despistado,28/04/2013
+si,6,junio,6,27,0,0,Regular,despistado tardado,28/04/2013
+si,6,julio,7,27,18,28800,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,27,7,11200,Regular,lento,28/04/2013
+si,6,septiembre,9,27,7,11200,Regular,tarado,28/04/2013
+si,6,enero,1,28,4,6400,Regular,despistado,28/04/2013
+si,6,febrero,2,28,12,19200,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,28,10,16000,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,28,6,9600,Regular,lento,28/04/2013
+si,6,mayo,5,28,18,28800,Regular,tarado,28/04/2013
+si,6,junio,6,28,13,20800,Regular,despistado,28/04/2013
+si,6,julio,7,28,11,17600,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,28,13,20800,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,28,17,27200,Regular,lento,28/04/2013
+si,6,enero,1,29,14,22400,Regular,tarado,28/04/2013
+si,6,febrero,2,29,15,24000,Regular,despistado,28/04/2013
+si,6,marzo,3,29,16,25600,Regular,despistado tardado,28/04/2013
+si,6,abril,4,29,14,22400,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,29,2,3200,Regular,lento,28/04/2013
+si,6,junio,6,29,4,6400,Regular,tarado,28/04/2013
+si,6,julio,7,29,15,24000,Regular,despistado,28/04/2013
+si,6,agosto,8,29,7,11200,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,29,8,12800,Regular,lento servicial amigable,28/04/2013
+si,6,enero,1,30,16,25600,Regular,lento,28/04/2013
+si,6,febrero,2,30,7,11200,Regular,tarado,28/04/2013
+si,6,marzo,3,30,12,19200,Regular,despistado,28/04/2013
+si,6,abril,4,30,16,25600,Regular,despistado tardado,28/04/2013
+si,6,mayo,5,30,13,20800,Regular,lento servicial amigable,28/04/2013
+si,6,junio,6,30,19,30400,Regular,lento,28/04/2013
+si,6,julio,7,30,15,24000,Regular,tarado,28/04/2013
+si,6,agosto,8,30,4,6400,Regular,despistado,28/04/2013
+si,6,septiembre,9,30,4,6400,Regular,despistado tardado,28/04/2013
+si,6,enero,1,31,19,30400,Regular,lento servicial amigable,28/04/2013
+si,6,febrero,2,31,14,22400,Regular,lento,28/04/2013
+si,6,marzo,3,31,19,30400,Regular,tarado,28/04/2013
+si,6,abril,4,31,2,3200,Regular,despistado,28/04/2013
+si,6,mayo,5,31,2,3200,Regular,despistado tardado,28/04/2013
+si,6,junio,6,31,14,22400,Regular,lento servicial amigable,28/04/2013
+si,6,julio,7,31,15,24000,Regular,lento,28/04/2013
+si,6,agosto,8,31,7,11200,Regular,tarado,28/04/2013
+si,6,septiembre,9,31,10,16000,Regular,despistado,28/04/2013
+si,6,enero,1,32,14,22400,Regular,despistado tardado,28/04/2013
+si,6,febrero,2,32,3,4800,Regular,lento servicial amigable,28/04/2013
+si,6,marzo,3,32,14,22400,Regular,lento,28/04/2013
+si,6,abril,4,32,1,1600,Regular,tarado,28/04/2013
+si,6,mayo,5,32,4,6400,Regular,despistado,28/04/2013
+si,6,junio,6,32,6,9600,Regular,despistado tardado,28/04/2013
+si,6,julio,7,32,5,8000,Regular,lento servicial amigable,28/04/2013
+si,6,agosto,8,32,8,12800,Regular,lento,28/04/2013
+si,6,septiembre,9,32,16,25600,Regular,tarado,28/04/2013
+si,6,enero,1,33,19,30400,Regular,despistado,28/04/2013
+si,6,febrero,2,33,17,27200,Regular,despistado tardado,28/04/2013
+si,6,marzo,3,33,20,32000,Regular,lento servicial amigable,28/04/2013
+si,6,abril,4,33,16,25600,Regular,lento,28/04/2013
+si,6,mayo,5,33,18,28800,Regular,tarado,28/04/2013
+si,6,junio,6,33,3,4800,Regular,despistado,28/04/2013
+si,6,julio,7,33,7,11200,Regular,despistado tardado,28/04/2013
+si,6,agosto,8,33,6,9600,Regular,lento servicial amigable,28/04/2013
+si,6,septiembre,9,33,10,16000,Regular,lento,28/04/2013
+si,6,enero,1,34,8,12800,Regular,tarado,28/04/2013
+si,6,febrero,2,34,19,30400,Regular,despistado,28/04/2013
+si,6,marzo,3,34,5,8000,Regular,despistado tardado,28/04/2013
+si,6,abril,4,34,17,27200,Regular,lento servicial amigable,28/04/2013
+si,6,mayo,5,34,19,30400,Regular,lento,28/04/2013
+si,6,junio,6,34,20,32000,Regular,tarado,28/04/2013
+si,6,julio,7,34,10,16000,Regular,despistado,28/04/2013
+si,6,agosto,8,34,11,17600,Regular,despistado tardado,28/04/2013
+si,6,septiembre,9,34,5,8000,Regular,lento servicial amigable,28/04/2013
+no,7,enero,1,1,8,12800,Malo,grosero,20/11/2011
+no,7,febrero,2,1,4,6400,Regular,lento,20/11/2011
+no,7,marzo,3,1,3,4800,Regular,tarado,20/11/2011
+no,7,abril,4,1,3,4800,Regular,despistado,20/11/2011
+no,7,mayo,5,1,10,16000,Regular,despistado tardado,20/11/2011
+no,7,junio,6,1,11,17600,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,1,3,4800,Regular,lento,20/11/2011
+no,7,agosto,8,1,7,11200,Malo,lento,20/11/2011
+no,7,septiembre,9,1,17,27200,Regular,tarado,20/11/2011
+no,7,enero,1,2,1,1600,Malo,pesimo,20/11/2011
+no,7,febrero,2,2,8,12800,Regular,despistado,20/11/2011
+no,7,marzo,3,2,15,24000,Regular,despistado tardado,20/11/2011
+no,7,abril,4,2,6,9600,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,2,10,16000,Regular,lento,20/11/2011
+no,7,junio,6,2,5,8000,Regular,tarado,20/11/2011
+no,7,julio,7,2,0,0,Regular,despistado,20/11/2011
+no,7,agosto,8,2,8,12800,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,2,4,6400,Regular,despistado tardado,20/11/2011
+no,7,enero,1,3,4,6400,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,3,20,32000,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,3,9,14400,Regular,lento,20/11/2011
+no,7,abril,4,3,13,20800,Regular,tarado,20/11/2011
+no,7,mayo,5,3,12,19200,Regular,despistado,20/11/2011
+no,7,junio,6,3,20,32000,Regular,despistado tardado,20/11/2011
+no,7,julio,7,3,5,8000,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,3,10,16000,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,3,16,25600,Regular,lento,20/11/2011
+no,7,enero,1,4,20,32000,Malo,grosero,20/11/2011
+no,7,febrero,2,4,2,3200,Regular,tarado,20/11/2011
+no,7,marzo,3,4,3,4800,Regular,despistado,20/11/2011
+no,7,abril,4,4,10,16000,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,4,7,11200,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,4,12,19200,Regular,lento,20/11/2011
+no,7,julio,7,4,6,9600,Regular,tarado,20/11/2011
+no,7,agosto,8,4,7,11200,Malo,lento,20/11/2011
+no,7,septiembre,9,4,17,27200,Regular,despistado,20/11/2011
+no,7,enero,1,5,14,22400,Malo,pesimo,20/11/2011
+no,7,febrero,2,5,5,8000,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,5,5,8000,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,5,10,16000,Regular,lento,20/11/2011
+no,7,mayo,5,5,15,24000,Regular,tarado,20/11/2011
+no,7,junio,6,5,8,12800,Regular,despistado,20/11/2011
+no,7,julio,7,5,5,8000,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,5,13,20800,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,5,16,25600,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,6,6,9600,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,6,3,4800,Regular,lento,20/11/2011
+no,7,marzo,3,6,5,8000,Regular,tarado,20/11/2011
+no,7,abril,4,6,19,30400,Regular,despistado,20/11/2011
+no,7,mayo,5,6,8,12800,Regular,despistado tardado,20/11/2011
+no,7,junio,6,6,1,1600,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,6,6,9600,Regular,lento,20/11/2011
+no,7,agosto,8,6,7,11200,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,6,9,14400,Regular,tarado,20/11/2011
+no,7,enero,1,7,12,19200,Malo,grosero,20/11/2011
+no,7,febrero,2,7,8,12800,Regular,despistado,20/11/2011
+no,7,marzo,3,7,3,4800,Regular,despistado tardado,20/11/2011
+no,7,abril,4,7,17,27200,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,7,12,19200,Regular,lento,20/11/2011
+no,7,junio,6,7,11,17600,Regular,tarado,20/11/2011
+no,7,julio,7,7,8,12800,Regular,despistado,20/11/2011
+no,7,agosto,8,7,1,1600,Malo,lento,20/11/2011
+no,7,septiembre,9,7,8,12800,Regular,despistado tardado,20/11/2011
+no,7,enero,1,8,1,1600,Malo,pesimo,20/11/2011
+no,7,febrero,2,8,13,20800,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,8,15,24000,Regular,lento,20/11/2011
+no,7,abril,4,8,12,19200,Regular,tarado,20/11/2011
+no,7,mayo,5,8,14,22400,Regular,despistado,20/11/2011
+no,7,junio,6,8,8,12800,Regular,despistado tardado,20/11/2011
+no,7,julio,7,8,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,8,20,32000,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,8,5,8000,Regular,lento,20/11/2011
+no,7,enero,1,9,2,3200,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,9,9,14400,Regular,tarado,20/11/2011
+no,7,marzo,3,9,19,30400,Regular,despistado,20/11/2011
+no,7,abril,4,9,11,17600,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,9,19,30400,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,9,2,3200,Regular,lento,20/11/2011
+no,7,julio,7,9,10,16000,Regular,tarado,20/11/2011
+no,7,agosto,8,9,19,30400,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,9,20,32000,Regular,despistado,20/11/2011
+no,7,enero,1,10,11,17600,Malo,grosero,20/11/2011
+no,7,febrero,2,10,0,0,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,10,3,4800,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,10,1,1600,Regular,lento,20/11/2011
+no,7,mayo,5,10,13,20800,Regular,tarado,20/11/2011
+no,7,junio,6,10,11,17600,Regular,despistado,20/11/2011
+no,7,julio,7,10,5,8000,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,10,10,16000,Malo,lento,20/11/2011
+no,7,septiembre,9,10,4,6400,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,11,11,17600,Malo,pesimo,20/11/2011
+no,7,febrero,2,11,20,32000,Regular,lento,20/11/2011
+no,7,marzo,3,11,14,22400,Regular,tarado,20/11/2011
+no,7,abril,4,11,1,1600,Regular,despistado,20/11/2011
+no,7,mayo,5,11,3,4800,Regular,despistado tardado,20/11/2011
+no,7,junio,6,11,14,22400,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,11,14,22400,Regular,lento,20/11/2011
+no,7,agosto,8,11,14,22400,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,11,12,19200,Regular,tarado,20/11/2011
+no,7,enero,1,12,0,0,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,12,1,1600,Regular,despistado,20/11/2011
+no,7,marzo,3,12,8,12800,Regular,despistado tardado,20/11/2011
+no,7,abril,4,12,11,17600,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,12,14,22400,Regular,lento,20/11/2011
+no,7,junio,6,12,1,1600,Regular,tarado,20/11/2011
+no,7,julio,7,12,0,0,Regular,despistado,20/11/2011
+no,7,agosto,8,12,12,19200,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,12,20,32000,Regular,despistado tardado,20/11/2011
+no,7,enero,1,13,3,4800,Malo,grosero,20/11/2011
+no,7,febrero,2,13,17,27200,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,13,7,11200,Regular,lento,20/11/2011
+no,7,abril,4,13,8,12800,Regular,tarado,20/11/2011
+no,7,mayo,5,13,15,24000,Regular,despistado,20/11/2011
+no,7,junio,6,13,0,0,Regular,despistado tardado,20/11/2011
+no,7,julio,7,13,20,32000,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,13,2,3200,Malo,lento,20/11/2011
+no,7,septiembre,9,13,6,9600,Regular,lento,20/11/2011
+no,7,enero,1,14,1,1600,Malo,pesimo,20/11/2011
+no,7,febrero,2,14,9,14400,Regular,tarado,20/11/2011
+no,7,marzo,3,14,8,12800,Regular,despistado,20/11/2011
+no,7,abril,4,14,13,20800,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,14,7,11200,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,14,1,1600,Regular,lento,20/11/2011
+no,7,julio,7,14,17,27200,Regular,tarado,20/11/2011
+no,7,agosto,8,14,14,22400,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,14,6,9600,Regular,despistado,20/11/2011
+no,7,enero,1,15,4,6400,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,15,10,16000,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,15,13,20800,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,15,10,16000,Regular,lento,20/11/2011
+no,7,mayo,5,15,17,27200,Regular,tarado,20/11/2011
+no,7,junio,6,15,8,12800,Regular,despistado,20/11/2011
+no,7,julio,7,15,15,24000,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,15,5,8000,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,15,1,1600,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,16,6,9600,Malo,grosero,20/11/2011
+no,7,febrero,2,16,2,3200,Regular,lento,20/11/2011
+no,7,marzo,3,16,3,4800,Regular,tarado,20/11/2011
+no,7,abril,4,16,8,12800,Regular,despistado,20/11/2011
+no,7,mayo,5,16,5,8000,Regular,despistado tardado,20/11/2011
+no,7,junio,6,16,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,16,3,4800,Regular,lento,20/11/2011
+no,7,agosto,8,16,13,20800,Malo,lento,20/11/2011
+no,7,septiembre,9,16,9,14400,Regular,tarado,20/11/2011
+no,7,enero,1,17,6,9600,Malo,pesimo,20/11/2011
+no,7,febrero,2,17,1,1600,Regular,despistado,20/11/2011
+no,7,marzo,3,17,18,28800,Regular,despistado tardado,20/11/2011
+no,7,abril,4,17,2,3200,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,17,18,28800,Regular,lento,20/11/2011
+no,7,junio,6,17,4,6400,Regular,tarado,20/11/2011
+no,7,julio,7,17,18,28800,Regular,despistado,20/11/2011
+no,7,agosto,8,17,0,0,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,17,8,12800,Regular,despistado tardado,20/11/2011
+no,7,enero,1,18,17,27200,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,18,17,27200,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,18,0,0,Regular,lento,20/11/2011
+no,7,abril,4,18,0,0,Regular,tarado,20/11/2011
+no,7,mayo,5,18,16,25600,Regular,despistado,20/11/2011
+no,7,junio,6,18,19,30400,Regular,despistado tardado,20/11/2011
+no,7,julio,7,18,19,30400,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,18,9,14400,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,18,8,12800,Regular,lento,20/11/2011
+no,7,enero,1,19,7,11200,Malo,grosero,20/11/2011
+no,7,febrero,2,19,11,17600,Regular,tarado,20/11/2011
+no,7,marzo,3,19,8,12800,Regular,despistado,20/11/2011
+no,7,abril,4,19,9,14400,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,19,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,19,6,9600,Regular,lento,20/11/2011
+no,7,julio,7,19,3,4800,Regular,tarado,20/11/2011
+no,7,agosto,8,19,15,24000,Malo,lento,20/11/2011
+no,7,septiembre,9,19,11,17600,Regular,despistado,20/11/2011
+no,7,enero,1,20,6,9600,Malo,pesimo,20/11/2011
+no,7,febrero,2,20,13,20800,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,20,3,4800,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,20,9,14400,Regular,lento,20/11/2011
+no,7,mayo,5,20,16,25600,Regular,tarado,20/11/2011
+no,7,junio,6,20,9,14400,Regular,despistado,20/11/2011
+no,7,julio,7,20,17,27200,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,20,9,14400,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,20,8,12800,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,21,15,24000,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,21,20,32000,Regular,lento,20/11/2011
+no,7,marzo,3,21,3,4800,Regular,tarado,20/11/2011
+no,7,abril,4,21,1,1600,Regular,despistado,20/11/2011
+no,7,mayo,5,21,9,14400,Regular,despistado tardado,20/11/2011
+no,7,junio,6,21,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,21,19,30400,Regular,lento,20/11/2011
+no,7,agosto,8,21,19,30400,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,21,20,32000,Regular,tarado,20/11/2011
+no,7,enero,1,22,3,4800,Malo,grosero,20/11/2011
+no,7,febrero,2,22,6,9600,Regular,despistado,20/11/2011
+no,7,marzo,3,22,9,14400,Regular,despistado tardado,20/11/2011
+no,7,abril,4,22,1,1600,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,22,7,11200,Regular,lento,20/11/2011
+no,7,junio,6,22,17,27200,Regular,tarado,20/11/2011
+no,7,julio,7,22,2,3200,Regular,despistado,20/11/2011
+no,7,agosto,8,22,4,6400,Malo,lento,20/11/2011
+no,7,septiembre,9,22,1,1600,Regular,despistado tardado,20/11/2011
+no,7,enero,1,23,0,0,Malo,pesimo,20/11/2011
+no,7,febrero,2,23,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,23,12,19200,Regular,lento,20/11/2011
+no,7,abril,4,23,13,20800,Regular,tarado,20/11/2011
+no,7,mayo,5,23,14,22400,Regular,despistado,20/11/2011
+no,7,junio,6,23,13,20800,Regular,despistado tardado,20/11/2011
+no,7,julio,7,23,20,32000,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,23,10,16000,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,23,7,11200,Regular,lento,20/11/2011
+no,7,enero,1,24,1,1600,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,24,5,8000,Regular,tarado,20/11/2011
+no,7,marzo,3,24,4,6400,Regular,despistado,20/11/2011
+no,7,abril,4,24,20,32000,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,24,7,11200,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,24,10,16000,Regular,lento,20/11/2011
+no,7,julio,7,24,4,6400,Regular,tarado,20/11/2011
+no,7,agosto,8,24,20,32000,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,24,1,1600,Regular,despistado,20/11/2011
+no,7,enero,1,25,13,20800,Malo,grosero,20/11/2011
+no,7,febrero,2,25,4,6400,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,25,19,30400,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,25,8,12800,Regular,lento,20/11/2011
+no,7,mayo,5,25,0,0,Regular,tarado,20/11/2011
+no,7,junio,6,25,13,20800,Regular,despistado,20/11/2011
+no,7,julio,7,25,17,27200,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,25,13,20800,Malo,lento,20/11/2011
+no,7,septiembre,9,25,15,24000,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,26,3,4800,Malo,pesimo,20/11/2011
+no,7,febrero,2,26,3,4800,Regular,lento,20/11/2011
+no,7,marzo,3,26,1,1600,Regular,tarado,20/11/2011
+no,7,abril,4,26,4,6400,Regular,despistado,20/11/2011
+no,7,mayo,5,26,15,24000,Regular,despistado tardado,20/11/2011
+no,7,junio,6,26,3,4800,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,26,15,24000,Regular,lento,20/11/2011
+no,7,agosto,8,26,1,1600,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,26,7,11200,Regular,tarado,20/11/2011
+no,7,enero,1,27,13,20800,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,27,4,6400,Regular,despistado,20/11/2011
+no,7,marzo,3,27,0,0,Regular,despistado tardado,20/11/2011
+no,7,abril,4,27,20,32000,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,27,6,9600,Regular,lento,20/11/2011
+no,7,junio,6,27,3,4800,Regular,tarado,20/11/2011
+no,7,julio,7,27,19,30400,Regular,despistado,20/11/2011
+no,7,agosto,8,27,19,30400,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,27,10,16000,Regular,despistado tardado,20/11/2011
+no,7,enero,1,28,0,0,Malo,grosero,20/11/2011
+no,7,febrero,2,28,13,20800,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,28,19,30400,Regular,lento,20/11/2011
+no,7,abril,4,28,14,22400,Regular,tarado,20/11/2011
+no,7,mayo,5,28,5,8000,Regular,despistado,20/11/2011
+no,7,junio,6,28,9,14400,Regular,despistado tardado,20/11/2011
+no,7,julio,7,28,14,22400,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,28,8,12800,Malo,lento,20/11/2011
+no,7,septiembre,9,28,7,11200,Regular,lento,20/11/2011
+no,7,enero,1,29,5,8000,Malo,pesimo,20/11/2011
+no,7,febrero,2,29,2,3200,Regular,tarado,20/11/2011
+no,7,marzo,3,29,0,0,Regular,despistado,20/11/2011
+no,7,abril,4,29,4,6400,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,29,14,22400,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,29,17,27200,Regular,lento,20/11/2011
+no,7,julio,7,29,7,11200,Regular,tarado,20/11/2011
+no,7,agosto,8,29,2,3200,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,29,17,27200,Regular,despistado,20/11/2011
+no,7,enero,1,30,6,9600,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,30,20,32000,Regular,despistado tardado,20/11/2011
+no,7,marzo,3,30,17,27200,Regular,lento servicial amigable,20/11/2011
+no,7,abril,4,30,10,16000,Regular,lento,20/11/2011
+no,7,mayo,5,30,8,12800,Regular,tarado,20/11/2011
+no,7,junio,6,30,15,24000,Regular,despistado,20/11/2011
+no,7,julio,7,30,10,16000,Regular,despistado tardado,20/11/2011
+no,7,agosto,8,30,7,11200,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,30,12,19200,Regular,lento servicial amigable,20/11/2011
+no,7,enero,1,31,15,24000,Malo,grosero,20/11/2011
+no,7,febrero,2,31,20,32000,Regular,lento,20/11/2011
+no,7,marzo,3,31,19,30400,Regular,tarado,20/11/2011
+no,7,abril,4,31,20,32000,Regular,despistado,20/11/2011
+no,7,mayo,5,31,4,6400,Regular,despistado tardado,20/11/2011
+no,7,junio,6,31,5,8000,Regular,lento servicial amigable,20/11/2011
+no,7,julio,7,31,18,28800,Regular,lento,20/11/2011
+no,7,agosto,8,31,6,9600,Malo,lento,20/11/2011
+no,7,septiembre,9,31,20,32000,Regular,tarado,20/11/2011
+no,7,enero,1,32,14,22400,Malo,pesimo,20/11/2011
+no,7,febrero,2,32,15,24000,Regular,despistado,20/11/2011
+no,7,marzo,3,32,8,12800,Regular,despistado tardado,20/11/2011
+no,7,abril,4,32,17,27200,Regular,lento servicial amigable,20/11/2011
+no,7,mayo,5,32,18,28800,Regular,lento,20/11/2011
+no,7,junio,6,32,15,24000,Regular,tarado,20/11/2011
+no,7,julio,7,32,6,9600,Regular,despistado,20/11/2011
+no,7,agosto,8,32,11,17600,Malo,desconsiderado,20/11/2011
+no,7,septiembre,9,32,3,4800,Regular,despistado tardado,20/11/2011
+no,7,enero,1,33,0,0,Malo,maleducado desconsiderado,20/11/2011
+no,7,febrero,2,33,13,20800,Regular,lento servicial amigable,20/11/2011
+no,7,marzo,3,33,20,32000,Regular,lento,20/11/2011
+no,7,abril,4,33,6,9600,Regular,tarado,20/11/2011
+no,7,mayo,5,33,17,27200,Regular,despistado,20/11/2011
+no,7,junio,6,33,4,6400,Regular,despistado tardado,20/11/2011
+no,7,julio,7,33,10,16000,Regular,lento servicial amigable,20/11/2011
+no,7,agosto,8,33,20,32000,Malo,indiscreto grosero,20/11/2011
+no,7,septiembre,9,33,10,16000,Regular,lento,20/11/2011
+no,7,enero,1,34,20,32000,Malo,grosero,20/11/2011
+no,7,febrero,2,34,9,14400,Regular,tarado,20/11/2011
+no,7,marzo,3,34,2,3200,Regular,despistado,20/11/2011
+no,7,abril,4,34,1,1600,Regular,despistado tardado,20/11/2011
+no,7,mayo,5,34,7,11200,Regular,lento servicial amigable,20/11/2011
+no,7,junio,6,34,6,9600,Regular,lento,20/11/2011
+no,7,julio,7,34,6,9600,Regular,tarado,20/11/2011
+no,7,agosto,8,34,6,9600,Malo,lento,20/11/2011
+no,7,septiembre,9,34,7,11200,Regular,despistado,20/11/2011
+no,8,enero,1,1,16,25600,Malo,pesimo,16/07/2019
+no,8,febrero,2,1,5,8000,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,1,1,1600,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,1,1,1600,Regular,lento,16/07/2019
+no,8,mayo,5,1,1,1600,Regular,tarado,16/07/2019
+no,8,junio,6,1,0,0,Regular,despistado,16/07/2019
+no,8,julio,7,1,4,6400,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,1,10,16000,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,1,19,30400,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,2,2,3200,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,2,18,28800,Regular,lento,16/07/2019
+no,8,marzo,3,2,15,24000,Regular,tarado,16/07/2019
+no,8,abril,4,2,6,9600,Regular,despistado,16/07/2019
+no,8,mayo,5,2,5,8000,Regular,despistado tardado,16/07/2019
+no,8,junio,6,2,13,20800,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,2,8,12800,Regular,lento,16/07/2019
+no,8,agosto,8,2,1,1600,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,2,4,6400,Regular,tarado,16/07/2019
+no,8,enero,1,3,16,25600,Malo,grosero,16/07/2019
+no,8,febrero,2,3,20,32000,Regular,despistado,16/07/2019
+no,8,marzo,3,3,4,6400,Regular,despistado tardado,16/07/2019
+no,8,abril,4,3,0,0,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,3,14,22400,Regular,lento,16/07/2019
+no,8,junio,6,3,11,17600,Regular,tarado,16/07/2019
+no,8,julio,7,3,14,22400,Regular,despistado,16/07/2019
+no,8,agosto,8,3,13,20800,Malo,lento,16/07/2019
+no,8,septiembre,9,3,12,19200,Regular,despistado tardado,16/07/2019
+no,8,enero,1,4,11,17600,Malo,pesimo,16/07/2019
+no,8,febrero,2,4,15,24000,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,4,15,24000,Regular,lento,16/07/2019
+no,8,abril,4,4,17,27200,Regular,tarado,16/07/2019
+no,8,mayo,5,4,6,9600,Regular,despistado,16/07/2019
+no,8,junio,6,4,5,8000,Regular,despistado tardado,16/07/2019
+no,8,julio,7,4,1,1600,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,4,0,0,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,4,16,25600,Regular,lento,16/07/2019
+no,8,enero,1,5,10,16000,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,5,18,28800,Regular,tarado,16/07/2019
+no,8,marzo,3,5,6,9600,Regular,despistado,16/07/2019
+no,8,abril,4,5,18,28800,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,5,16,25600,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,5,7,11200,Regular,lento,16/07/2019
+no,8,julio,7,5,3,4800,Regular,tarado,16/07/2019
+no,8,agosto,8,5,7,11200,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,5,17,27200,Regular,despistado,16/07/2019
+no,8,enero,1,6,15,24000,Malo,grosero,16/07/2019
+no,8,febrero,2,6,10,16000,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,6,19,30400,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,6,9,14400,Regular,lento,16/07/2019
+no,8,mayo,5,6,8,12800,Regular,tarado,16/07/2019
+no,8,junio,6,6,13,20800,Regular,despistado,16/07/2019
+no,8,julio,7,6,17,27200,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,6,1,1600,Malo,lento,16/07/2019
+no,8,septiembre,9,6,5,8000,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,7,5,8000,Malo,pesimo,16/07/2019
+no,8,febrero,2,7,2,3200,Regular,lento,16/07/2019
+no,8,marzo,3,7,15,24000,Regular,tarado,16/07/2019
+no,8,abril,4,7,3,4800,Regular,despistado,16/07/2019
+no,8,mayo,5,7,11,17600,Regular,despistado tardado,16/07/2019
+no,8,junio,6,7,2,3200,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,7,7,11200,Regular,lento,16/07/2019
+no,8,agosto,8,7,20,32000,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,7,4,6400,Regular,tarado,16/07/2019
+no,8,enero,1,8,5,8000,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,8,16,25600,Regular,despistado,16/07/2019
+no,8,marzo,3,8,1,1600,Regular,despistado tardado,16/07/2019
+no,8,abril,4,8,9,14400,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,8,4,6400,Regular,lento,16/07/2019
+no,8,junio,6,8,2,3200,Regular,tarado,16/07/2019
+no,8,julio,7,8,10,16000,Regular,despistado,16/07/2019
+no,8,agosto,8,8,16,25600,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,8,6,9600,Regular,despistado tardado,16/07/2019
+no,8,enero,1,9,5,8000,Malo,grosero,16/07/2019
+no,8,febrero,2,9,20,32000,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,9,4,6400,Regular,lento,16/07/2019
+no,8,abril,4,9,18,28800,Regular,tarado,16/07/2019
+no,8,mayo,5,9,10,16000,Regular,despistado,16/07/2019
+no,8,junio,6,9,0,0,Regular,despistado tardado,16/07/2019
+no,8,julio,7,9,2,3200,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,9,8,12800,Malo,lento,16/07/2019
+no,8,septiembre,9,9,15,24000,Regular,lento,16/07/2019
+no,8,enero,1,10,17,27200,Malo,pesimo,16/07/2019
+no,8,febrero,2,10,1,1600,Regular,tarado,16/07/2019
+no,8,marzo,3,10,0,0,Regular,despistado,16/07/2019
+no,8,abril,4,10,1,1600,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,10,15,24000,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,10,0,0,Regular,lento,16/07/2019
+no,8,julio,7,10,19,30400,Regular,tarado,16/07/2019
+no,8,agosto,8,10,4,6400,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,10,11,17600,Regular,despistado,16/07/2019
+no,8,enero,1,11,9,14400,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,11,8,12800,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,11,18,28800,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,11,0,0,Regular,lento,16/07/2019
+no,8,mayo,5,11,0,0,Regular,tarado,16/07/2019
+no,8,junio,6,11,4,6400,Regular,despistado,16/07/2019
+no,8,julio,7,11,2,3200,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,11,12,19200,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,11,5,8000,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,12,2,3200,Malo,grosero,16/07/2019
+no,8,febrero,2,12,17,27200,Regular,lento,16/07/2019
+no,8,marzo,3,12,13,20800,Regular,tarado,16/07/2019
+no,8,abril,4,12,20,32000,Regular,despistado,16/07/2019
+no,8,mayo,5,12,6,9600,Regular,despistado tardado,16/07/2019
+no,8,junio,6,12,8,12800,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,12,3,4800,Regular,lento,16/07/2019
+no,8,agosto,8,12,10,16000,Malo,lento,16/07/2019
+no,8,septiembre,9,12,13,20800,Regular,tarado,16/07/2019
+no,8,enero,1,13,15,24000,Malo,pesimo,16/07/2019
+no,8,febrero,2,13,12,19200,Regular,despistado,16/07/2019
+no,8,marzo,3,13,9,14400,Regular,despistado tardado,16/07/2019
+no,8,abril,4,13,18,28800,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,13,5,8000,Regular,lento,16/07/2019
+no,8,junio,6,13,3,4800,Regular,tarado,16/07/2019
+no,8,julio,7,13,5,8000,Regular,despistado,16/07/2019
+no,8,agosto,8,13,7,11200,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,13,2,3200,Regular,despistado tardado,16/07/2019
+no,8,enero,1,14,19,30400,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,14,9,14400,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,14,5,8000,Regular,lento,16/07/2019
+no,8,abril,4,14,7,11200,Regular,tarado,16/07/2019
+no,8,mayo,5,14,14,22400,Regular,despistado,16/07/2019
+no,8,junio,6,14,17,27200,Regular,despistado tardado,16/07/2019
+no,8,julio,7,14,14,22400,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,14,12,19200,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,14,1,1600,Regular,lento,16/07/2019
+no,8,enero,1,15,6,9600,Malo,grosero,16/07/2019
+no,8,febrero,2,15,8,12800,Regular,tarado,16/07/2019
+no,8,marzo,3,15,19,30400,Regular,despistado,16/07/2019
+no,8,abril,4,15,14,22400,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,15,8,12800,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,15,13,20800,Regular,lento,16/07/2019
+no,8,julio,7,15,12,19200,Regular,tarado,16/07/2019
+no,8,agosto,8,15,7,11200,Malo,lento,16/07/2019
+no,8,septiembre,9,15,5,8000,Regular,despistado,16/07/2019
+no,8,enero,1,16,2,3200,Malo,pesimo,16/07/2019
+no,8,febrero,2,16,13,20800,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,16,18,28800,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,16,7,11200,Regular,lento,16/07/2019
+no,8,mayo,5,16,14,22400,Regular,tarado,16/07/2019
+no,8,junio,6,16,2,3200,Regular,despistado,16/07/2019
+no,8,julio,7,16,3,4800,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,16,10,16000,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,16,7,11200,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,17,6,9600,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,17,19,30400,Regular,lento,16/07/2019
+no,8,marzo,3,17,16,25600,Regular,tarado,16/07/2019
+no,8,abril,4,17,15,24000,Regular,despistado,16/07/2019
+no,8,mayo,5,17,19,30400,Regular,despistado tardado,16/07/2019
+no,8,junio,6,17,14,22400,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,17,19,30400,Regular,lento,16/07/2019
+no,8,agosto,8,17,16,25600,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,17,7,11200,Regular,tarado,16/07/2019
+no,8,enero,1,18,15,24000,Malo,grosero,16/07/2019
+no,8,febrero,2,18,2,3200,Regular,despistado,16/07/2019
+no,8,marzo,3,18,19,30400,Regular,despistado tardado,16/07/2019
+no,8,abril,4,18,18,28800,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,18,9,14400,Regular,lento,16/07/2019
+no,8,junio,6,18,13,20800,Regular,tarado,16/07/2019
+no,8,julio,7,18,1,1600,Regular,despistado,16/07/2019
+no,8,agosto,8,18,5,8000,Malo,lento,16/07/2019
+no,8,septiembre,9,18,11,17600,Regular,despistado tardado,16/07/2019
+no,8,enero,1,19,10,16000,Malo,pesimo,16/07/2019
+no,8,febrero,2,19,8,12800,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,19,14,22400,Regular,lento,16/07/2019
+no,8,abril,4,19,2,3200,Regular,tarado,16/07/2019
+no,8,mayo,5,19,4,6400,Regular,despistado,16/07/2019
+no,8,junio,6,19,18,28800,Regular,despistado tardado,16/07/2019
+no,8,julio,7,19,3,4800,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,19,16,25600,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,19,14,22400,Regular,lento,16/07/2019
+no,8,enero,1,20,17,27200,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,20,14,22400,Regular,tarado,16/07/2019
+no,8,marzo,3,20,14,22400,Regular,despistado,16/07/2019
+no,8,abril,4,20,10,16000,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,20,17,27200,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,20,20,32000,Regular,lento,16/07/2019
+no,8,julio,7,20,14,22400,Regular,tarado,16/07/2019
+no,8,agosto,8,20,8,12800,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,20,0,0,Regular,despistado,16/07/2019
+no,8,enero,1,21,15,24000,Malo,grosero,16/07/2019
+no,8,febrero,2,21,14,22400,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,21,1,1600,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,21,7,11200,Regular,lento,16/07/2019
+no,8,mayo,5,21,1,1600,Regular,tarado,16/07/2019
+no,8,junio,6,21,3,4800,Regular,despistado,16/07/2019
+no,8,julio,7,21,6,9600,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,21,10,16000,Malo,lento,16/07/2019
+no,8,septiembre,9,21,17,27200,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,22,16,25600,Malo,pesimo,16/07/2019
+no,8,febrero,2,22,10,16000,Regular,lento,16/07/2019
+no,8,marzo,3,22,11,17600,Regular,tarado,16/07/2019
+no,8,abril,4,22,8,12800,Regular,despistado,16/07/2019
+no,8,mayo,5,22,9,14400,Regular,despistado tardado,16/07/2019
+no,8,junio,6,22,4,6400,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,22,8,12800,Regular,lento,16/07/2019
+no,8,agosto,8,22,15,24000,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,22,17,27200,Regular,tarado,16/07/2019
+no,8,enero,1,23,16,25600,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,23,16,25600,Regular,despistado,16/07/2019
+no,8,marzo,3,23,11,17600,Regular,despistado tardado,16/07/2019
+no,8,abril,4,23,15,24000,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,23,7,11200,Regular,lento,16/07/2019
+no,8,junio,6,23,16,25600,Regular,tarado,16/07/2019
+no,8,julio,7,23,12,19200,Regular,despistado,16/07/2019
+no,8,agosto,8,23,14,22400,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,23,7,11200,Regular,despistado tardado,16/07/2019
+no,8,enero,1,24,1,1600,Malo,grosero,16/07/2019
+no,8,febrero,2,24,14,22400,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,24,3,4800,Regular,lento,16/07/2019
+no,8,abril,4,24,2,3200,Regular,tarado,16/07/2019
+no,8,mayo,5,24,18,28800,Regular,despistado,16/07/2019
+no,8,junio,6,24,10,16000,Regular,despistado tardado,16/07/2019
+no,8,julio,7,24,19,30400,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,24,16,25600,Malo,lento,16/07/2019
+no,8,septiembre,9,24,3,4800,Regular,lento,16/07/2019
+no,8,enero,1,25,7,11200,Malo,pesimo,16/07/2019
+no,8,febrero,2,25,14,22400,Regular,tarado,16/07/2019
+no,8,marzo,3,25,12,19200,Regular,despistado,16/07/2019
+no,8,abril,4,25,16,25600,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,25,6,9600,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,25,4,6400,Regular,lento,16/07/2019
+no,8,julio,7,25,0,0,Regular,tarado,16/07/2019
+no,8,agosto,8,25,1,1600,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,25,19,30400,Regular,despistado,16/07/2019
+no,8,enero,1,26,9,14400,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,26,20,32000,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,26,6,9600,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,26,11,17600,Regular,lento,16/07/2019
+no,8,mayo,5,26,12,19200,Regular,tarado,16/07/2019
+no,8,junio,6,26,13,20800,Regular,despistado,16/07/2019
+no,8,julio,7,26,17,27200,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,26,8,12800,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,26,4,6400,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,27,14,22400,Malo,grosero,16/07/2019
+no,8,febrero,2,27,14,22400,Regular,lento,16/07/2019
+no,8,marzo,3,27,11,17600,Regular,tarado,16/07/2019
+no,8,abril,4,27,5,8000,Regular,despistado,16/07/2019
+no,8,mayo,5,27,7,11200,Regular,despistado tardado,16/07/2019
+no,8,junio,6,27,5,8000,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,27,9,14400,Regular,lento,16/07/2019
+no,8,agosto,8,27,6,9600,Malo,lento,16/07/2019
+no,8,septiembre,9,27,20,32000,Regular,tarado,16/07/2019
+no,8,enero,1,28,11,17600,Malo,pesimo,16/07/2019
+no,8,febrero,2,28,7,11200,Regular,despistado,16/07/2019
+no,8,marzo,3,28,6,9600,Regular,despistado tardado,16/07/2019
+no,8,abril,4,28,9,14400,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,28,13,20800,Regular,lento,16/07/2019
+no,8,junio,6,28,11,17600,Regular,tarado,16/07/2019
+no,8,julio,7,28,19,30400,Regular,despistado,16/07/2019
+no,8,agosto,8,28,12,19200,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,28,20,32000,Regular,despistado tardado,16/07/2019
+no,8,enero,1,29,12,19200,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,29,17,27200,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,29,18,28800,Regular,lento,16/07/2019
+no,8,abril,4,29,6,9600,Regular,tarado,16/07/2019
+no,8,mayo,5,29,9,14400,Regular,despistado,16/07/2019
+no,8,junio,6,29,18,28800,Regular,despistado tardado,16/07/2019
+no,8,julio,7,29,1,1600,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,29,3,4800,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,29,0,0,Regular,lento,16/07/2019
+no,8,enero,1,30,5,8000,Malo,grosero,16/07/2019
+no,8,febrero,2,30,13,20800,Regular,tarado,16/07/2019
+no,8,marzo,3,30,2,3200,Regular,despistado,16/07/2019
+no,8,abril,4,30,17,27200,Regular,despistado tardado,16/07/2019
+no,8,mayo,5,30,17,27200,Regular,lento servicial amigable,16/07/2019
+no,8,junio,6,30,19,30400,Regular,lento,16/07/2019
+no,8,julio,7,30,13,20800,Regular,tarado,16/07/2019
+no,8,agosto,8,30,1,1600,Malo,lento,16/07/2019
+no,8,septiembre,9,30,1,1600,Regular,despistado,16/07/2019
+no,8,enero,1,31,17,27200,Malo,pesimo,16/07/2019
+no,8,febrero,2,31,16,25600,Regular,despistado tardado,16/07/2019
+no,8,marzo,3,31,19,30400,Regular,lento servicial amigable,16/07/2019
+no,8,abril,4,31,15,24000,Regular,lento,16/07/2019
+no,8,mayo,5,31,17,27200,Regular,tarado,16/07/2019
+no,8,junio,6,31,8,12800,Regular,despistado,16/07/2019
+no,8,julio,7,31,9,14400,Regular,despistado tardado,16/07/2019
+no,8,agosto,8,31,8,12800,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,31,3,4800,Regular,lento servicial amigable,16/07/2019
+no,8,enero,1,32,9,14400,Malo,maleducado desconsiderado,16/07/2019
+no,8,febrero,2,32,6,9600,Regular,lento,16/07/2019
+no,8,marzo,3,32,6,9600,Regular,tarado,16/07/2019
+no,8,abril,4,32,17,27200,Regular,despistado,16/07/2019
+no,8,mayo,5,32,3,4800,Regular,despistado tardado,16/07/2019
+no,8,junio,6,32,4,6400,Regular,lento servicial amigable,16/07/2019
+no,8,julio,7,32,7,11200,Regular,lento,16/07/2019
+no,8,agosto,8,32,15,24000,Malo,indiscreto grosero,16/07/2019
+no,8,septiembre,9,32,10,16000,Regular,tarado,16/07/2019
+no,8,enero,1,33,15,24000,Malo,grosero,16/07/2019
+no,8,febrero,2,33,15,24000,Regular,despistado,16/07/2019
+no,8,marzo,3,33,16,25600,Regular,despistado tardado,16/07/2019
+no,8,abril,4,33,3,4800,Regular,lento servicial amigable,16/07/2019
+no,8,mayo,5,33,4,6400,Regular,lento,16/07/2019
+no,8,junio,6,33,16,25600,Regular,tarado,16/07/2019
+no,8,julio,7,33,13,20800,Regular,despistado,16/07/2019
+no,8,agosto,8,33,17,27200,Malo,lento,16/07/2019
+no,8,septiembre,9,33,9,14400,Regular,despistado tardado,16/07/2019
+no,8,enero,1,34,7,11200,Malo,pesimo,16/07/2019
+no,8,febrero,2,34,10,16000,Regular,lento servicial amigable,16/07/2019
+no,8,marzo,3,34,1,1600,Regular,lento,16/07/2019
+no,8,abril,4,34,9,14400,Regular,tarado,16/07/2019
+no,8,mayo,5,34,8,12800,Regular,despistado,16/07/2019
+no,8,junio,6,34,8,12800,Regular,despistado tardado,16/07/2019
+no,8,julio,7,34,12,19200,Regular,lento servicial amigable,16/07/2019
+no,8,agosto,8,34,15,24000,Malo,desconsiderado,16/07/2019
+no,8,septiembre,9,34,11,17600,Regular,lento,16/07/2019
+no,9,enero,1,1,0,0,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,1,14,22400,Regular,tarado,26/08/2017
+no,9,marzo,3,1,5,8000,Regular,despistado,26/08/2017
+no,9,abril,4,1,11,17600,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,1,20,32000,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,1,11,17600,Regular,lento,26/08/2017
+no,9,julio,7,1,16,25600,Regular,tarado,26/08/2017
+no,9,agosto,8,1,4,6400,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,1,15,24000,Regular,despistado,26/08/2017
+no,9,enero,1,2,9,14400,Malo,grosero,26/08/2017
+no,9,febrero,2,2,16,25600,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,2,2,3200,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,2,20,32000,Regular,lento,26/08/2017
+no,9,mayo,5,2,10,16000,Regular,tarado,26/08/2017
+no,9,junio,6,2,9,14400,Regular,despistado,26/08/2017
+no,9,julio,7,2,6,9600,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,2,0,0,Malo,lento,26/08/2017
+no,9,septiembre,9,2,20,32000,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,3,16,25600,Malo,pesimo,26/08/2017
+no,9,febrero,2,3,2,3200,Regular,lento,26/08/2017
+no,9,marzo,3,3,1,1600,Regular,tarado,26/08/2017
+no,9,abril,4,3,9,14400,Regular,despistado,26/08/2017
+no,9,mayo,5,3,12,19200,Regular,despistado tardado,26/08/2017
+no,9,junio,6,3,20,32000,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,3,16,25600,Regular,lento,26/08/2017
+no,9,agosto,8,3,13,20800,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,3,0,0,Regular,tarado,26/08/2017
+no,9,enero,1,4,10,16000,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,4,2,3200,Regular,despistado,26/08/2017
+no,9,marzo,3,4,13,20800,Regular,despistado tardado,26/08/2017
+no,9,abril,4,4,2,3200,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,4,10,16000,Regular,lento,26/08/2017
+no,9,junio,6,4,9,14400,Regular,tarado,26/08/2017
+no,9,julio,7,4,1,1600,Regular,despistado,26/08/2017
+no,9,agosto,8,4,1,1600,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,4,14,22400,Regular,despistado tardado,26/08/2017
+no,9,enero,1,5,9,14400,Malo,grosero,26/08/2017
+no,9,febrero,2,5,10,16000,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,5,14,22400,Regular,lento,26/08/2017
+no,9,abril,4,5,15,24000,Regular,tarado,26/08/2017
+no,9,mayo,5,5,9,14400,Regular,despistado,26/08/2017
+no,9,junio,6,5,4,6400,Regular,despistado tardado,26/08/2017
+no,9,julio,7,5,14,22400,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,5,12,19200,Malo,lento,26/08/2017
+no,9,septiembre,9,5,8,12800,Regular,lento,26/08/2017
+no,9,enero,1,6,3,4800,Malo,pesimo,26/08/2017
+no,9,febrero,2,6,13,20800,Regular,tarado,26/08/2017
+no,9,marzo,3,6,18,28800,Regular,despistado,26/08/2017
+no,9,abril,4,6,5,8000,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,6,1,1600,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,6,9,14400,Regular,lento,26/08/2017
+no,9,julio,7,6,1,1600,Regular,tarado,26/08/2017
+no,9,agosto,8,6,18,28800,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,6,16,25600,Regular,despistado,26/08/2017
+no,9,enero,1,7,7,11200,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,7,2,3200,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,7,13,20800,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,7,6,9600,Regular,lento,26/08/2017
+no,9,mayo,5,7,15,24000,Regular,tarado,26/08/2017
+no,9,junio,6,7,10,16000,Regular,despistado,26/08/2017
+no,9,julio,7,7,9,14400,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,7,19,30400,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,7,14,22400,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,8,4,6400,Malo,grosero,26/08/2017
+no,9,febrero,2,8,3,4800,Regular,lento,26/08/2017
+no,9,marzo,3,8,9,14400,Regular,tarado,26/08/2017
+no,9,abril,4,8,5,8000,Regular,despistado,26/08/2017
+no,9,mayo,5,8,12,19200,Regular,despistado tardado,26/08/2017
+no,9,junio,6,8,19,30400,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,8,0,0,Regular,lento,26/08/2017
+no,9,agosto,8,8,8,12800,Malo,lento,26/08/2017
+no,9,septiembre,9,8,8,12800,Regular,tarado,26/08/2017
+no,9,enero,1,9,19,30400,Malo,pesimo,26/08/2017
+no,9,febrero,2,9,1,1600,Regular,despistado,26/08/2017
+no,9,marzo,3,9,0,0,Regular,despistado tardado,26/08/2017
+no,9,abril,4,9,4,6400,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,9,11,17600,Regular,lento,26/08/2017
+no,9,junio,6,9,8,12800,Regular,tarado,26/08/2017
+no,9,julio,7,9,16,25600,Regular,despistado,26/08/2017
+no,9,agosto,8,9,17,27200,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,9,9,14400,Regular,despistado tardado,26/08/2017
+no,9,enero,1,10,3,4800,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,10,13,20800,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,10,16,25600,Regular,lento,26/08/2017
+no,9,abril,4,10,1,1600,Regular,tarado,26/08/2017
+no,9,mayo,5,10,3,4800,Regular,despistado,26/08/2017
+no,9,junio,6,10,8,12800,Regular,despistado tardado,26/08/2017
+no,9,julio,7,10,18,28800,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,10,12,19200,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,10,1,1600,Regular,lento,26/08/2017
+no,9,enero,1,11,20,32000,Malo,grosero,26/08/2017
+no,9,febrero,2,11,13,20800,Regular,tarado,26/08/2017
+no,9,marzo,3,11,17,27200,Regular,despistado,26/08/2017
+no,9,abril,4,11,20,32000,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,11,0,0,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,11,6,9600,Regular,lento,26/08/2017
+no,9,julio,7,11,17,27200,Regular,tarado,26/08/2017
+no,9,agosto,8,11,5,8000,Malo,lento,26/08/2017
+no,9,septiembre,9,11,20,32000,Regular,despistado,26/08/2017
+no,9,enero,1,12,0,0,Malo,pesimo,26/08/2017
+no,9,febrero,2,12,12,19200,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,12,9,14400,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,12,18,28800,Regular,lento,26/08/2017
+no,9,mayo,5,12,1,1600,Regular,tarado,26/08/2017
+no,9,junio,6,12,12,19200,Regular,despistado,26/08/2017
+no,9,julio,7,12,8,12800,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,12,9,14400,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,12,1,1600,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,13,14,22400,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,13,1,1600,Regular,lento,26/08/2017
+no,9,marzo,3,13,17,27200,Regular,tarado,26/08/2017
+no,9,abril,4,13,11,17600,Regular,despistado,26/08/2017
+no,9,mayo,5,13,3,4800,Regular,despistado tardado,26/08/2017
+no,9,junio,6,13,1,1600,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,13,5,8000,Regular,lento,26/08/2017
+no,9,agosto,8,13,8,12800,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,13,4,6400,Regular,tarado,26/08/2017
+no,9,enero,1,14,6,9600,Malo,grosero,26/08/2017
+no,9,febrero,2,14,10,16000,Regular,despistado,26/08/2017
+no,9,marzo,3,14,10,16000,Regular,despistado tardado,26/08/2017
+no,9,abril,4,14,3,4800,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,14,6,9600,Regular,lento,26/08/2017
+no,9,junio,6,14,5,8000,Regular,tarado,26/08/2017
+no,9,julio,7,14,20,32000,Regular,despistado,26/08/2017
+no,9,agosto,8,14,3,4800,Malo,lento,26/08/2017
+no,9,septiembre,9,14,16,25600,Regular,despistado tardado,26/08/2017
+no,9,enero,1,15,13,20800,Malo,pesimo,26/08/2017
+no,9,febrero,2,15,17,27200,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,15,8,12800,Regular,lento,26/08/2017
+no,9,abril,4,15,15,24000,Regular,tarado,26/08/2017
+no,9,mayo,5,15,3,4800,Regular,despistado,26/08/2017
+no,9,junio,6,15,10,16000,Regular,despistado tardado,26/08/2017
+no,9,julio,7,15,4,6400,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,15,1,1600,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,15,8,12800,Regular,lento,26/08/2017
+no,9,enero,1,16,9,14400,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,16,7,11200,Regular,tarado,26/08/2017
+no,9,marzo,3,16,4,6400,Regular,despistado,26/08/2017
+no,9,abril,4,16,17,27200,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,16,3,4800,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,16,19,30400,Regular,lento,26/08/2017
+no,9,julio,7,16,17,27200,Regular,tarado,26/08/2017
+no,9,agosto,8,16,14,22400,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,16,1,1600,Regular,despistado,26/08/2017
+no,9,enero,1,17,2,3200,Malo,grosero,26/08/2017
+no,9,febrero,2,17,4,6400,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,17,13,20800,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,17,18,28800,Regular,lento,26/08/2017
+no,9,mayo,5,17,10,16000,Regular,tarado,26/08/2017
+no,9,junio,6,17,6,9600,Regular,despistado,26/08/2017
+no,9,julio,7,17,18,28800,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,17,4,6400,Malo,lento,26/08/2017
+no,9,septiembre,9,17,2,3200,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,18,3,4800,Malo,pesimo,26/08/2017
+no,9,febrero,2,18,11,17600,Regular,lento,26/08/2017
+no,9,marzo,3,18,6,9600,Regular,tarado,26/08/2017
+no,9,abril,4,18,16,25600,Regular,despistado,26/08/2017
+no,9,mayo,5,18,6,9600,Regular,despistado tardado,26/08/2017
+no,9,junio,6,18,20,32000,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,18,12,19200,Regular,lento,26/08/2017
+no,9,agosto,8,18,16,25600,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,18,11,17600,Regular,tarado,26/08/2017
+no,9,enero,1,19,17,27200,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,19,6,9600,Regular,despistado,26/08/2017
+no,9,marzo,3,19,14,22400,Regular,despistado tardado,26/08/2017
+no,9,abril,4,19,11,17600,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,19,17,27200,Regular,lento,26/08/2017
+no,9,junio,6,19,12,19200,Regular,tarado,26/08/2017
+no,9,julio,7,19,15,24000,Regular,despistado,26/08/2017
+no,9,agosto,8,19,17,27200,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,19,2,3200,Regular,despistado tardado,26/08/2017
+no,9,enero,1,20,13,20800,Malo,grosero,26/08/2017
+no,9,febrero,2,20,0,0,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,20,4,6400,Regular,lento,26/08/2017
+no,9,abril,4,20,14,22400,Regular,tarado,26/08/2017
+no,9,mayo,5,20,19,30400,Regular,despistado,26/08/2017
+no,9,junio,6,20,0,0,Regular,despistado tardado,26/08/2017
+no,9,julio,7,20,8,12800,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,20,4,6400,Malo,lento,26/08/2017
+no,9,septiembre,9,20,12,19200,Regular,lento,26/08/2017
+no,9,enero,1,21,20,32000,Malo,pesimo,26/08/2017
+no,9,febrero,2,21,13,20800,Regular,tarado,26/08/2017
+no,9,marzo,3,21,11,17600,Regular,despistado,26/08/2017
+no,9,abril,4,21,8,12800,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,21,11,17600,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,21,15,24000,Regular,lento,26/08/2017
+no,9,julio,7,21,20,32000,Regular,tarado,26/08/2017
+no,9,agosto,8,21,16,25600,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,21,8,12800,Regular,despistado,26/08/2017
+no,9,enero,1,22,6,9600,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,22,5,8000,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,22,4,6400,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,22,7,11200,Regular,lento,26/08/2017
+no,9,mayo,5,22,4,6400,Regular,tarado,26/08/2017
+no,9,junio,6,22,2,3200,Regular,despistado,26/08/2017
+no,9,julio,7,22,4,6400,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,22,11,17600,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,22,12,19200,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,23,4,6400,Malo,grosero,26/08/2017
+no,9,febrero,2,23,9,14400,Regular,lento,26/08/2017
+no,9,marzo,3,23,6,9600,Regular,tarado,26/08/2017
+no,9,abril,4,23,9,14400,Regular,despistado,26/08/2017
+no,9,mayo,5,23,0,0,Regular,despistado tardado,26/08/2017
+no,9,junio,6,23,18,28800,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,23,0,0,Regular,lento,26/08/2017
+no,9,agosto,8,23,17,27200,Malo,lento,26/08/2017
+no,9,septiembre,9,23,13,20800,Regular,tarado,26/08/2017
+no,9,enero,1,24,7,11200,Malo,pesimo,26/08/2017
+no,9,febrero,2,24,13,20800,Regular,despistado,26/08/2017
+no,9,marzo,3,24,12,19200,Regular,despistado tardado,26/08/2017
+no,9,abril,4,24,7,11200,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,24,0,0,Regular,lento,26/08/2017
+no,9,junio,6,24,9,14400,Regular,tarado,26/08/2017
+no,9,julio,7,24,16,25600,Regular,despistado,26/08/2017
+no,9,agosto,8,24,2,3200,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,24,2,3200,Regular,despistado tardado,26/08/2017
+no,9,enero,1,25,10,16000,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,25,11,17600,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,25,11,17600,Regular,lento,26/08/2017
+no,9,abril,4,25,9,14400,Regular,tarado,26/08/2017
+no,9,mayo,5,25,14,22400,Regular,despistado,26/08/2017
+no,9,junio,6,25,18,28800,Regular,despistado tardado,26/08/2017
+no,9,julio,7,25,18,28800,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,25,0,0,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,25,10,16000,Regular,lento,26/08/2017
+no,9,enero,1,26,18,28800,Malo,grosero,26/08/2017
+no,9,febrero,2,26,5,8000,Regular,tarado,26/08/2017
+no,9,marzo,3,26,13,20800,Regular,despistado,26/08/2017
+no,9,abril,4,26,15,24000,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,26,12,19200,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,26,9,14400,Regular,lento,26/08/2017
+no,9,julio,7,26,15,24000,Regular,tarado,26/08/2017
+no,9,agosto,8,26,3,4800,Malo,lento,26/08/2017
+no,9,septiembre,9,26,5,8000,Regular,despistado,26/08/2017
+no,9,enero,1,27,4,6400,Malo,pesimo,26/08/2017
+no,9,febrero,2,27,14,22400,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,27,3,4800,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,27,5,8000,Regular,lento,26/08/2017
+no,9,mayo,5,27,8,12800,Regular,tarado,26/08/2017
+no,9,junio,6,27,6,9600,Regular,despistado,26/08/2017
+no,9,julio,7,27,7,11200,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,27,4,6400,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,27,4,6400,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,28,15,24000,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,28,13,20800,Regular,lento,26/08/2017
+no,9,marzo,3,28,4,6400,Regular,tarado,26/08/2017
+no,9,abril,4,28,5,8000,Regular,despistado,26/08/2017
+no,9,mayo,5,28,19,30400,Regular,despistado tardado,26/08/2017
+no,9,junio,6,28,8,12800,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,28,5,8000,Regular,lento,26/08/2017
+no,9,agosto,8,28,0,0,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,28,15,24000,Regular,tarado,26/08/2017
+no,9,enero,1,29,7,11200,Malo,grosero,26/08/2017
+no,9,febrero,2,29,19,30400,Regular,despistado,26/08/2017
+no,9,marzo,3,29,9,14400,Regular,despistado tardado,26/08/2017
+no,9,abril,4,29,0,0,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,29,12,19200,Regular,lento,26/08/2017
+no,9,junio,6,29,13,20800,Regular,tarado,26/08/2017
+no,9,julio,7,29,5,8000,Regular,despistado,26/08/2017
+no,9,agosto,8,29,11,17600,Malo,lento,26/08/2017
+no,9,septiembre,9,29,20,32000,Regular,despistado tardado,26/08/2017
+no,9,enero,1,30,5,8000,Malo,pesimo,26/08/2017
+no,9,febrero,2,30,14,22400,Regular,lento servicial amigable,26/08/2017
+no,9,marzo,3,30,17,27200,Regular,lento,26/08/2017
+no,9,abril,4,30,7,11200,Regular,tarado,26/08/2017
+no,9,mayo,5,30,20,32000,Regular,despistado,26/08/2017
+no,9,junio,6,30,12,19200,Regular,despistado tardado,26/08/2017
+no,9,julio,7,30,8,12800,Regular,lento servicial amigable,26/08/2017
+no,9,agosto,8,30,5,8000,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,30,14,22400,Regular,lento,26/08/2017
+no,9,enero,1,31,13,20800,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,31,14,22400,Regular,tarado,26/08/2017
+no,9,marzo,3,31,18,28800,Regular,despistado,26/08/2017
+no,9,abril,4,31,2,3200,Regular,despistado tardado,26/08/2017
+no,9,mayo,5,31,15,24000,Regular,lento servicial amigable,26/08/2017
+no,9,junio,6,31,11,17600,Regular,lento,26/08/2017
+no,9,julio,7,31,4,6400,Regular,tarado,26/08/2017
+no,9,agosto,8,31,14,22400,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,31,2,3200,Regular,despistado,26/08/2017
+no,9,enero,1,32,13,20800,Malo,grosero,26/08/2017
+no,9,febrero,2,32,3,4800,Regular,despistado tardado,26/08/2017
+no,9,marzo,3,32,17,27200,Regular,lento servicial amigable,26/08/2017
+no,9,abril,4,32,0,0,Regular,lento,26/08/2017
+no,9,mayo,5,32,0,0,Regular,tarado,26/08/2017
+no,9,junio,6,32,15,24000,Regular,despistado,26/08/2017
+no,9,julio,7,32,18,28800,Regular,despistado tardado,26/08/2017
+no,9,agosto,8,32,8,12800,Malo,lento,26/08/2017
+no,9,septiembre,9,32,17,27200,Regular,lento servicial amigable,26/08/2017
+no,9,enero,1,33,19,30400,Malo,pesimo,26/08/2017
+no,9,febrero,2,33,3,4800,Regular,lento,26/08/2017
+no,9,marzo,3,33,19,30400,Regular,tarado,26/08/2017
+no,9,abril,4,33,11,17600,Regular,despistado,26/08/2017
+no,9,mayo,5,33,15,24000,Regular,despistado tardado,26/08/2017
+no,9,junio,6,33,2,3200,Regular,lento servicial amigable,26/08/2017
+no,9,julio,7,33,10,16000,Regular,lento,26/08/2017
+no,9,agosto,8,33,9,14400,Malo,desconsiderado,26/08/2017
+no,9,septiembre,9,33,4,6400,Regular,tarado,26/08/2017
+no,9,enero,1,34,16,25600,Malo,maleducado desconsiderado,26/08/2017
+no,9,febrero,2,34,1,1600,Regular,despistado,26/08/2017
+no,9,marzo,3,34,16,25600,Regular,despistado tardado,26/08/2017
+no,9,abril,4,34,17,27200,Regular,lento servicial amigable,26/08/2017
+no,9,mayo,5,34,14,22400,Regular,lento,26/08/2017
+no,9,junio,6,34,9,14400,Regular,tarado,26/08/2017
+no,9,julio,7,34,5,8000,Regular,despistado,26/08/2017
+no,9,agosto,8,34,19,30400,Malo,indiscreto grosero,26/08/2017
+no,9,septiembre,9,34,0,0,Regular,despistado tardado,26/08/2017
+si,10,enero,1,1,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,1,14,22400,Regular,lento,17/05/2010
+si,10,marzo,3,1,17,27200,Regular,tarado,17/05/2010
+si,10,abril,4,1,20,32000,Regular,despistado,17/05/2010
+si,10,mayo,5,1,16,25600,Regular,despistado tardado,17/05/2010
+si,10,junio,6,1,13,20800,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,1,1,1600,Regular,lento,17/05/2010
+si,10,agosto,8,1,0,0,Regular,tarado,17/05/2010
+si,10,septiembre,9,1,2,3200,Regular,despistado,17/05/2010
+si,10,enero,1,2,9,14400,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,2,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,2,13,20800,Regular,lento,17/05/2010
+si,10,abril,4,2,12,19200,Regular,tarado,17/05/2010
+si,10,mayo,5,2,18,28800,Regular,despistado,17/05/2010
+si,10,junio,6,2,1,1600,Regular,despistado tardado,17/05/2010
+si,10,julio,7,2,7,11200,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,2,19,30400,Regular,lento,17/05/2010
+si,10,septiembre,9,2,15,24000,Regular,tarado,17/05/2010
+si,10,enero,1,3,17,27200,Regular,despistado,17/05/2010
+si,10,febrero,2,3,13,20800,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,3,10,16000,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,3,9,14400,Regular,lento,17/05/2010
+si,10,mayo,5,3,10,16000,Regular,tarado,17/05/2010
+si,10,junio,6,3,16,25600,Regular,despistado,17/05/2010
+si,10,julio,7,3,15,24000,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,3,8,12800,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,3,20,32000,Regular,lento,17/05/2010
+si,10,enero,1,4,7,11200,Regular,tarado,17/05/2010
+si,10,febrero,2,4,17,27200,Regular,despistado,17/05/2010
+si,10,marzo,3,4,10,16000,Regular,despistado tardado,17/05/2010
+si,10,abril,4,4,17,27200,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,4,1,1600,Regular,lento,17/05/2010
+si,10,junio,6,4,2,3200,Regular,tarado,17/05/2010
+si,10,julio,7,4,6,9600,Regular,despistado,17/05/2010
+si,10,agosto,8,4,1,1600,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,4,9,14400,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,5,4,6400,Regular,lento,17/05/2010
+si,10,febrero,2,5,2,3200,Regular,tarado,17/05/2010
+si,10,marzo,3,5,6,9600,Regular,despistado,17/05/2010
+si,10,abril,4,5,3,4800,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,5,0,0,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,5,16,25600,Regular,lento,17/05/2010
+si,10,julio,7,5,7,11200,Regular,tarado,17/05/2010
+si,10,agosto,8,5,10,16000,Regular,despistado,17/05/2010
+si,10,septiembre,9,5,1,1600,Regular,despistado tardado,17/05/2010
+si,10,enero,1,6,8,12800,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,6,6,9600,Regular,lento,17/05/2010
+si,10,marzo,3,6,11,17600,Regular,tarado,17/05/2010
+si,10,abril,4,6,18,28800,Regular,despistado,17/05/2010
+si,10,mayo,5,6,2,3200,Regular,despistado tardado,17/05/2010
+si,10,junio,6,6,13,20800,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,6,16,25600,Regular,lento,17/05/2010
+si,10,agosto,8,6,4,6400,Regular,tarado,17/05/2010
+si,10,septiembre,9,6,8,12800,Regular,despistado,17/05/2010
+si,10,enero,1,7,18,28800,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,7,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,7,8,12800,Regular,lento,17/05/2010
+si,10,abril,4,7,20,32000,Regular,tarado,17/05/2010
+si,10,mayo,5,7,0,0,Regular,despistado,17/05/2010
+si,10,junio,6,7,13,20800,Regular,despistado tardado,17/05/2010
+si,10,julio,7,7,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,7,19,30400,Regular,lento,17/05/2010
+si,10,septiembre,9,7,3,4800,Regular,tarado,17/05/2010
+si,10,enero,1,8,9,14400,Regular,despistado,17/05/2010
+si,10,febrero,2,8,17,27200,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,8,6,9600,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,8,1,1600,Regular,lento,17/05/2010
+si,10,mayo,5,8,10,16000,Regular,tarado,17/05/2010
+si,10,junio,6,8,15,24000,Regular,despistado,17/05/2010
+si,10,julio,7,8,13,20800,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,8,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,8,12,19200,Regular,lento,17/05/2010
+si,10,enero,1,9,12,19200,Regular,tarado,17/05/2010
+si,10,febrero,2,9,11,17600,Regular,despistado,17/05/2010
+si,10,marzo,3,9,20,32000,Regular,despistado tardado,17/05/2010
+si,10,abril,4,9,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,9,5,8000,Regular,lento,17/05/2010
+si,10,junio,6,9,4,6400,Regular,tarado,17/05/2010
+si,10,julio,7,9,13,20800,Regular,despistado,17/05/2010
+si,10,agosto,8,9,4,6400,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,9,7,11200,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,10,2,3200,Regular,lento,17/05/2010
+si,10,febrero,2,10,12,19200,Regular,tarado,17/05/2010
+si,10,marzo,3,10,1,1600,Regular,despistado,17/05/2010
+si,10,abril,4,10,19,30400,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,10,8,12800,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,10,7,11200,Regular,lento,17/05/2010
+si,10,julio,7,10,6,9600,Regular,tarado,17/05/2010
+si,10,agosto,8,10,15,24000,Regular,despistado,17/05/2010
+si,10,septiembre,9,10,15,24000,Regular,despistado tardado,17/05/2010
+si,10,enero,1,11,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,11,17,27200,Regular,lento,17/05/2010
+si,10,marzo,3,11,17,27200,Regular,tarado,17/05/2010
+si,10,abril,4,11,0,0,Regular,despistado,17/05/2010
+si,10,mayo,5,11,10,16000,Regular,despistado tardado,17/05/2010
+si,10,junio,6,11,0,0,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,11,0,0,Regular,lento,17/05/2010
+si,10,agosto,8,11,15,24000,Regular,tarado,17/05/2010
+si,10,septiembre,9,11,6,9600,Regular,despistado,17/05/2010
+si,10,enero,1,12,7,11200,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,12,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,12,10,16000,Regular,lento,17/05/2010
+si,10,abril,4,12,13,20800,Regular,tarado,17/05/2010
+si,10,mayo,5,12,5,8000,Regular,despistado,17/05/2010
+si,10,junio,6,12,12,19200,Regular,despistado tardado,17/05/2010
+si,10,julio,7,12,3,4800,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,12,10,16000,Regular,lento,17/05/2010
+si,10,septiembre,9,12,11,17600,Regular,tarado,17/05/2010
+si,10,enero,1,13,18,28800,Regular,despistado,17/05/2010
+si,10,febrero,2,13,17,27200,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,13,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,13,1,1600,Regular,lento,17/05/2010
+si,10,mayo,5,13,17,27200,Regular,tarado,17/05/2010
+si,10,junio,6,13,19,30400,Regular,despistado,17/05/2010
+si,10,julio,7,13,7,11200,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,13,4,6400,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,13,16,25600,Regular,lento,17/05/2010
+si,10,enero,1,14,1,1600,Regular,tarado,17/05/2010
+si,10,febrero,2,14,11,17600,Regular,despistado,17/05/2010
+si,10,marzo,3,14,4,6400,Regular,despistado tardado,17/05/2010
+si,10,abril,4,14,6,9600,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,14,8,12800,Regular,lento,17/05/2010
+si,10,junio,6,14,1,1600,Regular,tarado,17/05/2010
+si,10,julio,7,14,3,4800,Regular,despistado,17/05/2010
+si,10,agosto,8,14,10,16000,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,14,18,28800,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,15,10,16000,Regular,lento,17/05/2010
+si,10,febrero,2,15,0,0,Regular,tarado,17/05/2010
+si,10,marzo,3,15,19,30400,Regular,despistado,17/05/2010
+si,10,abril,4,15,15,24000,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,15,6,9600,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,15,19,30400,Regular,lento,17/05/2010
+si,10,julio,7,15,14,22400,Regular,tarado,17/05/2010
+si,10,agosto,8,15,8,12800,Regular,despistado,17/05/2010
+si,10,septiembre,9,15,15,24000,Regular,despistado tardado,17/05/2010
+si,10,enero,1,16,11,17600,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,16,3,4800,Regular,lento,17/05/2010
+si,10,marzo,3,16,16,25600,Regular,tarado,17/05/2010
+si,10,abril,4,16,12,19200,Regular,despistado,17/05/2010
+si,10,mayo,5,16,3,4800,Regular,despistado tardado,17/05/2010
+si,10,junio,6,16,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,16,16,25600,Regular,lento,17/05/2010
+si,10,agosto,8,16,7,11200,Regular,tarado,17/05/2010
+si,10,septiembre,9,16,0,0,Regular,despistado,17/05/2010
+si,10,enero,1,17,3,4800,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,17,2,3200,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,17,5,8000,Regular,lento,17/05/2010
+si,10,abril,4,17,6,9600,Regular,tarado,17/05/2010
+si,10,mayo,5,17,6,9600,Regular,despistado,17/05/2010
+si,10,junio,6,17,8,12800,Regular,despistado tardado,17/05/2010
+si,10,julio,7,17,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,17,2,3200,Regular,lento,17/05/2010
+si,10,septiembre,9,17,7,11200,Regular,tarado,17/05/2010
+si,10,enero,1,18,2,3200,Regular,despistado,17/05/2010
+si,10,febrero,2,18,14,22400,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,18,2,3200,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,18,20,32000,Regular,lento,17/05/2010
+si,10,mayo,5,18,6,9600,Regular,tarado,17/05/2010
+si,10,junio,6,18,14,22400,Regular,despistado,17/05/2010
+si,10,julio,7,18,13,20800,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,18,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,18,15,24000,Regular,lento,17/05/2010
+si,10,enero,1,19,10,16000,Regular,tarado,17/05/2010
+si,10,febrero,2,19,10,16000,Regular,despistado,17/05/2010
+si,10,marzo,3,19,13,20800,Regular,despistado tardado,17/05/2010
+si,10,abril,4,19,11,17600,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,19,6,9600,Regular,lento,17/05/2010
+si,10,junio,6,19,9,14400,Regular,tarado,17/05/2010
+si,10,julio,7,19,8,12800,Regular,despistado,17/05/2010
+si,10,agosto,8,19,1,1600,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,19,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,20,6,9600,Regular,lento,17/05/2010
+si,10,febrero,2,20,9,14400,Regular,tarado,17/05/2010
+si,10,marzo,3,20,3,4800,Regular,despistado,17/05/2010
+si,10,abril,4,20,9,14400,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,20,13,20800,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,20,18,28800,Regular,lento,17/05/2010
+si,10,julio,7,20,19,30400,Regular,tarado,17/05/2010
+si,10,agosto,8,20,14,22400,Regular,despistado,17/05/2010
+si,10,septiembre,9,20,14,22400,Regular,despistado tardado,17/05/2010
+si,10,enero,1,21,12,19200,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,21,0,0,Regular,lento,17/05/2010
+si,10,marzo,3,21,8,12800,Regular,tarado,17/05/2010
+si,10,abril,4,21,9,14400,Regular,despistado,17/05/2010
+si,10,mayo,5,21,10,16000,Regular,despistado tardado,17/05/2010
+si,10,junio,6,21,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,21,6,9600,Regular,lento,17/05/2010
+si,10,agosto,8,21,0,0,Regular,tarado,17/05/2010
+si,10,septiembre,9,21,7,11200,Regular,despistado,17/05/2010
+si,10,enero,1,22,17,27200,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,22,17,27200,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,22,14,22400,Regular,lento,17/05/2010
+si,10,abril,4,22,9,14400,Regular,tarado,17/05/2010
+si,10,mayo,5,22,15,24000,Regular,despistado,17/05/2010
+si,10,junio,6,22,17,27200,Regular,despistado tardado,17/05/2010
+si,10,julio,7,22,12,19200,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,22,0,0,Regular,lento,17/05/2010
+si,10,septiembre,9,22,9,14400,Regular,tarado,17/05/2010
+si,10,enero,1,23,10,16000,Regular,despistado,17/05/2010
+si,10,febrero,2,23,5,8000,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,23,1,1600,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,23,1,1600,Regular,lento,17/05/2010
+si,10,mayo,5,23,20,32000,Regular,tarado,17/05/2010
+si,10,junio,6,23,13,20800,Regular,despistado,17/05/2010
+si,10,julio,7,23,5,8000,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,23,14,22400,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,23,2,3200,Regular,lento,17/05/2010
+si,10,enero,1,24,16,25600,Regular,tarado,17/05/2010
+si,10,febrero,2,24,6,9600,Regular,despistado,17/05/2010
+si,10,marzo,3,24,12,19200,Regular,despistado tardado,17/05/2010
+si,10,abril,4,24,11,17600,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,24,0,0,Regular,lento,17/05/2010
+si,10,junio,6,24,12,19200,Regular,tarado,17/05/2010
+si,10,julio,7,24,15,24000,Regular,despistado,17/05/2010
+si,10,agosto,8,24,2,3200,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,24,4,6400,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,25,15,24000,Regular,lento,17/05/2010
+si,10,febrero,2,25,0,0,Regular,tarado,17/05/2010
+si,10,marzo,3,25,3,4800,Regular,despistado,17/05/2010
+si,10,abril,4,25,13,20800,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,25,14,22400,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,25,20,32000,Regular,lento,17/05/2010
+si,10,julio,7,25,0,0,Regular,tarado,17/05/2010
+si,10,agosto,8,25,12,19200,Regular,despistado,17/05/2010
+si,10,septiembre,9,25,13,20800,Regular,despistado tardado,17/05/2010
+si,10,enero,1,26,12,19200,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,26,15,24000,Regular,lento,17/05/2010
+si,10,marzo,3,26,13,20800,Regular,tarado,17/05/2010
+si,10,abril,4,26,2,3200,Regular,despistado,17/05/2010
+si,10,mayo,5,26,3,4800,Regular,despistado tardado,17/05/2010
+si,10,junio,6,26,14,22400,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,26,19,30400,Regular,lento,17/05/2010
+si,10,agosto,8,26,2,3200,Regular,tarado,17/05/2010
+si,10,septiembre,9,26,3,4800,Regular,despistado,17/05/2010
+si,10,enero,1,27,7,11200,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,27,8,12800,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,27,5,8000,Regular,lento,17/05/2010
+si,10,abril,4,27,2,3200,Regular,tarado,17/05/2010
+si,10,mayo,5,27,20,32000,Regular,despistado,17/05/2010
+si,10,junio,6,27,8,12800,Regular,despistado tardado,17/05/2010
+si,10,julio,7,27,14,22400,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,27,15,24000,Regular,lento,17/05/2010
+si,10,septiembre,9,27,0,0,Regular,tarado,17/05/2010
+si,10,enero,1,28,9,14400,Regular,despistado,17/05/2010
+si,10,febrero,2,28,4,6400,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,28,9,14400,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,28,17,27200,Regular,lento,17/05/2010
+si,10,mayo,5,28,6,9600,Regular,tarado,17/05/2010
+si,10,junio,6,28,17,27200,Regular,despistado,17/05/2010
+si,10,julio,7,28,8,12800,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,28,3,4800,Regular,lento servicial amigable,17/05/2010
+si,10,septiembre,9,28,3,4800,Regular,lento,17/05/2010
+si,10,enero,1,29,15,24000,Regular,tarado,17/05/2010
+si,10,febrero,2,29,6,9600,Regular,despistado,17/05/2010
+si,10,marzo,3,29,5,8000,Regular,despistado tardado,17/05/2010
+si,10,abril,4,29,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,mayo,5,29,7,11200,Regular,lento,17/05/2010
+si,10,junio,6,29,18,28800,Regular,tarado,17/05/2010
+si,10,julio,7,29,2,3200,Regular,despistado,17/05/2010
+si,10,agosto,8,29,4,6400,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,29,11,17600,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,30,14,22400,Regular,lento,17/05/2010
+si,10,febrero,2,30,10,16000,Regular,tarado,17/05/2010
+si,10,marzo,3,30,11,17600,Regular,despistado,17/05/2010
+si,10,abril,4,30,16,25600,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,30,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,30,11,17600,Regular,lento,17/05/2010
+si,10,julio,7,30,11,17600,Regular,tarado,17/05/2010
+si,10,agosto,8,30,7,11200,Regular,despistado,17/05/2010
+si,10,septiembre,9,30,20,32000,Regular,despistado tardado,17/05/2010
+si,10,enero,1,31,15,24000,Regular,lento servicial amigable,17/05/2010
+si,10,febrero,2,31,3,4800,Regular,lento,17/05/2010
+si,10,marzo,3,31,4,6400,Regular,tarado,17/05/2010
+si,10,abril,4,31,19,30400,Regular,despistado,17/05/2010
+si,10,mayo,5,31,8,12800,Regular,despistado tardado,17/05/2010
+si,10,junio,6,31,8,12800,Regular,lento servicial amigable,17/05/2010
+si,10,julio,7,31,4,6400,Regular,lento,17/05/2010
+si,10,agosto,8,31,13,20800,Regular,tarado,17/05/2010
+si,10,septiembre,9,31,0,0,Regular,despistado,17/05/2010
+si,10,enero,1,32,19,30400,Regular,despistado tardado,17/05/2010
+si,10,febrero,2,32,4,6400,Regular,lento servicial amigable,17/05/2010
+si,10,marzo,3,32,3,4800,Regular,lento,17/05/2010
+si,10,abril,4,32,17,27200,Regular,tarado,17/05/2010
+si,10,mayo,5,32,3,4800,Regular,despistado,17/05/2010
+si,10,junio,6,32,14,22400,Regular,despistado tardado,17/05/2010
+si,10,julio,7,32,19,30400,Regular,lento servicial amigable,17/05/2010
+si,10,agosto,8,32,10,16000,Regular,lento,17/05/2010
+si,10,septiembre,9,32,8,12800,Regular,tarado,17/05/2010
+si,10,enero,1,33,10,16000,Regular,despistado,17/05/2010
+si,10,febrero,2,33,15,24000,Regular,despistado tardado,17/05/2010
+si,10,marzo,3,33,20,32000,Regular,lento servicial amigable,17/05/2010
+si,10,abril,4,33,13,20800,Regular,lento,17/05/2010
+si,10,mayo,5,33,5,8000,Regular,tarado,17/05/2010
+si,10,junio,6,33,19,30400,Regular,despistado,17/05/2010
+si,10,julio,7,33,6,9600,Regular,despistado tardado,17/05/2010
+si,10,agosto,8,33,3,4800,Regular,despistado tardado,17/05/2010
+si,10,septiembre,9,33,1,1600,Regular,lento servicial amigable,17/05/2010
+si,10,enero,1,34,12,19200,Regular,lento,17/05/2010
+si,10,febrero,2,34,8,12800,Regular,tarado,17/05/2010
+si,10,marzo,3,34,10,16000,Regular,despistado,17/05/2010
+si,10,abril,4,34,6,9600,Regular,despistado tardado,17/05/2010
+si,10,mayo,5,34,14,22400,Regular,lento servicial amigable,17/05/2010
+si,10,junio,6,34,17,27200,Regular,lento,17/05/2010
+si,10,julio,7,34,5,8000,Regular,tarado,17/05/2010
+si,10,agosto,8,34,0,0,Regular,despistado,17/05/2010
+si,10,septiembre,9,34,0,0,Regular,despistado tardado,17/05/2010
